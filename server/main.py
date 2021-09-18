@@ -9,6 +9,11 @@ app.config["DEBUG"] = True
 def home():
     return 'StockClock API v1'.encode()
 
+@app.route('/', methods=['GET'])
+def stockprices():
+    results = {}
+    pass
+
 @app.route('/argument-test', methods=['GET'])
 def argtest():
     results = {}
