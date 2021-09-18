@@ -27,8 +27,6 @@ def code(company):
             continue
         temp +=1
 
-        f = open(f"./corpus_{company}/{temp}_reddit.txt", 'w', encoding='utf-8')
-        f.write(i.selftext)
-        f.close()
-
-code("apple")
+    f = open(f"./server/helper/corpus/{temp}_reddit.txt", 'w', encoding='utf-8')
+    f.write(i.selftext)
+    f.close()

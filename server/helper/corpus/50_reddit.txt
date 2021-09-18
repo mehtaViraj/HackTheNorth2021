@@ -1,0 +1,75 @@
+A recurring theme over the past year has been one ‘expert’ after another bashing index funds calling them a massive bubble that is waiting to pop.   
+
+[ ](https://i.redd.it/z8f8yutkpvl71.gif)
+
+>Could Index Funds Be ‘Worse Than Marxism’? – [The Atlantic](https://www.theatlantic.com/ideas/archive/2021/04/the-autopilot-economy/618497/)  
+>  
+>This \[index funds\] is very much like the bubble in synthetic asset-backed CDOs before the Great Financial Crisis. It will be the Greatest Speculative Bubble of All Time in All Things – [Michael Burry](https://www.cnbc.com/2019/09/04/the-big-shorts-michael-burry-says-he-has-found-the-next-market-bubble.html)  
+>  
+>Is Passive Investment Actively Hurting the Economy? - [The New Yorker](https://www.newyorker.com/business/currency/is-passive-investment-actively-hurting-the-economy)
+
+But at the same time, we have investors like Warren Buffet who still swear by a low-cost index fund and recommends it over his own Berkshire Hathaway stock! So, in this week’s issue, we analyze both sides of the argument and see if we \[1\] should be worried about the index fund bubble!
+
+**The Problem**
+
+The argument against the index fund is a logical one. The basic premise is that index funds affect the price discovery of stocks in the market. If a stock is bid up just based on the presence in an index and not by analyzing the underlying asset, then it can lead to a bubble-like scenario where you are buying more and more just because the asset prices are going up.
+
+[ ](https://preview.redd.it/a04wyrgmpvl71.png?width=1260&format=png&auto=webp&s=1693f22d16deb337345e5accb8f360de959707a7)
+
+If you look at the above chart, you could see that in the first 4 months of 2021, a fund inflow of more than $20 Billion occurred just to the Vanguard 500 index fund. There are arguments stating that in the US, index funds make up [more than 50% of the fund market.](https://www.theatlantic.com/ideas/archive/2021/04/the-autopilot-economy/618497/) (This exponential growth is not a surprising one given my last analysis showed that passive funds have summarily beaten active funds over the last 2 decades)
+
+If you think about this, more than half of the money that is flowing into the market is now just buying stocks that are on an index without doing any underlying stock analysis. The problem becomes that companies get more and more investment just because they are big and not because of their future growth prospects. So the question becomes
+
+**Is the index fund affecting the integrity of the stock market?**
+
+The problem with the fund inflow statistics is that stock price is not decided solely based on fund inflow but majorly by trading.
+
+[ ](https://preview.redd.it/cjlyt4unpvl71.png?width=629&format=png&auto=webp&s=67be6be3b3604712dd017a823da8aee69116019e)
+
+If you look at this [study done by Vanguard](https://personal.vanguard.com/pdf/ISGBEL.pdf) \[2,3\], it destroys the price discovery argument. It shows that only 5% of the overall trading volume is captured by index funds. The rest of 95% of trading is made by active traders, pension funds, and institutional investors who do individual stock analyses.
+
+Adding to this, even if the index funds become large enough to create significant price distortions, it’s something that the active fund managers can benefit from as it would give them more opportunities to short overvalued companies and create outsized returns. The fact that it’s not happening right now shows that we are not anywhere near a situation where the index fund is big enough to fundamentally alter the market\[4\].
+
+Now that we know that index funds are not causing any price distortions, one has to wonder
+
+**why there is a sudden rise in concerns regarding an index fund bubble over the past 2-3 years?**
+
+I believe that this issue is being brought up by institutions and active fund managers as there is a drastic shift from active to passive management over the last few years.
+
+[ ](https://preview.redd.it/pq1b3fbppvl71.png?width=713&format=png&auto=webp&s=699fc8dd9d5f2dee76f47e6f02763c8b352084b6)
+
+The above chart from Morningstar showcases that active funds on average lost more than $150B every year over the 2014-18 period and this trend is only becoming worse for the active funds. This trend is also replicated worldwide with more than $300B is pulled out of active funds and $500B is pushed into index funds every year (as of 2016).
+
+Finally, as of 2019, for the first time, more money is being pushed into passive than active funds! All of this must be ringing alarm bells across active funds as their income is directly dependent on the total asset under management.
+
+**Alternatives to index funds**
+
+While researching this topic, I came across some genuine concerns about index funds. The most important of them being that you might not be as diversified as you expect investing in an index fund.
+
+As of Aug 2021, the top 5 tech stocks (AAPL, MSFT, GOOGL, AMZN & FB) account for more than 23% of the S&P500! While this worked out great for the overall index over that last decade given the tech rally, any long-term downturn for tech stocks will significantly affect your portfolio.
+
+There are two alternatives that I found to the regular market cap based index fund allocation
+
+[Equal-weighted index funds](https://www.lynalden.com/equal-weighted-index-funds/): Equal-weighted index fund allocates your capital equally across the stocks in the given index. For Eg. in S&P500 index, all the 500 companies would get an equal proportion of your index. This will avoid your portfolio becoming concentrated on a few highly overvalued stocks!
+
+[ ](https://preview.redd.it/ikn5px2rpvl71.png?width=615&format=png&auto=webp&s=ff145127fe86a728e0ebd0663d8566341163aa3a)
+
+[Reverse weighted index funds:](https://www.etftrends.com/smart-beta-channel/an-etf-that-beats-sp-500-by-turning-it-upside-down/) This one is for the more adventurous, where the investments are made by turning S&P500 upside down on its head! The smallest companies on the list get the largest share of investment! Even though this reduces your exposure to large tech stocks and blue-chip companies (which get a lot of attention and is possibly overvalued), your investments will be concentrated on smaller companies that are inherently volatile and can produce outsized returns! Even though this strategy has beaten the traditional index returns, you still have to consider that this type of fund was introduced [just two years ago](https://www.barrons.com/articles/sp-500-index-fund-reverse-weighting-51557430544).
+
+**Conclusion**
+
+I believe that the index fund bubble narrative is over-blown and is being predominantly driven active fund managers who are trying to stop losing their business to the passive funds every year. All the data from our research shows that we are nowhere near a situation where index funds can alter the price discovery in any significant way!
+
+While the index fund bubble might be getting undeserved attention, it's always a good thing to check if you are comfortable with the current skewness of your portfolio towards tech stocks. After all, the tech rally over the last decade has undoubtedly benefitted all our portfolios, but we should also be ready for when the party inevitably comes to a close!
+
+Until next week :)
+
+**Footnotes**
+
+\[1\] This is the first time in an analysis where I cannot claim to be unbiased as a substantial portion of my portfolio (>90%) is tied up in an index fund. So take all the arguments with a grain of salt!
+
+\[2\] *Setting the record straight: Truths about indexing* is an excellent study done by Vanguard in 2018 where they review the rationale for indexing’s efficacy, quantify the benefits of indexing to investors, clarify the definition of indexing, and explore the validity of claims that indexing has an adverse impact on the capital markets.
+
+\[3\] This study also showcases that ETF trading (creation/redemption mechanism of exchange-traded funds (ETFs)) has minimal impact on the underlying securities as only 6% of the trading is involved in primary market trading with the rest being in the secondary market.
+
+\[4\] This is also known as the Grossman-Stigliztz paradox:- There would be a point where indexing would become big enough to affect price discovery, then active managers would be able to profit off that, and more and more people would move to the active funds. Finally, in an efficient market, an equilibrium point would be reached where neither party (index funds or active fund managers) would be able to beat each other.

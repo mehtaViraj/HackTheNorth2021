@@ -1,0 +1,63 @@
+**Preamble:** Michael Burry is definitely a controversial figure. He rose to fame betting against the subprime mortgage market and making a 489% return for his investors between Nov’00 and Jun’08 (SP500 returned just 3% in the same period).
+
+But, I recently observed that in every news article/tweet, he always talks about an impending crash. As recently as last week, he issued another warning stating that there would a “mother of all crashes soon due to the meme-stock and \*\*\*\*\*currency rally that will approach the size of countries”. Basically, what I wanted to analyze was
+
+**Whether Michael Burry always predicts a crash and gets lucky when there is an actual crash or does his prediction actually turns out to be true most of the time?**
+
+**Analysis**
+
+The various news articles spanning over the last 15 years were obtained from Google News \[1\]. I flagged the date of each crash prediction and then analyzed the performance of the market/stock over the
+
+a. Next 1 Month
+
+b. Next 1 Quarter
+
+c. Till Date
+
+I will not be including the subprime mortgage crash prediction in this analysis as we all know how that turned out and how that made him famous. Also, there are no news reports covering Burry before that.
+
+The performance figures are calculated based on the prediction. If Burry specifies a stock, then I am using that particular stock as the benchmark. If its broader prediction relating to the overall market, then the benchmark used is S&P 500.
+
+**Results**
+
+[ ](https://preview.redd.it/y2bct7sphe871.png?width=1028&format=png&auto=webp&s=0dd6d0b6163ad7ed0bfc917af373ce9f65bce71d)
+
+There was a long gap of 9 years after the 2008 crash where Burry stayed out of the public view and did not make any warnings or predictions about the market.
+
+His first verifiable prediction after the 2008 crisis [came in May 2017](https://www.lombardiletter.com/michael-burry-stock-market-crash/10895/) where he warned that we can expect a global financial meltdown and World War 3. In his exact words
+
+>I didn’t go out looking for this, I just did the math. Every bit of my logic is telling me the global financial system is going to collapse
+
+But it’s been 4 years since the prediction and the market is chugging along just fine. S&P500 has returned a respectable 93% to date and there is [no imminent threat](https://thebulletin.org/doomsday-clock/timeline/) of a World War happening.
+
+Burry’s next prediction was in [Sep 2019](https://www.bnnbloomberg.ca/the-big-short-s-michael-burry-explains-why-index-funds-are-like-subprime-cdos-1.1310874) where he said that index funds are the next market bubble and are comparable to subprime CDOs. He said that index fund inflows are now distorting prices for stocks and bonds in the same way that CDO purchases did for subprime mortgages more than a decade ago. He said the flows will reverse at some point, and “it will be ugly” when they do.
+
+This prediction also did not pan out as S&P500 has returned 50% to date over the last two years and the only crash that occurred during this period was the Covid-19 flash crash from which the market made a sudden recovery.
+
+Burry’s next target was on Tesla where he said that Tesla’s stock price is [ridiculous](https://www.businessinsider.in/stock-market/news/big-short-investor-michael-burry-reveals-hes-short-tesla-tells-elon-musk-to-issue-more-stock-at-its-ridiculous-price/articleshow/79538731.cms) and that it would [collapse](https://www.businessinsider.in/stock-market/news/big-short-investor-michael-burry-predicts-tesla-stock-will-collapse-like-the-housing-bubble-enjoy-it-while-it-lasts/articleshow/80171258.cms) like the housing stock bubble. I have kept both the articles there which had only one month difference as we don’t know exactly when he shorted the stock. The returns would be substantially different if he did it in Dec’20 when compared to Jan’21 as Tesla had a phenomenal run in December.
+
+He [reiterated](https://www.businessinsider.in/stock-market/news/big-short-investor-michael-burry-warns-the-stock-market-is-dancing-on-a-knifes-edge-and-fears-hes-being-ignored-again/articleshow/81154288.cms) again on Feb’21 that the market is dancing on a knife’s edge and he is being ignored again. He felt the boom in day traders due to the meme stock mania and the increasing cash flow to the index trackers would cause a massive bubble. This prediction also hasn’t turned out to be right as the market has returned 11% to date over the last 4 months.
+
+Burry’s only prediction that we can say confidently was right after the 2008 mortgage crisis is that he called [\*\*\*coin a speculative bubble](https://moguldom.com/340499/michael-burry-who-predicted-2008-mortgage-crash-says-bitcoin-is-a-speculative-bubble-sends-prices-lower/) in March’21. \*\*\*coin has since dropped 28% in around 3 months. Even in this case, we don’t have enough data to showcase how this prediction would turn out over the next one/two years.  
+
+Burry was most active in 2021 making the most number of predictions with the latest in Jun’21 stating that we are currently in the [greatest speculative bubble of all time](https://moguldom.com/358632/investor-michael-burry-who-predicted-2008-subprime-mortgage-crisis-says-this-is-greatest-speculative-bubble-of-all-time-in-all-things/). Only time will tell how this one will turn out!
+
+**Conclusion**
+
+I have immense respect for Michael Burry and his skills. He was a doctor and worked as a Stanford Hospital neurology resident and then left to start his own hedge fund that became [extremely successful](https://en.wikipedia.org/wiki/Michael_Burry). But, as you can see from the above analysis, he is more often wrong than right with his predictions \[2\].
+
+But, the stock market rewards predictions disproportionately \[3\]. Out of the 100 predictions you make, even if you get 99 wrong but get one extremely unlikely event right your overall returns will still be extremely high.
+
+The key point here is that if you believe in Michael Burry, you will have to follow all of his recommendations \[4\] and not pick and choose what you feel comfortable with as most of the returns would be from an extremely unlikely scenario.
+
+**Footnotes**
+
+\[1\] Google News has a [nifty feature](https://researchbuzz.me/2019/07/22/if-youre-not-using-more-of-google-news-date-options-you-might-be-missing-out/#:~:text=As%20you%20probably%20know%2C%20Google,hours%2C%20and%20the%20past%20hour.) where they allow you to search news in specific time periods. Also, Google News seems to capture almost all the major publications other than the historical archives.
+
+\[2\] The current analysis is done using all the publicly available records. We are not considering the personal bets he made, conversations he had with his friends/family/investors, etc. This can definitely alter the
+
+\[3\] Take the classic example of Keith Gill (aka DFV). He at one point had a $50MM return using a 50K call option. Even if he had another 99 50K call options in other stocks which expired worthless, just this one right pick would have made him a net profit of $45MM. This phenomenon is known as [black swan farming](http://www.paulgraham.com/swan.html).
+
+\[4\] At that point, if you are that confident in his predictions, you can [invest in his hedge fund](https://smartasset.com/financial-advisor/scion-asset-management-review). Please note that you need to have a minimum capital requirement ($1 million minimum investment and some extra regulatory requirements)
+
+*Disclaimer: I am not a financial advisor.*

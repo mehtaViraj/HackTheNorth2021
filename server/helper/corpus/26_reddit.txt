@@ -1,0 +1,134 @@
+&#x200B;
+
+[The network effect: Global Women](https://preview.redd.it/jt9p2cwpxwn61.png?width=1830&format=png&auto=webp&s=8882b085ad31735e6578cca5a2cd2cb2ab08e9b5)
+
+# Table of Contents
+
+1.  TL;DR
+2. Purpose
+3. Investing in Internet Forums
+4. Searching
+5. Software Design 
+6. Summary
+
+# TL;DR
+
+FB is the mall. PINS is Costco. Google+ created the wrong product.  
+
+
+Pinterest 100B Marketcap by 2023. Think about who the customers are, what they’re doing, and why they do it.
+
+# Purpose
+
+Some of you folk may remember the DD I wrote about Cloudflare and serverless computing back in May 2020, but most of those posts were written far less seriously and lacked professionalism. To be frank, I was surprised by the hunger for knowledge and I really enjoyed debating some of the rather brazen people here.
+
+WSB has grown and in my view, our committed analysts tend to BTFO Wall Street analysts. We have on-the-ground experience as laborers, customers, and digital-natives that they often filter out of a privileged ignorance.
+
+Part of this is also due to the fact that I believe that investing in securities will become increasingly complex yet accessible for a typical retail investor which will either result in isolation OR incentivize cooperation.
+
+* Does the average retail investor really understand the core regulatory influences in investments like Square, PayPal, or even rob-the-hood? **(DD Complete)**
+* Are we familiar with new international trades that increase Mexican-Texan manufacturing? **(DD in Draft Mode)**
+* Is the average retail investor familiar with the network models that govern software like Fastly and Twilio? (**Fastly DD in Progress)**
+* Do we understand incentives vs. bias? **(Roblox DD in Progress)**
+* How knowledgable are we of fashion trends that make Nike and Foot Locker valuable?
+* Is an average retail investor familiar with competitive types of manufacturing processes when they invest in technologies like AMD or GE?
+
+At the end of the day, I am an educator and I believe that the goal of education is to engage a reader into a deeper curiosity or discussion, so that’s why I’m sharing my writing. I’m not here to convince you that this stock is even a good choice - but to explore the economics behind it.
+
+## Investing in Internet Forums
+
+Let’s keep one question in mind:
+
+>Did Facebook’s implementation of a hashtag kill Twitter?
+
+Ultimately, what drives a social-networking site is a user’s incentive to search and discover information in that particular forum. As a result, examining social-networking sites can be a lot like comparing shopping centers, such that a shopper is incentivized to go to a location for a particular reason that is served by that institution. Pinterest uses pins, Reddit uses subreddits, and Google uses links - all having unique advantages as a means to distribute information.
+
+[Pinterest-as-a-Search-Service](https://preview.redd.it/are6a4e5hxn61.png?width=1780&format=png&auto=webp&s=a547a926696fc0a7cc5fb3f7bdcaf78be4f7d684)
+
+The forum may take on a different medium, but it is ultimately a forum none the less. If we try to categorize it roughly, the forums would look like this:
+
+* Google is fueled by user’s need for answered information.
+* Facebook is fueled by a user’s need to connect.
+* Pinterest is fueled by a user’s need for ideas.
+* Reddit is fueled by a user’s need for community.
+* Online video games are fueled by a user’s need for adventure.
+
+[The power of incentives](https://preview.redd.it/j4hi9w0ghxn61.png?width=500&format=png&auto=webp&s=cf7e4a2b9b600fa25459c8b19f9f433f47df30ae)
+
+With this basic model, you can argue which forum may be inelastic. In my view, it ranks like this, where the top rank is the most inelastic due to human behavior:
+
+1. Google (need for information)
+2. Games (need for adventure)
+3. Reddit (need for community)
+4. Pinterest (need for ideas)
+5. Facebook (need to connect)
+
+The reason I rank Facebook as the most elastic version is because I have already witnessed multiple transformations resulting in users connecting in various ways in an attention-economy (Myspace, Twitter, Discord, TikTok, Roblox). I eventually expect this to replicate in other nations too. I also believe that people really underestimate how quickly humans find new ways to connect and can move to another platform for connection; which is quite a common occurrence in online gaming. I also believe that its physical network advantage is growing thinner.
+
+[Instagram entered Shops to compete with Pinterest, not Amazon.](https://preview.redd.it/wku6q9wnhxn61.png?width=1332&format=png&auto=webp&s=110e6225ab342e071fff9f9afe3cca5dee781cb3)
+
+&#x200B;
+
+[Take some time to think about why this relationship exists.](https://preview.redd.it/n88by55cjxn61.jpg?width=550&format=pjpg&auto=webp&s=daf1792d80d438e61da83bf2bdef5ff55bdb4627)
+
+## Searching
+
+Consider this economic relationship.
+
+>What are the demographics of male underwear shoppers and who do male underwear brands market to? Women. Why?
+
+That being said, I think Pinterest is wonderfully positioned and has quite an interesting history. The network-effect that built Pinterest was mostly driven by women, which has profound economic consequences across global households. What this ultimately results in product education, where families learn how to use Pinterest as a tool and search engine for ideas, rather than a local-friendgroup site. As a result, Pinterest’s recommendation model is geared to advertise to women-influenced **interests**, which we will touch on shortly.
+
+&#x200B;
+
+[An incredible economic relationship occurring at global scale.](https://preview.redd.it/6gz07fu6ixn61.png?width=1936&format=png&auto=webp&s=5e467e4dc0ab9725cdd935c3eafe82495b7f487f)
+
+This has long-term positive consequences for product messengers regardless of culture. You can try it yourself to understand; it feels like what you want Google Images to do for you at times:
+
+\- Recipe, Exercise, and Diet ideas (Peloton)
+
+\- Birthday gift ideas (Michaels, Corsair)
+
+\- Skincare ideas (Target, Hims & Hers)
+
+\- Tips for traveling to another area (AirBnB)
+
+\- Home construction (Sherwin-Williams, James hardie)
+
+\- Omnichannel support from places like TikTok, Zoom, Etsy
+
+[Corsair Setup Ideas: note links to Wayfair and Reddit.](https://preview.redd.it/h3sro1lpixn61.png?width=3781&format=png&auto=webp&s=6c76e8fc0d837b2cc8f174d31a771e587dd1f0ef)
+
+[House Interior Paint: note links to BERH, Sherwin-Williams, Etsy, and Pinterest Shops.](https://preview.redd.it/t0gff9gsixn61.png?width=3718&format=png&auto=webp&s=db6bebc0584c0be1ff75e08fbd79c6ca3ba6f169)
+
+The fact is, it’s the user who is actually voluntarily searching for ads in an ad space. Behaviorally, this means that Pinterest’s users are in a “high willingness to engage” with things that result in “action”. **That is, a Pinterest user is logging in because they need to start something or they need to plan for something in the near future. This is basically a sweet spot for advertisers, as they know they’re getting top real estate on BOTH Google and Pinterest as a result of their product design.**
+
+[Pinterest users have an incredibly high “willingness to engage” as a function of using the social platform as a useful tool above all else.](https://preview.redd.it/au1vvhl1ixn61.png?width=1158&format=png&auto=webp&s=84a149db0fd2a541da14c0b813b66b37ee661439)
+
+Pinterest was not designed to make a user spend hours mindlessly scrolling for content. It was designed to make a sale and keep a customer happy *outside* of Pinterest. That is fundamentally different than Facebook’s connect-everything approach to social-networking.
+
+# The Design
+
+Pinterest ranks high in Google’s results for specific reasons. Pinterest develops its own in-app browser that has particular consequences for:
+
+1. Security & Privacy
+2. High demand for high quality ad-messaging and visuals
+3. Vectors to user’s websites generated by hosts like Shopify, Walmart, or other omnichannels.
+4. Vectors for advertisers
+5. A browser that follows Progressive Web App standards
+
+[Progressing Web Standards](https://preview.redd.it/fitjijovixn61.png?width=2233&format=png&auto=webp&s=2fca3cb23f577904e044b7ec996fdfd2bdb87cfc)
+
+The combination of these design choices ranks it high in “Google’s algorithm”, while this search engine result increases its bar for ranking each year. This means that bigger organizations like Twitter, DDash, and Pinterest will enjoy the tailwinds of these priorities.
+
+Why is Google doing this? Because they want high web standards as a global competitor. Part of the global competition is shaping the internet’s develop to consider people that have high latency connections since software can scale faster than some of the hardware that is available around the globe. The internet is ultimately “access to information”, which is as scarce as “access to clean water” around the globe. So it’s carefully considered in strong engineering communities. 
+
+## Summary
+
+I totally love the fact that the network-effect behind Pinterest is built by women, but not necessarily for women. I am carefully monitoring the results of this network-effect as I believe that it will have long-term consequences on family life. I feel that this kind of product design will eventually create a deeper gravity for advertisers, where they know that Pinterest users are essentially sustainable top-dollar advertising spaces; as users are looking directly to consume as a result of their usage which is far different than other social-media platform strategies.
+
+I use Facebook and Instagram every day, resulting in nothing. I use Pinterest a few times a month at most. The difference is, every time I use Pinterest - I follow up or plan to follow up with some consumer behavior. That, to me, is incredible.
+
+https://preview.redd.it/98hlzna3jxn61.png?width=2595&format=png&auto=webp&s=b96810ee07ec792e76631486c2c6759308099648
+
+[https://res.cloudinary.com/eduprojectsil/image/upload/v1616136466/pinterestblogpost\_s8hpxc.png](https://res.cloudinary.com/eduprojectsil/image/upload/v1616136466/pinterestblogpost_s8hpxc.png)
