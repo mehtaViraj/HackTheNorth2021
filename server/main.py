@@ -9,6 +9,13 @@ app.config["DEBUG"] = True
 def home():
     return 'StockClock API v1'.encode()
 
+@app.route('/argument-test', methods=['GET'])
+def argtest():
+    results = {}
+    for i in request.args:
+        results[i] = request.args.get(i)
+    return jsonify(results)
+
 @app.errorhandler(404)
 def page_not_found(e):
     return 'Unknown Path | StockClock API v1'.encode(), 404
