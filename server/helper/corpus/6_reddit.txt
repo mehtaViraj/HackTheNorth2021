@@ -1,0 +1,268 @@
+Hey, do you guys remember when 14 days ago I got banned for posting that [IRNT was about to go nuclear](https://www.reddit.com/user/pennyether/comments/phc0uk/irnt_glitched_float_whale_oi_nuclear_gamma_ramp/)? At the time it was $14.00 and 9/17 $20 calls were something like $0.30 each. Remember my post on WSB? No, you don't. It got deleted. That didn't stop IRNT from hitting $40 in AH and opening the following day at like $26.
+
+How about a stock called TMC? Remember when [I posted about its similar set-up](https://www.reddit.com/user/pennyether/comments/pnjll5/tmc_high_gamma_high_short_interest_but_high_iv/) Monday? You don't remember that? Oh, right, I didn't post it to WSB because I didn't want to get banned again. Well, it seems to be doing fine.
+
+Last night, rather than sleep, I decided to spent hours filling out a spreadsheet with every deSPAC I could find (if you're deep in the deSPAC craze, you know the list); complete with the new floats, IV, gamma values, percent of float deltahedged, estimated SI, Utilization, and CTB -- you know... the only things that really matter to us. (It's not like "fundamentals" could fit in a spreadsheet column, anyway.)
+
+Now I'm letting off some steam by once again partaking in the lost ancient art form of writing a DD for WSB. This time it's about what I think is best deSPAC play that is currently available for WSB to blindly dump its collective IRNT winnings into: VLTA.
+
+tldr:
+
+* **MARKET CAP IS $2B NO BAN PLS**
+* Low IV (currently) -- Make money from the MMs, not from each other.
+* High gamma -- Even after Sep options expire.
+* Some short interest (\~10% of float) -- but more importantly 0 shares to borrow to keep this dog down. CTB getting "up there" at 47%.
+* The company does stuff.. not sure what, but I'm sure it's great world-changing stuff. Their name is Volta, so they must have *potential*... get it?
+* **The set-up looks suspiciously good, so I might be missing something. Perhaps wait for some wrinkle brain to shit on my thesis here.**
+
+# 0. The Market Cap
+
+I'm not actually salty about being banned; the mods have a tough job sorting through all the bullshit. I mean, just look at the titles of DDs these days... people just put in zero effort. At the time I posted about IRNT, the reported market cap on it varied from source to source due to the fucked up situation with outstanding shares and float. I assume the mods thought I was trying to sneak one by 'em. No hard feelings. I don't blame the mods for erring on the side of caution.
+
+Anyway, this time around **I'm certain VLTA meets the market cap requirements.**
+
+Just ask TDA: 
+
+https://preview.redd.it/r55bbd7uo2o71.png?width=521&format=png&auto=webp&s=0347f40d4e7fa12524b1bfaa7e1b95b3caa7b48a
+
+Or Google: 
+
+https://preview.redd.it/40wwwftuo2o71.png?width=1053&format=png&auto=webp&s=896255bbdf4c1b89c96fc60ce9757deebcd21ac8
+
+No! Wait! Wait!  ... I meant this google: 
+
+https://preview.redd.it/tlcwr8fwo2o71.png?width=865&format=png&auto=webp&s=d6a696e86837c55d3dfce2491ee14442f5ff7d6c
+
+Alright. $2.0B > $1.5B. Let's move on.
+
+# 1. The Process
+
+How did I find VLTA? It's simple. I don't have a life and I spent all night making a spreadsheet, running calculations on gamma, and throwing in SI data from Ortex for tickers that look interesting.
+
+Here's a screenshot:
+
+&#x200B;
+
+[Lots of pretty colors. Must be legit.](https://preview.redd.it/8f39xl4xo2o71.png?width=1223&format=png&auto=webp&s=3094fd899041cbe76974ba16a5215aae82349781)
+
+I blurred a lot of the tickers, per market cap rules. (If you're a true deSPAC degen, you'll know where the tickers and float numbers came from.)
+
+What I looked for were tickers with a lot of bright green squares. Most importantly, I want that low IV -- which to me indicates MMs asking to get reamed. Just like momma always says -- Low IV is how 10+ baggers are made.
+
+I was surprised to see that VLTA had the 5th highest current gamma value, behind TMC, OPAD, REDACTED, and IRNT. All of these have seen significant price action lately. Yet, the IV on VLTA was incredibly low... only bested by tickers with higher market caps and non-existent gamma. Wake up, MMs. (Or, again I'm missing some piece of the puzzle here.)
+
+Oh, before you ask about IV -- I'm using 30d ATM IV as my baseline. I compute it myself by interpolating IV between strikes and expirations. In reality, each ticker will have it's own IV skew so don't yell at me when you see the OTM FDs aren't 80% IV.
+
+As for the SI column: some tickers (the gray ones) had bonkers Estimated Short Interest. For these tickers, I used 60% of the On Loan value to estimate the estimated short interest. If you want hopium, upper bound for SI is about 1.6x the gray values.
+
+# 2. The Set-up
+
+To summarize VLTA:
+
+* It's a deSPAC
+* With high OI relative to it's new float
+* With some short interest (not much)
+* But no shares available to borrow
+* With sustained bullish order flow
+* **And it's IV is priced as though all of the above is not true.**
+
+## deSPAC
+
+It's a deSPAC.
+
+If you don't know what that means, well, you're shit out of luck. I'm not going to explain how SPACs have huge floats and are allowed to have options traded on them, but then when they go through with a merger a lot of that float vanishes due to redemptions (but the options don't), so there ends up being a ton of options and not a lot of float, and MMs might not be aware of the change in the float and might think it's easy to buy shares to deltahedge but in reality there isn't a lot of float at all and when they deltahedge they push the price up making things worse for themselves. Same goes for shorts trying to cover.
+
+No, I'm just not going to explain deSPACs to you at all.
+
+In case you're wondering, VLTA completed August 26th with a 70% redemption rate. That's a lot lower than 90%+ we see with the IRNT, OPAD, TMC wonderkids.  So beware, a lower redemption rate means shareholders were more confident in Volta -- it might actually not be a completely shitty company.
+
+## OI relative to float
+
+A lot of people are going to shit on VLTA because it has a "high float" of 10,277,713 shares relative to the grab bag of deSPACs out there. Yes, compared to IRNT (\~1.3m), TMC (\~2.7m), OPAD (\~3.4m), 10m is a bigger number. But there's also **a significant amount of OI** to make up for.
+
+What really matters for gamma is the *ratio* of OI to float.
+
+So let's take a looksee at the 'ole deltaflux table:
+
+## DeltaFlux / Gamma
+
+Once again, I'll throw out this disclaimer about deltaflux tables: **They are an approximation, and they make incorrect assumptions**.
+
+Some assumptions the table makes that make it inaccurate:
+
+* It assumes MMs deltahedge via black scholes model
+* Continuously and completely
+* Based on the options' IVs
+* For every single option in the chain
+
+Pretty much all of those assumptions are false. Just because the table says the net delta is X% of float *does not* mean "MMs must buy this many shares or else they fuk!!". **The table is meant to present values that are useful to compare** ***across time*** **and** ***across tickers*****.**
+
+Ok. Let's continue:
+
+## VLTA -- $12.35 (-$0.11 [-0.88%]) -- [DeltaFlux Tables Explained](https://old.reddit.com/user/pennyether/comments/ms7z36/deltaflux_tables_explained/)
+
+**OI as of:** Fri Sep 17 (at open) - **Date used for DTE**: Fri Sep 17, 2021 10:01 EST  
+**Weighted Avg IV:** 101.38%, **Shares:** 151,830,000, **Float:** 10,277,713, **Avg Vol (10d):** 1,205,400
+
+|Theo Price|Net Delta|← % Float|Gamma (1% Price ∆flux)|← % Float / % Avg Vol|24hr ∆flux (sh)|← % Float / % Vol|
+|:-|:-|:-|:-|:-|:-|:-|
+|$7.00|\-1,352,677|\-13.16|41,371|0.40 / 3.43|\-14,593|\-0.14 / -1.21|
+|$8.00|\-637,502|\-6.20|64,750|0.63 / 5.37|38,983|0.38 / 3.23|
+|$9.00|174,333|1.70|81,733|0.80 / 6.78|26,700|0.26 / 2.22|
+|$10.00|1,070,164|10.41|96,717|0.94 / 8.02|14,983|0.15 / 1.24|
+|$11.00|1,931,753|18.80|89,527|0.87 / 7.43|\-1,269|\-0.01 / -0.11|
+|$12.00|2,722,050|26.48|94,575|0.92 / 7.85|\-47,094|\-0.46 / -3.91|
+|**c - $12.35**|2,990,077|29.09|89,795|0.87 / 7.45|11,830|0.12 / 0.98|
+|**o - $12.46**|3,068,014|29.85|86,611|0.84 / 7.19|\-3,086|\-0.03 / -0.26|
+|$13.00|3,409,660|33.18|75,612|0.74 / 6.27|\-7,674|\-0.07 / -0.64|
+|$14.00|3,948,008|38.41|71,248|0.69 / 5.91|\-15,873|\-0.15 / -1.32|
+|$15.00|4,421,121|43.02|66,049|0.64 / 5.48|\-10,381|\-0.10 / -0.86|
+|$16.00|4,828,532|46.98|59,940|0.58 / 4.97|978|0.01 / 0.08|
+|$17.00|5,176,359|50.36|54,840|0.53 / 4.55|3,120|0.03 / 0.26|
+|$18.00|5,478,193|53.30|50,554|0.49 / 4.19|4,591|0.04 / 0.38|
+|$19.00|5,738,823|55.84|45,806|0.45 / 3.80|5,598|0.05 / 0.46|
+|$20.00|5,963,015|58.02|41,432|0.40 / 3.44|5,865|0.06 / 0.49|
+
+I like to represent gamma by "how many shares need to be deltahedged (as a percentage of float) per a 1% movement in price". A reminder that I consider values over 0.30% to be abnormally high. 1.00%+ is insane. We're at around 0.85%, which is fairly juicy, and things look good all the way through to $20.
+
+I cannot recall ever seeing gamma values this high with IVs this low. If I saw this ramp and had to guess at what the 30d ATM IV would be, I'd guess at least 140%. We're sitting at 90%. **This makes me think I am missing something -- so if there's a piece to this puzzle I'm missing, let me know.**
+
+**For comparison, here the table for PTRA -- it has similar IV to VLTA:**
+
+## PTRA -- $10.50 (+$0.24 [+2.39%]) -- [DeltaFlux Tables Explained](https://old.reddit.com/user/pennyether/comments/ms7z36/deltaflux_tables_explained/)
+
+**OI as of:** Fri Sep 17 (at open) - **Date used for DTE**: Fri Sep 17, 2021 10:04 EST  
+**Weighted Avg IV:** 90.25%, **Shares:** 212,300,000, **Float:** 163,810,000, **Avg Vol (10d):** 2,371,185
+
+|Theo Price|Net Delta|← % Float|Gamma (1% Price ∆flux)|← % Float / % Avg Vol|24hr ∆flux (sh)|← % Float / % Vol|
+|:-|:-|:-|:-|:-|:-|:-|
+|$6.00|\-1,082,880|\-0.66|21,107|0.01 / 0.89|\-8,849|\-0.01 / -0.37|
+|$7.00|\-690,702|\-0.42|30,398|0.02 / 1.28|\-11,830|\-0.01 / -0.50|
+|$8.00|\-164,064|\-0.10|40,174|0.02 / 1.69|\-13,539|\-0.01 / -0.57|
+|$9.00|352,160|0.21|48,106|0.03 / 2.03|\-14,597|\-0.01 / -0.62|
+|$10.00|1,121,488|0.68|127,735|0.08 / 5.39|\-56,426|\-0.03 / -2.38|
+|**o - $10.25**|1,412,059|0.86|99,483|0.06 / 4.20|50,316|0.03 / 2.12|
+|**c - $10.50**|1,604,699|0.98|68,572|0.04 / 2.89|\-4,668|\-0.00 / -0.20|
+|$11.00|1,899,152|1.16|61,966|0.04 / 2.61|\-13,205|\-0.01 / -0.56|
+|$12.00|2,478,350|1.51|86,524|0.05 / 3.65|\-35,120|\-0.02 / -1.48|
+|$13.00|3,483,253|2.13|89,971|0.05 / 3.79|16,065|0.01 / 0.68|
+|$14.00|4,012,969|2.45|70,107|0.04 / 2.96|\-9,343|\-0.01 / -0.39|
+|$15.00|4,901,637|2.99|206,424|0.13 / 8.71|\-419,518|\-0.26 / -17.69|
+|$16.00|5,741,663|3.51|68,655|0.04 / 2.90|\-877|\-0.00 / -0.04|
+|$17.00|6,140,552|3.75|69,838|0.04 / 2.95|\-13,051|\-0.01 / -0.55|
+
+This is a typical gamma ramp for things with IV. Pretty garbage.
+
+**As another comparison, here's the table for SDC:**
+
+## SDC -- $6.80 (+$0.80 [+13.33%]) -- [DeltaFlux Tables Explained](https://old.reddit.com/user/pennyether/comments/ms7z36/deltaflux_tables_explained/)
+
+**OI as of:** Fri Sep 17 (at open) - **Date used for DTE**: Fri Sep 17, 2021 10:02 EST  
+**Weighted Avg IV:** 164.9%, **Shares:** 118,870,000, **Float:** 104,310,000, **Avg Vol (10d):** 22,869,114
+
+|Theo Price|Net Delta|← % Float|Gamma (1% Price ∆flux)|← % Float / % Avg Vol|24hr ∆flux (sh)|← % Float / % Vol|
+|:-|:-|:-|:-|:-|:-|:-|
+|$3.00|\-4,959,031|\-4.75|94,443|0.09 / 0.41|\-138,327|\-0.13 / -0.60|
+|$4.00|\-1,375,936|\-1.32|163,578|0.16 / 0.72|\-162,217|\-0.16 / -0.71|
+|$5.00|3,346,186|3.21|311,875|0.30 / 1.36|\-237,380|\-0.23 / -1.04|
+|**o - $6.00**|12,154,906|11.65|625,594|0.60 / 2.74|\-1,430,532|\-1.37 / -6.26|
+|**c - $6.80**|18,525,386|17.76|406,290|0.39 / 1.78|\-425,049|\-0.41 / -1.86|
+|$7.00|19,684,084|18.87|393,674|0.38 / 1.72|\-787,286|\-0.75 / -3.44|
+|$8.00|24,117,016|23.12|272,823|0.26 / 1.19|\-276,815|\-0.27 / -1.21|
+|$9.00|26,940,265|25.83|210,111|0.20 / 0.92|\-174,055|\-0.17 / -0.76|
+|$10.00|28,919,980|27.73|166,052|0.16 / 0.73|\-134,023|\-0.13 / -0.59|
+|$11.00|30,323,464|29.07|127,758|0.12 / 0.56|545|0.00 / 0.00|
+|$12.00|31,319,483|30.03|104,180|0.10 / 0.46|\-2,017|\-0.00 / -0.01|
+|$13.00|32,095,352|30.77|90,714|0.09 / 0.40|\-23,473|\-0.02 / -0.10|
+|$14.00|32,729,939|31.38|80,747|0.08 / 0.35|\-9,974|\-0.01 / -0.04|
+
+Higher IV, lower gamma.
+
+**Two last bits of info for everyone:**
+
+1. High gamma does not guarantee a gamma squeeze. A squeeze implies a runaway effect. What we want here is *momentum*. Think of a puck gliding on ice. High gamma = less friction.
+2. High gamma makes it easy to go up, but it also makes it easy to go down. Just like the puck gliding on ice. Easy to slide one way, easy to slide the other.
+
+## Short Interest and Utilization
+
+&#x200B;
+
+https://preview.redd.it/k32ay110p2o71.png?width=1723&format=png&auto=webp&s=39cd6c0b8c0f67242e10eb88e805486577a91255
+
+Ortex doesn't estimate SI for this one, but they do have the amount On Loan. It's 1,664,307, or 16.19 % float. That's the upper bound -- the real SI is generally lower than the amount that Ortex reports On Loan. If I had to guess, about 60% of it, so around 1m shares shorted, which is about 10% of float. Not a big story here.
+
+Also of note is the *rising* value of the On Loan average age. It's going up -- which means that most shares borrowed were done so in the past. Think of it this way: if older loans were closed and new ones opened, the average age would go down.
+
+The average age is 18 days, which is around Aug 30, when share price was $10.00. So to the extent that there are shorts, they're underwater just a bit.
+
+SI isn't super compelling. What's more encouraging, to me, is the Utilization pegged near 100%, and CTB in high double digits. This means there are no shares to short, and when there are, they are expensive. This is generally good news when you want the stock to go up.
+
+## Order Flow
+
+The past several days have seen an influx of buyers, and I don't know where exactly they are coming from. I don't find very many mentions of this ticker on Reddit. Well, I did find [one post here](https://www.reddit.com/r/wallstreetbets/comments/pp0fu2/vlta_look_at_me_over_here_fomo_just_want_to_be/). As of now, I'm the only upvote. I just left a comment.
+
+Here's the orderflow, per MarketChameleon:
+
+&#x200B;
+
+https://preview.redd.it/exkzkyl0p2o71.png?width=1003&format=png&auto=webp&s=38a8b3c93fc7e1f8346312e45da286d543f14199
+
+Bullish enough for me.
+
+## The Implied Vol
+
+**Here's the part I don't understand.**  Given all of the above, how is it that MMs did not ramp up IV on this deSPAC like they did on all others?
+
+VLTA 10/15 ATM calls are sitting at around \~100% IV right now. That seems pretty low to me. Even further OTM, $17.50's are sitting at \~126%.
+
+According to MarketChameleon, which does some weighted averaging type of stuff across strikes and expirations, the 30d IV to be 91%.
+
+For comparison, here are the *pre-jump* 30d IVs of some famous deSPACs:
+
+* IRNT (Sep 1): 127%
+* IPOD (Sep 10): 134%
+* TMC (Sep 14): 178%
+* VLTA (now): 91%
+
+I'm not sure why this is, but I'll take a bargain when I see one.
+
+## Other
+
+VLTA is currently on the threshold securities list. I don't really think carries a lot of weight, but it's worth noting.
+
+# 3. The Play
+
+Alright, I assume you saw a really long DD with pretty pictures and tables and just want to throw money into something.
+
+## Risks/Rewards
+
+Let me first tell you the risks:
+
+* There is no real gamma. Perhaps all the OI is spreads. Or covered calls.
+* MMs are anticipating for this (despite the low IV signifying otherwise). Instead of milking them, we're circle jerking one another while playing hot-potato-options until everyone gets bored.
+* **I could be completely off about the float or some other mechanic, like PIPE shares unlocking or something.** To the best of my knowledge, this thing has just been sitting quietly under the radar since redemption... aside from the run-up.
+
+And here are the rewards:
+
+* MMs, for some reason, overestimated the float. The buy-in is relentless, and they decide it best to do one or both: a) buy back expensive calls, or b) bite the bullet and accumulate shares, pushing prices up.
+* IV going from X% to 300%.
+* That hole in yourself you feel for not buying/holding IRNT, OPAD, TMC, etc -- this can provide closure. (Or it can be salt.)
+
+## What to buy
+
+* October calls.
+* Shares
+
+## When to sell
+
+Look, I have no idea what happens here, and when it happens. I see a good set-up, and I see a deSPAC frenzy all around me, so I think this is a good bet.
+
+**What I will recommend, however, is to keep a very close eye on the IV.** Regardless of price, IV roughly tells you how much "acceleration" is priced in. If you're holding an option and the IV jumps up, you need to ask yourself:  will interest in this stock and/or share price accelerate or decelerate? Will inflows continue or reverse? As IV goes up, the margin of error in your judgement decreases -- small errors will cost you bigly, as IV is *generally* correlated to actual volatility.
+
+At which IV and/or price to sell at is a judgement you need to make for yourself based on whatever it is you do, and the risk you can tolerate. It can be TA, gauging sentiment, momentum, technicals (float, gamma, etc), or you just feel it in your plums.
+
+For me, personally, I'm a little bitch and will probably be out at around 300% IV, just like I was with all the other deSPACs. I have faith gamma pushes this upwards, but at some point, the MMs are milked and it becomes a game of hot-potato. Not for me.
+
+# My positions:
+
+Oct Calls: $12.50, $15.00, $17.50

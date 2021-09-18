@@ -1,0 +1,57 @@
+**EDIT:** My most recent post got removed, I didn't delete. Figuring out why right now.
+
+**EDIT:** Many of you are saying that the trade is over. Welp, earnings came in today and were not that great... the stock is currently up above $25....
+
+This post is going to be about why IRNT presents one of the greatest squeeze opportunities that WSB and retail investors have ever seen. Because the company has only been trading for 2 weeks, it's hard to analyze technicals other than volume. Thankfully, the short interest and float are the main reasons why this stock presents such a great opportunity, so those will be analyzed below.
+
+**\*Please note that none of this is financial advice and I am not a financial advisor. Investing is risky and high short interest plays are even riskier. You should talk to a financial professional before making any investment decisions and should do your own research\***
+
+**Short Interest Stats and Analysis**
+
+To put it simply, the short interest on IRNT is absolutely insane. Combine that with the fact that it's a newly trading company (and susceptible to more volatility) and has a VERY low float, and you have a recipe for an absolute slam dunk.
+
+First, let's take a look at Fintel and iBorrow desk. iBorrowdesk has consistently shown the borrow fee to be over 500% and the available shares to be far below 10,000. Similarly, fintel has consistently showed less than 1,000 shares available to borrow. Though some people don't trust these sites, the similarities in the data help to add credibility
+
+&#x200B;
+
+https://preview.redd.it/qubmtqnjxjn71.png?width=1270&format=png&auto=webp&s=8e966aee1e3deb1b3f19bb4edfebeb4090e3bb1a
+
+https://preview.redd.it/yuuj6skkxjn71.png?width=968&format=png&auto=webp&s=97cbe756d2845006ddb0c35e624032935587c4a8
+
+https://preview.redd.it/i0vhzl9lxjn71.png?width=986&format=png&auto=webp&s=082680490a232aa61f456c8a4492050d51e5baef
+
+I'd also like to turn your attention to [this post by another WSB user](https://www.reddit.com/r/wallstreetbets/comments/pnff3b/irnt_gamma_squeeze_with_213_of_float_claimed_by/). This post analyzes how the extremely low float of this stock due to it being a new stock and the insane option OI presents the opportunity for a legitimate gamma squeeze - not some fake hype run up - a legitimate gamma squeeze similar to GME's first run up.
+
+If you look at websites like Baron's they'll tell you that the SI as a % of the float is only 1.79% (about 700,000 shares). This is correct but doesn't tell the whole story. Because of redemptions and lockups, the actual float is 1.3m shares, which makes the real short interest on tradable shares about 56%. Interestingly, [Ihor's tweet](https://twitter.com/ihors3/status/1437512870351282177?s=19) shows that the borrow fee is asininely high, which again shows the difficulty of borrowing of this stock and thus the easy possibility of a short squeeze. 56% short interest is an amazing number in and of itself, but that's not the whole story. The thing about this stock that really gets me going is the options activity. The OI on options of this stock is absolutely bananas right now. Remember when I said that there are about 1.3M tradable shares due to it being a new stock post-merger? Well, at a $20 price, almost double that amount is held in ITM calls alone. THAT is why the stock has serious gamma squeeze potential. Remember, both the GME and VW squeezes happened because ITM options OI outnumbered the float of companies that were already heavily shorted - this is the power of a gamma squeeze. Most meme stocks that have been "squeezing" recently have been small short squeezes due to retail traders and HFs taking advantage of social sentiment. The reason that we haven't seen a violent squeeze recently is because there hasn't been a stock with options activity like this - until IRNT.
+
+Additionally, you probably saw that the stock went up to almost $40 last week out of nowhere. Again, this is the power of a low float stock with high ITM call OI. If this stock starts picking up, the low float and call OI could propel it to meme stock legend status.
+
+Furthermore, data from ortex has also consistently shown a SI of over 300% and a cost to borrow over 500%, which is consistent with the sources listed above. Yes, the SI is definitely a plus, but again, the real power here is the gamma squeeze potential.
+
+(The above four paragraph's were heavily borrowed from the originally linked user, so please check out his post).
+
+Many people will probably not believe some of these shorting numbers and will consider them unreliable because of how new the stock is. That's understandable. However, if you're in that camp, let me present to you this: the NYSE's regulationSHO FTD list. Per SEC regulations, stocks that reach over a certain amount of FTDs are placed on regulation SHO's threshold list. This is a very small list and identifies stocks that are grossly over-shorted (FTDs being the evidence of that). GME was on this list for a very long time before it squeezed. So if you don't believe the websites's SI numbers, then you at least have to believe the NYSE's numbers about FTDs. When a stock has too many FTDs, it means that it is extremely hard to locate shares and repay borrowers, which is a sign of over-shorting. Here is the NYSE list:
+
+https://preview.redd.it/z5q0vbtmxjn71.png?width=2710&format=png&auto=webp&s=e76c960abd9f88936b898b3dbebbf5d82519a9cb
+
+Notice the second to last one? DING DING DING. Though being on the threshold list signifies overshorting, there is yet another thing that we can take from this - forced covering. IRNT has been on that list since 9/2. Per regulationSHO, after 6 TRADING days on the list (9/10), stricter location requirements for shorting are put in place. Take a look at the giant green uptick that we saw on 9/10. 13 TRADING days on the list and forced coverings start taking place where a market-maker is subject to fines and loses his or her market making abilities if this regulation is violated. 13 TRADING days after 9/2 is 9/21. Remember all of those call options I talked about above, well they will be exercised on Friday 9/17. So, let's review what we have: an extremely high reported short interest (you can believe it's 600%, 300%, 56%, whatever), an extremely low an restricted float, ITM options expiring on Friday that outnumber the total float, the stock being on the threshold list indicating over-shorting, forced coverings taking place right around when those options would have to be delivered. Again, this is exactly what we saw with GME. It's important to note however, that this is also an issue of timing - the stock is likely to have a gamma squeeze sometime late this week and through next week. After that, there's a good chance that covering could lead to the stock being taken off of the threshold list.
+
+**Fundamentals**
+
+Think that IRNT is just a squeezable meme stock with no long term potential as an investment? Wrong. The stock is not like most meme stocks - it actually is a good underlying business. According to an article by a website not allowed on here (just copy and past the quote in google to find it), "With the company’s international expansion, M&A initiatives, and cloud acceleration, under my most optimistic case scenario, the company is worth $55 per share. If IronNet continues to sign agreements with nation states and companies like CrowdStrike did, I believe that the upside potential is significant." The article discusses how the company's AI initiatives, cyber security focus, and cloud acceleration, all of which are some of the most important and up and coming technology sectors, poise it to go up in value significantly. Additionally, the company also just reported earnings. Though the earnings were lower than expected, take a look at the after hours activity - the shorts have no juice left.
+
+**Conclusion/TL;DR**
+
+So there you have it. in my opinion, IRNT is an EXTREMELY good stock fundamentally so I will be holding it long term. HOWEVER, the stock also presents a rare gamma squeeze - short squeeze opportunity that retail hasn't seen since GME. The stock has an extremely high reported short interest, an extremely small float, open interest on ITM call options that outnumbers the current float, is on the regulationSHO threshold list indicating that it has extremely high short interest and possible naked shorting, has been on that list for a significant amount of time, and the ITM options that outnumber the float are expiring right around when shorts would be forced to cover their FTDs. In other words, an absolute grand slam.
+
+**\*Please note that none of this is financial advice and I am not a financial advisor. Investing is risky and high short interest plays are even riskier. You should talk to a financial professional before making any investment decisions and should do your own research\***
+
+&#x200B;
+
+MY BAD, forgot to put in positions, here they are:
+
+https://preview.redd.it/jhcc5odo1kn71.png?width=714&format=png&auto=webp&s=0e4125ea220814732b9532f7f60f059d1adc1991
+
+I bought in on Friday and am considering upping my calls in the coming days.
+
+&#x200B;

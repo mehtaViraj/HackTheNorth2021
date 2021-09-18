@@ -1,0 +1,77 @@
+I've done some research on SAVA due to recent events, after being long in the past. I'll preface by saying I'm seriously disturbed by where the evidence is pointing, and the complete denial of any plausibility of these allegations by many SAVA investors. This entire company and the science behind it may be a fraud. Checkout Stocktwits or Yahoo Finance conversations to see how unaware of this possibility retail investors are.
+
+Take the CEO of Cassava Sciences, Remi Barbier. His last moment in the spotlight came as the CEO of a company called Pain Therapeutics. This company's product was a drug called Remoxy, a supposedly abuse-resistant form of oxycodone. Remoxy was rejected by the FDA four times in a row for a lack of proper evidence suggesting it was actually abuse-resistant. Pain Therapeutics was then sued for misleading investors and causing damages and paid out in a settlement. Pain Therapeutics was later renamed to Cassava Sciences, which pivoted to Alzheimer's disease treatment with a drug they developed called Simufilam.
+
+[https://endpts.com/a-disoriented-pain-therapeutics-flips-out-after-fda-rejects-appeal-on-remoxy/](https://endpts.com/a-disoriented-pain-therapeutics-flips-out-after-fda-rejects-appeal-on-remoxy/)
+
+[https://www.globenewswire.com/en/news-release/2016/10/01/876275/1087/en/Pomerantz-Law-Firm-Announces-Summary-Notice-of-Pendency-and-Proposed-Settlement-of-Pain-Therapeutics-Inc-Class-Action-and-Settlement-Hearing-PTIE.html](https://www.globenewswire.com/en/news-release/2016/10/01/876275/1087/en/Pomerantz-Law-Firm-Announces-Summary-Notice-of-Pendency-and-Proposed-Settlement-of-Pain-Therapeutics-Inc-Class-Action-and-Settlement-Hearing-PTIE.html)
+
+Does this information prove that SAVA is fraudulent? Absolutely not. Does it suggest that Remi could potentially fit the profile of Biotech CEO con artist based on his history? Maybe.
+
+What about a motive? If Simufilam isn't as effective as claimed, if some or all of the data backing it is fabricated, and/or it eventually fails clinical trials, what is there to gain?
+
+"The Plan is triggered only if the Company achieves $200 million to $5 billion in market capitalization. The Plan specifies 14 distinct valuation thresholds between $200 million and $5 billion. Each valuation threshold must be achieved and maintained for no less than 20 consecutive business days for participants to be eligible for a cash bonus award. Each valuation threshold triggers a separate cash bonus award in a pre-set amount defined in the Plan."
+
+[https://www.sec.gov/Archives/edgar/data/1069530/000106953020000048/sava-20200901x8k.htm](https://www.sec.gov/Archives/edgar/data/1069530/000106953020000048/sava-20200901x8k.htm)
+
+Okay, so if the stock gets pumped to sky-high valuations, Remi and others get massive paydays regardless of how the drug fairs in clinical trials.
+
+Well, what about the "wildly successful" 9 month cognitive data and 6 month biomarkers? What did a group of Alzheimer's scientists think about the open label (rather than double blind) study with no placebo control group?
+
+"Alzheimer’s scientists critique Cassava Sciences’ study results — overblown, inappropriate, uninterpretable"
+
+[https://www.statnews.com/2021/07/30/alzheimers-scientists-critique-cassava-sciences-study-results-overblown-inappropriate-uninterpretable/](https://www.statnews.com/2021/07/30/alzheimers-scientists-critique-cassava-sciences-study-results-overblown-inappropriate-uninterpretable/)
+
+Ever had that gut feeling something was too good to be true? How plausible is it that a tiny company of merely dozens of people, after abandoning a failed pain medication and settling lawsuits, jumps to an Alzheimer's disease drug, the unfound and impossibly difficult holy grail of modern medicine, and delivers total disease modifying success the likes of which the world and all of its collective scientific effort has never remotely seen?
+
+Then comes the bombshell.
+
+On August 18th, Jordan A. Thomas files his petition on behalf of a client/whistleblower to the FDA to halt trials and to perform a full audit of all scientific publications related to Simufilam. This is due to overwhelming evidence of scientific misconduct.
+
+Who is Jordan A. Thomas, is he credible or a blood sucking lawyer?
+
+"While at the SEC, Thomas played a role in the development of the SEC Whistleblower Program, established under the Dodd-Frank Wall Street Reform and Consumer Protection Act. Thomas also developed and served as the first National Coordinator of the SEC's Cooperation Program, designed to encourage individuals and companies to self-report violations of the federal securities laws and to participate in the SEC's investigations and enforcement actions."
+
+"After leaving the SEC, Thomas joined Labaton Sucharow LLP as a partner."
+
+"In private practice, he has risen to national prominence. The Wall Street Journal has described him as “one of the most prominent attorneys representing whistleblowers before the government.” Likewise, NPR has referred to him as “one of the top whistleblower lawyers in the country.” And the New York Times has described his team as “one of the top legal practices in the country representing corporate whistle-blowers.” Over the years, he represented the first officer of a public company to win an SEC whistleblower award, the first SEC whistleblower to receive criminal immunity and the first SEC whistleblower to receive an award because his company retaliated against him. **In 2018, his clients won the then-largest SEC Whistleblower award in history for a single case, $83 million.**"
+
+[https://en.wikipedia.org/wiki/Jordan\_A.\_Thomas](https://en.wikipedia.org/wiki/Jordan_A._Thomas)
+
+Does it get any more legitimate than that? Why are so many other high profile law firms opening investigations?
+
+What was in Thomas's petition?
+
+Google "Requests that the FDA halt the current clinical studies of Simufilam PTI-125 sponsored by Cassava Sciences".
+
+Read all 39 pages of attachment 2.
+
+Here's a teaser:
+
+Falsified Western Blot on page 9.
+
+"The western blot in Figure 1a (below right) of Dr. Wang’s 2010 paper in Biological Psychiatry 67:522 contains four bands that closely resemble an image published in Figure 12a (left) of the Wang and Burns 2005 Neuroscience 135: 247 paper mentioned in C.2.1. These eight boxed bands come from different experimental conditions that were allegedly conducted many years apart, using different samples. The authors appear to have vertically compressed the bands in the 2010 paper, but expanding them here shows they are strikingly similar to those in the 2005 paper. As the sample passes through the gel, it creates a small amount of streaking which causes a distinctive irregular shape in the upper portion of each band; the pattern of this streaking is identical in the two images. **This degree of congruence could not have occurred by chance or error; it suggests a complex cross-publication dimension to Cassava Science’s band duplication behavior and, in this case, it is hard to imagine that the duplication was not intentional.** It is recommended that the original full-length images with appropriate molecular weight markers are obtained to validate band migration from both the 2005 and 2010 papers for independent review. Because of the seriousness of this duplication, if the original materials are not available, both of these papers must be retracted."
+
+https://preview.redd.it/qpzrs3r7mrj71.png?width=641&format=png&auto=webp&s=e61be7f18c596bfe51ad239f6bf4d13ea374dce2
+
+Yes, that's right. Two publications based on supposedly different experiments 5 years apart have pixel perfect copies of the same data. This would be enough evidence to expel a student from university. What about when billions of dollars are at stake?
+
+And
+
+"It is worth repeating, the preclinical and clinical foundations linking Filamin A to Alzheimer’s disease derive only from the publications of Drs. Wang and Burns. As shown above, ALL of these papers have evidence of apparent intentional scientific misrepresentation. Cassava Sciences’ Alzheimer’s disease clinical biomarker data with PTI-125/simufilam showed no evidence of efficacy when tested by an outside lab, and only showed apparent efficacy when re-analyzed in an academic lab—likely Dr. Wang’s lab as he is listed as the first author on the poster (26 July 2021) describing the re-analyzed data. Now, Cassava Science’s 26 July 2021 analysis of clinical biomarker results with PTI-125/simufilam also shows evidence of data manipulation."
+
+Guess who Dr. Lindsay Burns Sr. VP of Neuroscience at Cassava is married to? Cassava Sciences CEO Remi Barbier.
+
+Oh, and Dr. Hoau-Yan Wang? He's on Cassava's scientific advisory board.
+
+The evidence in the petition is endless.
+
+Now read Cassava Sciences's response:
+
+[https://www.cassavasciences.com/news-releases/news-release-details/cassava-sciences-responds-allegations](https://www.cassavasciences.com/news-releases/news-release-details/cassava-sciences-responds-allegations)
+
+Am I taking crazy pills?
+
+Who do you believe?
+
+PT: $0

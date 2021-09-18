@@ -1,0 +1,61 @@
+Ford's shift to Google infotainment software won't put brakes on BlackBerry QNX's ascent: analysts
+
+Do not read this post. 
+
+"But Rhodes and other analysts were quick to note that BlackBerry QNX is hardly a one-trick pony when it comes to automotive software".  
+
+From: [https://obj.ca/article/techopia/fords-shift-google-infotainment-software-wont-put-brakes-blackberry-qnxs-ascent](https://obj.ca/article/techopia/fords-shift-google-infotainment-software-wont-put-brakes-blackberry-qnxs-ascent)
+
+"An anchor of Kanata’s autonomous vehicles sector is still in the driver’s seat when it comes to developing emerging AV technology despite Ford’s decision to drop the company’s infotainment platform from its vehicles, industry analysts told OBJ Thursday. 
+
+The world’s No. 3 automaker made headlines (...) when it announced it was ditching BlackBerry QNX’s system that controlled tasks such as syncing mobile phones for hands-free calling and powering interactive maps in favour of an Android-based platform from Google.
+
+That means that starting in 2023, apps such as Google Maps will now be available in millions of Ford and Lincoln vehicles without requiring an Android smartphone.
+
+Ford joins a growing number of other car manufacturers, including Volvo, General Motors and the Renault-Nissan-Mitsubishi alliance, that have turned to Google to power their infotainment systems in recent years. 
+
+As a result, BlackBerry QNX ​– which employs about 400 people at its flagship Kanata R&D facility ​– has seen its share of the infotainment software market fall from nearly 50 per cent in 2017 to 28 per cent last year, according to market research firm IHS Markit. Ford’s move will only hasten that decline.
+
+## Not a one-trick pony
+
+“Ford was a significant piece of business for QNX – there’s no doubt about it,” says Brian Rhodes, IHS Markit’s Michigan-based research manager for connected cars, noting that the manufacturer accounted for more than a fifth of QNX’s infotainment software business in 2020. “There’s a gap there.”
+
+But Rhodes and other analysts were quick to note that BlackBerry QNX is hardly a one-trick pony when it comes to automotive software. 
+
+The company designs a variety of software systems used in cars made by Ford and other manufacturers, including telematics that underpins technology such as GPS navigation systems as well as assisted and autonomous driving platforms. Infotainment is just one of these systems, and experts say its relative importance to BlackBerry QNX’s business is waning.
+
+ Rhodes notes that the Waterloo-based company has been funnelling many of its resources into enhancing the safety and security of its real-time operating systems. He says BlackBerry QNX is “incredibly strong and getting stronger” at developing secure, connected platforms that control everything from airbags to autonomous parking systems. 
+
+As an example, he points to BlackBerry’s recent decision to expand its business partnership with Chinese search engine giant Baidu. 
+
+Under the deal, Baidu’s high-definition maps will be integrated into BlackBerry’s QNX Neutrino real-time operating system in millions of electric cars manufactured by GAC Group, one of China’s top three automakers. 
+
+“I think that’s exactly how they’re trying to position their business going forward,” Rhodes explains. “It’s really just phasing into a different part of their business.”
+
+Ottawa-based automotive industry expert Barrie Kirk agrees. 
+
+ While calling Ford’s decision unfortunate, Kirk says it wasn’t all that surprising considering the widespread industry shift toward Android-based infotainment systems.
+
+He notes that BlackBerry QNX has spent years building a strong reputation for developing secure software focused on other aspects of automotive technology such as autonomous driving systems, adding the company caters to a wide variety of other industries, including the medical sector. 
+
+## 'A solid company'
+
+“This is disappointing, but let’s keep it in perspective,” says Kirk, the executive director of the Canadian Automated Vehicles Centre of Excellence. “It’s a solid company with a broad market and a well-respected product line.”
+
+Rhodes adds that while Silicon Valley giants such as Google and others might find it relatively easy to make hay in the realm of infotainment software, building robust operating systems that can stand up to cyber attacks and other security threats is a much tougher nut to crack. And that’s where BlackBerry QNX excels.
+
+“The infotainment space has always been ripe for disruption,” Rhodes explains. “The barrier to entry certainly needs scale, but there are a lot of tech companies with a lot of scale out there.
+
+“The safety-critical space, you can’t buy 50 years of automotive experience, except (through) acquisition. It’s a more secure position to have that niche in – no pun intended.”
+
+Kirk says he hopes that Ford will continue to collaborate with BlackBerry QNX on other ventures at the automaker’s $340-million Ottawa Research and Engineering Centre on Palladium Drive, which employs hundreds of ex-BlackBerry workers.
+
+But no matter what happens, he sees a bright future ahead for a firm that’s shown a knack for weathering storms. 
+
+“This is the same BlackBerry that really adjusted very well as its smartphone business diminished,” he says. “They reinvented themselves in a big way and did a very successful job of that. I’m very confident that they’ll do well, and they'll adjust and keep growing.”
+
+TLDR: This is just one example of what is really going on behind the bearish bullshit articles flooding the space.
+Bb lost the infotainment contract with F but that does not encompass the totality of their working relationship. Articles have been and probably will continue to be framed in a bearish lean for the foreseeable future. Do your own dd 
+Obligatory 🚀 🚀🚀🚀🚀
+
+Edit: final phases of patent sale deal. The past couple earnings reports were inaccurate due to  revenue that couldn’t be declared. If we factor in avg patent rev bb would have beat the last two losses.

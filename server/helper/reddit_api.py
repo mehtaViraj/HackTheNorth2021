@@ -19,6 +19,6 @@ for i in subreddit:
         continue
     temp +=1
 
-    f = open(f"./corpus/{temp}_reddit.txt", 'w', encoding='utf-8')
+    f = open(f"./server/helper/corpus/{temp}_reddit.txt", 'w', encoding='utf-8')
     f.write(i.selftext)
     f.close()

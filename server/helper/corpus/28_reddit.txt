@@ -1,0 +1,23 @@
+This is important for the community, because this story went viral and has created confusion among traders. It got traders to think that their $30k trading account could create an $800k tax bill. No it cannot.
+
+[https://www.forbes.com/sites/shaharziv/ ... -tax-bill/](https://www.forbes.com/sites/shaharziv/2021/03/26/robinhood-trader-may-face-800000-tax-bill/)
+
+The author claims that a young man "opened up a brokerage account with $30k. . . in 2020, he transacted $45M (yes, Million) in total trades for a net profit of $45,000 by year end. He recently received his 1099-B and input it into Turbo Tax and to his chagrin, he had $1.4M in capital gain income and a tax bill of just over $800k.”
+
+This is mathematically impossible. I challenge anyone to come up with a series of trades using $30k (on margin so lets say he's allowed to buy the absolute maximum of $120k at a time on stocks with the lowest margin requirements) and create a $1.4 million capital gain on only $45,000 of actual economic gain, i.e. create $1,355,000 of losses deferred by the wash sale rule. It's only possible if you, say, grow the $45,000 to like $1.5 million and then lose it all on a series of wash trades, but that's not what the article is talking about. The article is talking about someone who bought and sold the same stocks with 30k of capital, earning small gains and losses repeatedly -- and had these small losses create the above disaster.
+
+It's amazing how many "professionals" repeated this viral article without showing the math. Yes, there are links repeating this story but not one person showed their math, because they can't, because it's impossible. That's why I'm posting this thread, to clear up this viral misunderstanding.
+
+**Let me explain why it's mathematically impossible**
+
+In essence, when you create a wash sale loss (a loss that you can't recognize), it steps up the basis of your existing shares. As a result of this stepped up basis, it's now harder for you to have a taxable gain (which equals the proceeds from the sale of a stock minus your basis). Since it's harder to have a taxable gain, it's hard to add to the bucket that grew to that $1.4 million.
+
+Second, let's say on one day you have a huge gain and close out your position in a stock with a taxable gain (so even though you have this huge stepped up basis due to all those deferred wash sale losses, you had such a huge gain that it overcame that basis and gave you a taxable capital gain) . . . you know what happens then? All those previously deferred wash sale losses are gone. It's like you started fresh.
+
+So in summary, it will be hard to create taxable capital gains if you have prior deferred wash sale losses (meaning it's hard to grow the taxable capital gains bucket to $1.4 million), and if you do create a taxable gain, those prior deferred wash sale losses are wiped out (meaning it's hard to grow the deferred wash sale loss bucket to $1.355 million).
+
+Now, of course, if you magically turned $30,000 into $1.5 million, sold and took that capital gain, and then had a series of wash sale losses that brought your $30k back down to $75k, then yes, you will a $1.4m taxable capital gain and $1.355 million deferred wash sale losses. But you're not trading with $30k anymore. You traded with $1.5 million. Someone trading only with $30k and having small gains and losses will never have the above. For one thing, wash sale losses are real economic losses. You can't have $1.355m of economic losses if you only had $30k of capital to invest.
+
+These marketing articles by accountants and professionals were designed to scare traders who were using only $30k, to get them to think that they could be on the hook for a $1.4m of taxable capital gains, and presumably to call the accountant and pay him for advice, but they are wrong. I'm posting this thread as a service to the community, and others who make google and want to learn.
+
+Here is the best link to how the wash sale rule actually works. It's from the IRS and has examples. [https://www.law.cornell.edu/cfr/text/26/1.1091-1](https://www.law.cornell.edu/cfr/text/26/1.1091-1)
