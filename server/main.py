@@ -1,11 +1,14 @@
+import os
 import flask
 import firebase_admin
 from firebase_admin import db
 from apscheduler.schedulers.background import BackgroundScheduler
 from flask import request, jsonify
+from numpy import cumproduct
 from helper import reddit_api as rApi, text_nlp as npl, yfinance_api as yf
 
-cred_obj = firebase_admin.credentials.Certificate('C:\programming\HtN\GitRepo\HackTheNorth2021\server\canvas-antler-326322-firebase-adminsdk-92hda-251ccf610b.json')
+current_dir = os.path.dirname(os.path.abspath(__file__))
+cred_obj = firebase_admin.credentials.Certificate(current_dir+'\canvas-antler-326322-firebase-adminsdk-92hda-251ccf610b.json')
 default_app = firebase_admin.initialize_app(cred_obj, {
 	'databaseURL': 'https://canvas-antler-326322-default-rtdb.firebaseio.com/'
 	})
