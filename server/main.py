@@ -1,9 +1,17 @@
 import flask
+import firebase_admin
+from firebase_admin import db
+from apscheduler.schedulers.background import BackgroundScheduler
 from flask import request, jsonify
+from helper import reddit_api as rApi, text_nlp as npl, yfinance_api as yf
+
+cred_obj = firebase_admin.credentials.Certificate('C:\programming\HtN\GitRepo\HackTheNorth2021\server\canvas-antler-326322-firebase-adminsdk-92hda-251ccf610b.json')
+default_app = firebase_admin.initialize_app(cred_obj, {
+	'databaseURL': 'https://canvas-antler-326322-default-rtdb.firebaseio.com/'
+	})
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
-
 
 @app.route('/', methods=['GET'])
 def home():
@@ -36,4 +44,34 @@ def page_not_found(e):
 def bad_request(e):
     return 'Bad request | StockClock API v1'.encode(), 400
 
+def loopedRedditTask():
+    pass
+
+def loopedYFinanceTask():
+    ref = db.reference('/stocks')
+    stocks_all=ref.get()
+    del stocks_all['TEST']
+    for stock in stocks_all.keys():
+        data = yf.getStockData(stock)
+        if data == 0:
+            continue
+        else:
+            ref = db.reference('/stocks/'+data['name'])
+            ref.set(data)
+
+
+print('Initializing Schedulers')
+scheduler = BackgroundScheduler()
+scheduler.add_job(loopedRedditTask, 'interval', hours=1)
+scheduler.add_job(loopedYFinanceTask, 'interval', hours=24)
+scheduler.start()
+print('Completed Schedulers')
+
+
+print('Initializing Reddit Task')
+loopedRedditTask()
+print('Completed Reddit Task')
+print('Initializing YFinance Task')
+loopedYFinanceTask()
+print('Completed YFinance Task')
 app.run(host='0.0.0.0', port=8080)

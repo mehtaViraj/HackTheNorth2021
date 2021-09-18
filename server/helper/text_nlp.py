@@ -168,10 +168,3 @@ def ask_questions(company, query):
     matches = top_sentences(query, sentences, idfs, n=SENTENCE_MATCHES)
     for match in matches:
         return match
-
-
-#learn_text("apple")
-print(ask_questions("apple", "When did Apple stop their car project?"))
-#main("tesla")
-'''if __name__ == "__main__":
-    main()'''

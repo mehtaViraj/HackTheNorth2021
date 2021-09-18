@@ -1,3 +1,4 @@
+from typing import Final
 import yfinance as yf
 import json
 
@@ -6,10 +7,8 @@ def getStockData(which):
     hist = stock.history(period="max")
     hist = hist[-30:]
     del hist['Volume']
-    history = hist.to_dict()
-    print(type(history))
-    print(history)
-    quarterly = stock.quarterly_earnings.to_json()
+    history = json.loads(hist.to_json())
+    quarterly = json.loads(stock.quarterly_earnings.to_json())
     #print(type(quarterly))
 
     final = {}
@@ -17,7 +16,10 @@ def getStockData(which):
     final['quarterly'] = quarterly
     final['history'] = history
 
-    result = json.dumps(final, indent=4)
-    #print(result)
+    if 'Revenue' not in final['quarterly'].keys():
+        return 0
 
-getStockData('MSFT')
+    #return json.dumps(final, indent=4)
+    return final
+
+#print(getStockData('MSFT'))

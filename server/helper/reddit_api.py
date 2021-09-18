@@ -1,8 +1,3 @@
-#! python3
-
-"""personal use script = wHCu_ThCqGDSWzyRDzF0fA
-security code = 2_wnaaHJYOvf4atHB_6i12X08hKBCA"""
-
 from re import sub
 import praw
 import os
@@ -30,5 +25,3 @@ def code(company):
         f = open(f"./corpus_{company}/{temp}_reddit.txt", 'w', encoding='utf-8')
         f.write(i.selftext)
         f.close()
-
-code("apple")
