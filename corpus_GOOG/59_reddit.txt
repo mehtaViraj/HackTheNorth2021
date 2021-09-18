@@ -1,0 +1,31 @@
+Tesla's current market cap is the result of multiple positive feedback loops which has pushed its price to a ludicrous level via Short + Gamma Squeezes (it is also important to note virtually all TSLA shorts are out^(1)). This campaign has been largely led by large hedge funds. Without S&P inclusion, the story might have ended there with hedge funds trying to escape with their profits and leaving retail the bag. However, S&P inclusion presented these hedge funds with a much better option to close out their positions while also riding the stock down. The shares that hedge funds no longer wanted began to be picked up by passive funds leading to selloffs by the active funds which pushed prices to this level.
+
+&#x200B;
+
+https://preview.redd.it/n6fgihd1y6h61.png?width=1482&format=png&auto=webp&s=c5d3bf5499e500fd3b23914d36a8f7ab0f145767
+
+With passive funds holding the bag, the hedge funds which lead the rally seem to be attempting to push the price back down through a reverse gamma squeeze^(2).
+
+&#x200B;
+
+https://preview.redd.it/l9c5bcwnz6h61.png?width=871&format=png&auto=webp&s=8ea1381af1f64f4e29a5bfcd4082f5df4e394283
+
+No retail trader is buying 1m+ in deep OTM puts, this is an attempt by hedgies to push the price down.
+
+We can also see this from the massive shift in options volume. $190B of calls open interest and over $250B of puts open interest, a massive put skew. This is especially significant because "To put it in context it is equal to the combined $AAPL and $AMZN bullish skew or if you’d rather to the combined  $BABA, $FB, $MSFT, $GOOG and $WMT combined." reflecting extremely bearish sentiment in an very very bullish market.
+
+Once the reversal begins there will be nothing stopping it as OTM puts get less and less OTM. There are no shorts left to be squeezed and the bag holding passive funds which are largely barred from holding derivatives will have no way of rebalancing the options skew.
+
+^(1)
+
+https://preview.redd.it/di251wy737h61.png?width=2048&format=png&auto=webp&s=5e109ae3fd20a102fd857b6c718b80cd3cd6ef8a
+
+^(2) For those who don't fully understand how a reverse gamma squeeze works I would recommend reading the Dynamic Hedging section of SqueezeMetrics' GEX white paper [https://squeezemetrics.com/download/white\_paper.pdf](https://squeezemetrics.com/download/white_paper.pdf)
+
+Most of the info in this post is taken from this [twitter thread](https://twitter.com/alexharfouche1/status/1359902501756166146?s=20) alongside a now deleted tweet from Michael Burry.
+
+**tl:dr for non-readers. stock go down. go a couple months out, deep OTM puts. not investment advice**
+
+edit: position
+
+[ ](https://preview.redd.it/ieh1dqwal7h61.png?width=394&format=png&auto=webp&s=4262b00e0bdbb04824ce37b8722b6dff5cc79929)

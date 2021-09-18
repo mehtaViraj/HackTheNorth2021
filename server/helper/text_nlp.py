@@ -9,7 +9,8 @@ FILE_MATCHES = 1
 SENTENCE_MATCHES = 2
 
 
-
+nltk.download('punkt')
+nltk.download('stopwords')
 
 
 def main(company):

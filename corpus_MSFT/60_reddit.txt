@@ -1,0 +1,29 @@
+"Under a schedule already agreed to the court, Amazon, DoD and Microsoft, judge Patricia E Campbell-Smith is expected to rule on whether to issue the stop-work order by Thursday. If she does not, the Defense Department has said **it plans to issue the first “substantive” JEDI task order to Microsoft on Friday."**
+
+[Source](https://federalnewsnetwork.com/defense-main/2020/02/aws-seeks-trump-testimony-in-jedi-cloud-lawsuit/)
+
+If all goes accordingly, headlines will read AWS defeated by Azure. Refocusing attention on Microsoft's profitable and growing cloud business. Not to mention, this is a 10 year deal with openings to new government cloud deals.
+
+***Why is this a big deal?***
+
+From my personal experience in the cloud business, I've worked directly with one of Amazon's subsidiaries on large cloud deals (over 7-figures) in Asia & South America for streaming services that needed low-latency that AWS could not provide due to their datacenter locations. It took our company over 7 months through litigation, red-lines, etc to finalize a contract. One the contract was finished and approved, getting new business can be done in the same day, i.e., once Microsoft is awarded, they can continue growing their government deals as needed, in the same day.
+
+Thus, tomorrow's ruling is a big win (if it happens) for Microsoft.
+
+Update: [the author just posted a new article](https://federalnewsnetwork.com/defense-main/2020/02/as-key-jedi-court-decision-looms-pentagon-warns-of-national-security-concerns/)
+
+A few key takeaways:
+
+1. "...the government argued not only that Amazon lacks the necessarily legal basis to get the temporary stop-work order, issuing one would cause **concrete harm to national security**."
+
+*Favors MSFT*
+
+2) "...To win the injunction, among other factors, Amazon needs to show that it’s likely to win the underlying lawsuit and that it its interests would suffer more without a work stoppage than the government’s would if the JEDI buildout was paused."
+
+*Favors MSFT*
+
+3) “While still lacking several key features of the JEDI Cloud…\[DoD\] anticipates a  financial  harm of between $5 and $7 million dollars every month that performance of the JEDI contract is delayed.”
+
+*Nail in the coffin. Case dismissed. MSFT, flawless victory.*
+
+Edit 2: [Reporter responded to me with timeframe for court ruling tomorrow.](https://twitter.com/jserbuWFED/status/1227793712702509057?s=20)

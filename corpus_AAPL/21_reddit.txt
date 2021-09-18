@@ -1,0 +1,19 @@
+ Hello  everyone! So I was analyzing the trending stocks on reddit on the past  week and I figured out I might just do a post for you guys regarding my  analysis. Keep in mind that this specific tool does not track some  stocks, for instance $WISH, because of the way it is build.
+
+So, this week's most mentioned stocks:
+
+https://preview.redd.it/wv3vm6cb4u771.png?width=1442&format=png&auto=webp&s=8c89129f1e3f41f27943e3e6a9ce627c67dacc06
+
+I  noticed some growth compared to the previous week in TSLA, SPCE and  JPM. With regard to TSLA, we can see that the sentiment is positive, but  going south for the past days:
+
+https://preview.redd.it/pe2n8hhc4u771.png?width=1738&format=png&auto=webp&s=5a8b7220cb84d58e70ddda15514c3fd8a9c81e7d
+
+Regarding SPCE, the growth was quite recent (as we all know), and the sentiment was also quite positive.
+
+https://preview.redd.it/8tw9czad4u771.png?width=1740&format=png&auto=webp&s=0ca5bbc66d66187d26e0fbe8a978167cd8846473
+
+JPM also had quite the explosion this week in post mentioning it, with the sentiment being quite positive as well.
+
+https://preview.redd.it/7d76sy9e4u771.png?width=1743&format=png&auto=webp&s=8f36f379eeed4e71df9e761d90a16c6823b87ac7
+
+NOTE:  None of this is financial advice, please do your own due diligence and  understand that the stock market is influenced by multiple factors.
