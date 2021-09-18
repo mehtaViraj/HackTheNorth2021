@@ -1,9 +1,0 @@
-Blackberry as a third-party software provider has the best shot at building an industry-standard vehicle software platform because they do not compete directly with the automakers. 
-
-I see some parallels between the smartphone revolution and the current ongoing connected vehicles revolution. There are mainly two approaches where software platforms can succeed. Either you go full vertical integration like Apple iOS/Tesla with an end-to-end consumer hardware+software product, or you go full horizontal integration as an outsider by unifying multiple hardware OEMs under the same software platform and rely on an alternative business model like Google Android+Google Mobile Services (and hopefully Blackberry QNX + IVY). 
-
-Those that decide to go alone in an attempt to build a vertically integrated consumer product but could not quite reach the level of "polished premium-ness" to compete with the likes of Apple/Tesla will eventually die-off or join the horizontal integration group (see Nokia and Blackberry phones). 
-
-The first-mover to start horizontal integration is likely to succeed if all its plans are well executed. The follower will have a much harder time competing with the first-mover even though it might have an equally-capable or even better platform (see Windows Phone).
-
-IVY is currently a first-of-its-kind platform, so it has a major headstart. As soon as IVY's adoption reaches a critical mass, the network effect will take off and IVY will become the industry-standard vehicle data platform.

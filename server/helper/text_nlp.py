@@ -3,15 +3,19 @@ import sys
 import os
 import string
 import math
+import pickle
 
 FILE_MATCHES = 1
-SENTENCE_MATCHES = 1
+SENTENCE_MATCHES = 2
 
 
-def main():
+
+
+
+def main(company):
 
     # Calculate IDF values across files
-    files = load_files("corpus")
+    files = load_files(f"corpus_{company}")
     file_words = {
         filename: tokenize(files[filename])
         for filename in files
@@ -113,6 +117,61 @@ def top_sentences(query, sentences, idfs, n):
     
     return [sentence for sentence, mwm, qtd in sorted(scores, key=lambda item: (item[1], item[2]), reverse=True)][:n]
 
+def learn_text(company):
+    try:
+        os.makedirs(f"{company}_info")  
+    except FileExistsError:
+        pass
 
-if __name__ == "__main__":
-    main()
+    files = load_files(f"corpus_{company}")
+    file_words = {
+        filename: tokenize(files[filename])
+        for filename in files
+    }
+    #creating a binary file to store idfs
+    file_idfs = compute_idfs(file_words)
+    f = open(f"./{company}_info/file_idfs.dat", "wb")
+    pickle.dump(file_idfs, f)
+    f.close()
+
+    #creating a binary file to store the file words
+    f = open(f"./{company}_info/file_words.dat", "wb")
+    pickle.dump(file_words, f)
+    f.close()
+
+def ask_questions(company, query):
+    files = load_files(f"corpus_{company}")
+    f = open(f"./{company}_info/file_idfs.dat", "rb")
+    file_idfs = pickle.load(f)
+    f.close()
+
+    f = open(f"./{company}_info/file_words.dat", "rb")
+    file_words = pickle.load(f)
+    f.close()
+
+    query = set(tokenize(query))
+
+    filenames = top_files(query, file_words, file_idfs, n=FILE_MATCHES)
+
+    # Extract sentences from top files
+    sentences = dict()
+    for filename in filenames:
+        for passage in files[filename].split("\n"):
+            for sentence in nltk.sent_tokenize(passage):
+                tokens = tokenize(sentence)
+                if tokens:
+                    sentences[sentence] = tokens
+
+    # Compute IDF values across sentences
+    idfs = compute_idfs(sentences)
+
+    matches = top_sentences(query, sentences, idfs, n=SENTENCE_MATCHES)
+    for match in matches:
+        return match
+
+
+#learn_text("apple")
+print(ask_questions("apple", "When did Apple stop their car project?"))
+#main("tesla")
+'''if __name__ == "__main__":
+    main()'''
