@@ -7,17 +7,24 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.company.stockclock.Activities.ImageNameHelper;
+import com.company.stockclock.Activities.MainActivity;
 import com.company.stockclock.Activities.NameFileHelper;
+import com.company.stockclock.Activities.StockFileHelper;
 import com.company.stockclock.ModelClass;
 import com.company.stockclock.R;
 import com.company.stockclock.Activities.GeneralScreen2Activity;
+import com.company.stockclock.requestsJava;
 import com.squareup.picasso.Picasso;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -56,7 +63,22 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.CardViewHold
 
          */
 
-        holder.prevClose.setText(model.getPrevClose());
+        // http requests: (trial)
+        ArrayList<String> keys = new ArrayList<>();
+        ArrayList<String> values = new ArrayList<>();
+        keys.add("stock");
+        values.add(model.getStockName());
+
+        //Toast.makeText(context, model.getCategoryName(), Toast.LENGTH_LONG).show();
+
+        requestsJava http_obj = new requestsJava();
+        http_obj.makeRequest(new requestsJava.VolleyCallback() {
+            @Override
+            public void onSuccess(JSONObject result) throws JSONException {
+                //Toast.makeText(context, "hello", Toast.LENGTH_LONG).show();
+                holder.prevClose.setText(result.getString("prev-close"));
+            }
+        }, context, "/latest-close", keys, values );
 
         Picasso.get().load(model.getImageName()).into(holder.imageViewSplash);
 
@@ -64,19 +86,27 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.CardViewHold
             @Override
             public void onClick(View v) {
 
+                Intent intent = new Intent(context, GeneralScreen2Activity.class);
+                intent.putExtra("position", position);
+                context.startActivity(intent);
+
                 //MainActivity mainActivity = new MainActivity();
+                /*
 
                 ArrayList<String> companyNameList;
                 ArrayList<String> imageNames;
+                ArrayList<String> stockNames;
 
                 companyNameList = NameFileHelper.readData(context);
                 imageNames = ImageNameHelper.readData(context);
+                stockNames = StockFileHelper.readData(context);
 
-                Intent intent = new Intent(context, GeneralScreen2Activity.class);
+
                 intent.putExtra("company_name", companyNameList.get(position)); // "name" is the keyword
                 intent.putExtra("image_name", imageNames.get(position));
+                intent.putExtra("stock_name", stockNames.get(position));
                 context.startActivity(intent);
-
+                */
 
                 /*
                 if (position == 0)

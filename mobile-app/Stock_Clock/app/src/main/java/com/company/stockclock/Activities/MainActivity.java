@@ -9,11 +9,15 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.company.stockclock.AddCompanyActivity;
 import com.company.stockclock.adapters.AdapterClass;
 import com.company.stockclock.ModelClass;
 import com.company.stockclock.R;
+import com.company.stockclock.requestsJava;
+
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -31,10 +35,31 @@ public class MainActivity extends AppCompatActivity {
 
     public ArrayList<String> imageNames = new ArrayList<>(); //this stores the names/links of all the image names.
 
+    public ArrayList<String> stockNames = new ArrayList<>();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // http requests: (trial)
+        ArrayList<String> keys = new ArrayList<>();
+        ArrayList<String> values = new ArrayList<>();
+        keys.add("aaa");
+        keys.add("bbb");
+        values.add("111");
+        values.add("222");
+
+        /*
+        requestsJava http_obj = new requestsJava();
+        http_obj.makeRequest(new requestsJava.VolleyCallback() {
+            @Override
+            public void onSuccess(JSONObject result) {
+                Toast.makeText(MainActivity.this, result.toString(), Toast.LENGTH_LONG).show();
+            }
+        }, getApplicationContext(), "/argument-test", keys, values );
+
+         */
 
         recyclerView = findViewById(R.id.recylerView);
 
@@ -47,18 +72,12 @@ public class MainActivity extends AppCompatActivity {
 
         arrayList = new ArrayList<>();
 
+        stockNames = StockFileHelper.readData(this);
+        StockFileHelper.writeData(stockNames, getApplicationContext());
 
         // image names list stuff starts ---->
 
         imageNames = ImageNameHelper.readData(this);
-
-        //adding image names into the array with image names:
-        /* INITIAL LOADING OF DATA:
-        imageNames.add("apple");
-        imageNames.add("microsoft");
-        imageNames.add("tesla");
-        imageNames.add("amazon");
-        */
         ImageNameHelper.writeData(imageNames, getApplicationContext());
 
         //adding names to the array with company names:
@@ -67,21 +86,12 @@ public class MainActivity extends AppCompatActivity {
         // company names list stuff starts ---->
 
         companyNameList = NameFileHelper.readData(this); //this will read data and send it to the arrayList if there is an data
-        //FileHelper is the class I wrote, readData method returns the arraylist of existing items
-
-        /* INITIAL LOADING OF DATA:
-        companyNameList.add("Apple");
-        companyNameList.add("Microsoft");
-        companyNameList.add("Tesla");
-        companyNameList.add("Amazon");
-        */
-
         NameFileHelper.writeData(companyNameList, getApplicationContext());
-
+        //Toast.makeText(this, "Test", Toast.LENGTH_SHORT).show();
         //trying a for loop to reduce number of lines to be written for the modelclass array:
         for (int i = 0; i<imageNames.size(); i++){
 
-            arrayList.add(new ModelClass(imageNames.get(i), companyNameList.get(i), "10 USD"));
+            arrayList.add(new ModelClass(imageNames.get(i), companyNameList.get(i), null, stockNames.get(i) ));
             //TODO
             // the third argument in the above thing must be changed after integration with server
             Log.d("I", String.valueOf(i));
