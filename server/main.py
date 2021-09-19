@@ -1,6 +1,7 @@
 import os
 import flask
 import firebase_admin
+import time
 from sys import platform
 from firebase_admin import db
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -21,20 +22,17 @@ default_app = firebase_admin.initialize_app(cred_obj, {
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
+knownStocks = []
+
+def getKnownStocks():
+    global knownStocks
+    ref = db.reference('/stocks')
+    all_data = ref.get()
+    knownStocks = list(all_data.keys())
+
 @app.route('/', methods=['GET'])
 def home():
     return 'StockClock API v1'.encode()
-
-@app.route('/prices', methods=['GET'])
-def stockprices():
-    results = {}
-    if 'stocks' in request.args:
-        for i in request.args.get('stocks').split(' '):
-            #db request for each i
-            results[i] = 'price'+str(i)
-    else:
-        bad_request(400)
-    return jsonify(results)
 
 @app.route('/argument-test', methods=['GET'])
 def argtest():
@@ -43,14 +41,74 @@ def argtest():
         results[i] = request.args.get(i)
     return jsonify(results)
 
+@app.route('/add-stock', methods=['GET'])
+def addCompany():
+    results = {}
+    if 'stock' in request.args:
+        stock = request.args.get('stock').upper()
+        if stock in knownStocks:
+            results['stock-status'] = 'Exists'
+        else:
+            data = yf.getStockData(stock)
+            if data != 0:
+                ref = db.reference('/stocks/'+data['name'])
+                ref.set(data)
+                rApi.code(data['name'])
+                nlp.learn_text(data['name'])
+                results['stock-status'] = 'Stock added'
+            else:
+                results['stock-status'] = 'Stock does not exist'
+    return jsonify(results)
+
 @app.route('/query-nlp', methods=['GET'])
 def queryNLP():
     results = {}
-    if (('query' in request.args) and ('company' in request.args)):
-        results['answer'] = nlp.ask_questions(request.args.get('company').upper(), request.args.get('query'))
+    if (('query' in request.args) and ('stock' in request.args)):
+        results['answer'] = nlp.ask_questions(request.args.get('stock').upper(), request.args.get('query'))
     else:
         bad_request(400)
     return jsonify(results)
+
+def newestValueFinder(dict):
+    closeValues = list(dict.values())
+    closeKeys = [int(x) for x in list(dict.keys())]
+    latestIndex = closeKeys.index(max(closeKeys))
+    return closeValues[latestIndex]
+
+@app.route('/latest-close', methods=['GET'])
+def lastClose():
+    results = {}
+    if 'stock' in request.args:
+        ref = db.reference('/stocks/'+request.args.get('stock').upper()+'/history/Close')
+        close_all = ref.get()
+        results['prev-close'] = newestValueFinder(close_all)
+    else:
+        bad_request(400)
+    return jsonify(results)
+
+@app.route('/latest-all', methods=['GET'])
+def lastAll():
+    results = {}
+    if 'stock' in request.args:
+        for i in ['Close','Dividends','High','Low','Open','Stock Splits']:
+            ref = db.reference('/stocks/'+request.args.get('stock').upper()+'/history/'+i)
+            values_all = ref.get()
+            results[i] = newestValueFinder(values_all)
+    else:
+        bad_request(400)
+    return jsonify(results)
+
+@app.route('/graph-coords', methods=['GET'])
+def graphCoords():
+    results = {}
+    if 'stock' in request.args:
+        ref = db.reference('/stocks/'+request.args.get('stock').upper()+'/history/Close')
+        values_all = ref.get()
+        results = values_all
+    else:
+        bad_request(400)
+    return jsonify(results)
+
 
 @app.errorhandler(404)
 def page_not_found(e):
@@ -95,6 +153,9 @@ scheduler.add_job(loopedRedditTask, 'interval', hours=1)
 scheduler.start()
 print('Completed Schedulers')
 
+print('Initializing FetchStock Task')
+getKnownStocks()
+print('Completed FetchStock Task')
 print('Initializing YFinance Task')
 loopedYFinanceTask()
 print('Completed YFinance Task')

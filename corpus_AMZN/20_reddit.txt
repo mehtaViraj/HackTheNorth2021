@@ -1,0 +1,31 @@
+175 million cars currently runs on BlackBerry QNX blah blah yada yada we’ve all read a hundred DDs on why BB is going to dominate the EV software market and IVY is gonna collect harvest boatloads of data which BB can sell for a pretty penny. 
+
+But think about it. 
+
+Like, wrinkly-brain think about it.
+
+Amazon doesn’t build cars or sell car insurance so what the hell do they really want out of this Blackberry partnership?
+
+The answer is drones. Lots of drones. Our cities will be swarming with delivery drones in the near future, and Amazon needs a way to:
+
+1. Control a vast network of drones that can delivery 2+ billion parcels per year 
+
+2. Prevent them from running into other drones/evtols/planes/vehicles 
+
+3. Prevent them from being hijacked by hackers and demonstrate to the government that their millions of drones are safe and secure (Blackberry has highest security rating)
+
+4. Collect live data from the drones for package tracking, delivery times estimation , route optimization etc (IVY)
+
+Andy Jassy, the current CEO of Amazon Web Services, will be taking over as CEO of Amazon in Q3. The same Andy Jassy from this article about BlackBerry IVY:
+
+“AWS and BlackBerry are making it possible for any automaker to continuously reinvent the customer experience and transform vehicles from fixed pieces of technology into systems that can grow and adapt with a user’s needs and preferences,” said Andy Jassy, CEO of Amazon Web Services, Inc. “Through this joint effort with BlackBerry, we will provide automakers with the insights, capabilities, agility, and speed they need to thrive in an increasingly connected world. As automakers seek to race ahead in their digital transformations, BlackBerry IVY empowers them to build their brands and set the standard for connected vehicle services across the automotive industry.”
+
+Blackberry IVY isn’t just some pet project for Amazon’s incoming CEO. It is quite possibly their MOST important project. Drone Delivery means that your Amazon Orders can get to you in MINUTES rather than days, and that they can come to YOU based on your GPS location instead of just your home or work address. 
+
+Amazon’s plans for drone delivery is no secret, but always seemed like a far-flung future kinda thing. Until now. 
+
+There must be a reason why Jassy of all people was chosen to take the helm at Amazon. What can he bring to Amazon that he isn’t already bringing from his current position as head of AWS?
+
+TLDR: Drones and Amazon’s domination of urban airspace
+
+Positions: jacked to the tits on BB shares. (Calls are too expensive due to meme status.)

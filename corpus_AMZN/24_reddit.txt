@@ -1,0 +1,11 @@
+In case you missed it, here are [Part 1](https://www.reddit.com/r/wallstreetbets/comments/lhooz1/bbamzn_speculation_blackberry_ivy_for_the/) and [Part 2](https://www.reddit.com/r/wallstreetbets/comments/li6gf1/bbamzn_speculation_part_2_forget_cars_its_was_all/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) of my speculation that Amazon's partnership with BB extends well beyond simply developing IVY to sell to automakers. I believe they are working together on Amazon's long overdue Prime Air fleet which will give BB access to autonomous flight data from hundreds of thousands of drones. This will put them years ahead of any evtol manufacturer or rtos developer and secure a monopoly in endpoint management for virtually anything on the IOT and is capable of moving vertically.
+
+Today, BlackBerry was featured at Morgan Stanley Technology's media conference. Charles Eagan (BB's Chief Tech Officer) answered a bunch of questions about security, IVY, QNX, end-point management etc. [Link to Webcast](https://morganstanley.webcasts.com/starthere.jsp?ei=1430549&tp_key=381e2505f3). (Drones mentioned at 18 minutes)
+
+When asked about drones, Charles said: "we are not allowed to talk about which vendors are using which tech," and "there is a number of active drone engagement that are happening"
+
+This practically confirms my theory that 1) IVY is being developed for not just ground based vehicles but flying ones as well and 2) they are working on it with some degree of secrecy.
+
+Amazon's drone fleet running on IVY will a great catalyst for BB share price... and that announcement can come at anytime. There is also some speculation going on about potential acquisition of BB, which isn't that far-fetched considering how John Chen joined Sybase in 1998, reinvented the company, and sold it to SAP a decade later.
+
+Positions: April $12.5C, June $13C, June $15C, and a boatload of shares

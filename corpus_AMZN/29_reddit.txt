@@ -1,0 +1,69 @@
+In case you missed it: [Part 1](https://www.reddit.com/r/wallstreetbets/comments/lhooz1/bbamzn_speculation_blackberry_ivy_for_the/) of my speculation on why I think BB/AMZN are not-so-secretly working together on drones. 
+
+TLDR: AWS's CEO will become Amazon's CEO, and together with JC he will make Futurama-esque air traffic a reality in the near future via AWS IOT and QNX/IVY.
+
+Okay first things first. To dispel the notion that "bLacKbErRy QnX iS foR caRS And iT haS notHinG to Do wITH DronES" see: [https://blackberry.qnx.com/en/autonomous-systems/](https://blackberry.qnx.com/en/autonomous-systems/) Literally the very first image on that page is a drone. QNX isn't just for cars. It's for all things autonomous including cars, trucks, evtols, drones, minority report spider bots, you name it.
+
+Secondly, with regards to those who claim that "Amazon can just program their own drones" and thus has no need for BlackBerry, I implore you to check out BB's trove of Government certifications (link [https://www.blackberry.com/us/en/company/certifications](https://www.blackberry.com/us/en/company/certifications)) and 40000+ patents (link [https://www.greyb.com/blackberry-patents-infringement-potential/](https://www.greyb.com/blackberry-patents-infringement-potential/)). 
+
+With that out of the way, let's talk D-R-O-N-E-S
+
+Here are a few more supporting evidence for my hypothesis:
+
+December 2013 - Bezos reveals Amazon Prime Air, a R&D project to deliver parcels with "octocopters" He suggested it would be \~5 years or so before it is available to consumers. [LINK](https://www.cbsnews.com/news/amazon-unveils-futuristic-plan-delivery-by-drone/) Well, it's been 7 years now so we are already 2+ years behind schedule.
+
+December 18, 2015 - Amazon file for patents pertaining to Unmanned Aerial Vehicles (LINK at bottom)
+
+December 18, 2015 - AWS IOT (Internet of Things) launches [LINK](https://aws.amazon.com/blogs/aws/aws-iot-now-generally-available/)
+
+>"We built IoT Core because connected devices are proliferating. They are in your house, your car, your office, your school, and perhaps even in your body! Like some of our more advanced customers, we have been building systems around connected devices for quite some time. **Our experience with** [**Amazon Robotics**](https://www.amazonrobotics.com/#/)**, drones (**[**Amazon Prime Air**](http://www.amazon.com/b?node=8037720011)**)**, the [Amazon Echo](http://www.amazon.com/echo), the [Dash Button](http://www.amazon.com/oc/dash-button), and multiple generations of [Kindles](http://www.amazon.com/Kindle) has given us a well-informed perspective on how to serve this really important emerging market"
+
+Is it reaching to suggest that Amazon very much had DRONES on their minds when they started AWS IOT on the same day the filed for UAV patents? Take a look at this [picture](https://cdn.vox-cdn.com/thumbor/-MY-sGfWtWNrFljWJj01HIzWM34=/0x0:811x612/1120x0/filters:focal(0x0:811x612):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8738261/drone_interior.png) to get an idea of what Amazon had in mind.
+
+Fast forward to 2020
+
+In Jan 2020, AWS announced a collaboration with BlackBerry:
+
+>"The platform will integrate the BlackBerry QNX operating system and over-the-air software update services, with **AWS IoT** cloud services for secure connectivity and telematics, Amazon SageMaker for developing ML models, and **AWS IoT** edge services for in-vehicle ML inference."
+
+Alright, so the purpose of this partnership is "secure connectivity", "telematics (monitoring of vehicle)" and "ML (machine learning)".. nothing that specifically points to drones yet
+
+In June 2020, BlackBerry partners with DeDrone (a leader in airspace security):
+
+>"New advanced technologies have the potential to solve some of today’s most pressing challenges, however, they also introduce new security risks,” said Christoph Erdmann, Senior Vice President of Secure Communications, BlackBerry. “**Drones are one of the many IoT endpoints that add to the growing chaos that security leaders must navigate.** We’re excited to partner with Dedrone to offer a critical solution that organizations around the world can use to keep citizens and the public safe.”
+
+Drones. Security. IoT. 5 months after Amazon and BlackBerry began their collaboration.
+
+In September 2020, Amazon Drone Fleet receives FAA approval. Did BB have anything to do with it? Maybe, maybe not.
+
+Alright, so let's pretend that you subscribe to this hypothesis that BB had a hand in Amazon's drone project. So what? BFD, right? How many drones are we even talking about? 20000? 50000?
+
+Amazon delivers \~3 billion packages a year globally. Drones are by far the cheapest option for last mile delivery (contrast that with a dude wear khaki shorts driving a 2 ton truck from the Amazon fulfillment center to your condo) so it's no stretch to suggest that it will be Amazon's preferred method of delivery like 99%+ of the time. No, a drone isn't going to fly all the way from Seattle, Washington to your porch in Blaine.. but an autonomous truck might take your parcel from Seattle to Blaine and let a drone complete the rest of the journey. Or something. 
+
+3 billion deliveries divided by 365  = 8.219 million deliveries per day. Even if drones can deliver packages to you in 30 minutes on average (60 min round trip) and worked around the clock with no need for recharging or maintenance, it would take 342465 drones. That's 342465 unmanned flying vehicles collecting flight data for IVY. 
+
+I'm gonna stop myself here before this completely devolves into JC/Jassy fan fiction. The whole point of this coke bender DD is to suggest that BB's potential isn't merely "OS for Cars." In fact, cars only account for 175 million out of Blackberry's 500 million IOT endpoints. 
+
+We're talking about drones, flying taxis, robots, roombas, fighter jets, tanks, and yes, EVs too. Essentially, anything that MOVES and CAN POTENTIALLY BE HACKED = $$$ for BB. I wager that there will be plenty of things in the future which fall into both of those categories.
+
+Position: a modest amount of BB shares.
+
+LINKS:
+
+[https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/aws-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform](https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/aws-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform)
+
+[https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html](https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html)
+
+[https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/dedrone-and-blackberry-partner-to-counter-unauthorized-drone-activity](https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/dedrone-and-blackberry-partner-to-counter-unauthorized-drone-activity)
+
+[https://www.prnewswire.com/news-releases/blackberry-collaborating-with-amazon-web-services-to-demonstrate-safe-secure-and-intelligent-connected-vehicle-software-platform-for-in-vehicle-applications-300981115.html](https://www.prnewswire.com/news-releases/blackberry-collaborating-with-amazon-web-services-to-demonstrate-safe-secure-and-intelligent-connected-vehicle-software-platform-for-in-vehicle-applications-300981115.html)
+
+[http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20170175413.PGNR](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20170175413.PGNR). (add the period at the end of the url)
+
+[Amazon's Drone patent image thingie](https://cdn.vox-cdn.com/thumbor/-MY-sGfWtWNrFljWJj01HIzWM34=/0x0:811x612/1120x0/filters:focal(0x0:811x612):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8738261/drone_interior.png)
+
+[https://press.aboutamazon.com/news-releases/news-release-details/amazon-web-services-announces-aws-iot](https://press.aboutamazon.com/news-releases/news-release-details/amazon-web-services-announces-aws-iot)
+
+[https://techcrunch.com/2015/10/08/amazon-announces-aws-iot-a-platform-for-building-managing-and-analyzing-the-internet-of-things/](https://techcrunch.com/2015/10/08/amazon-announces-aws-iot-a-platform-for-building-managing-and-analyzing-the-internet-of-things/)
+
+[https://www.cbsnews.com/news/amazon-unveils-futuristic-plan-delivery-by-drone/](https://www.cbsnews.com/news/amazon-unveils-futuristic-plan-delivery-by-drone/)

@@ -1,0 +1,29 @@
+I thought I had a brilliant, fool proof strategy that the market didn't know and I was first to discover but I was wrong.
+
+The strategy:  Find weekly options deep out of the money that yield at least 0.5% of the capital requirement. The shot strike price must be below the 200 moving day average and you leverage up to get decent premiums.
+
+I started this in May 2021 selling deep out of the money TSLA naked puts. Then I realized this uses too much margin, so I learnt about credit spreads but I didn't act on it. Then came big tech earnings week and I decided to lay low and not trade at all, but then my tool scanned and found the AMZN deep out of the money puts are yielding similar returns to TSLA, which is basically almost impossible to find in the market unless it's something like AMC or other meme stocks.
+
+I decided to pull the trigger, so I sold 3280 shot, and bought 3200 long on 7/28 expiring 7/30. AMZN was trading north of 3650. I was certain it wouldn't drop 10% or even get close.
+
+Well after hours happened and I paniced, my life flashed before me, I had levered up $525000 in my account, and I also had levered up my wife's account for $280,000 for a total of $800,000.
+
+This wasn't a YOLO, it wasn't a double my money scheme. I was thinking I could do this 52 weeks in a year, collect 0.5% yield on $800,000 of collateral and move to Hawaii.
+
+It didn't work out like that. When the markets opened, I got out of the position with $76K of damage, and wiped out all my gains and then some, but I'm thankful to everyone who helped me here on reddit (elsewhere) and WSB discord, and of course my wife who when she found out we'd lose $800,000 just said, don't worry at least we'll be together.
+
+So cautionary tale for those selling levered up bull put credit spreads and/or naked TSLA puts, those black swan events you don't think you can get close to ... well you can.
+
+EDIT: I lost $76K closing the position.
+
+EDIT 2: I had all my margin used up, so I needed to wire in more cash, which thankfully my broker makes available immediately, so that's how I actually closed the trade.
+
+EDIT 3: Please note, this was not a YOLO, I was not considering this as a gambling thing, but of course I know how it is now, but I'm not a YOLOer is what I wanted to say.
+
+EDIT 4: I have hundreds of DMs asking me how I found the spread, I will buy a new domain, host my app on that and you can all have at it for free. But I mean I hope you know it's not as good as it sounds given my post.
+
+EDIT 5: Proof: [https://imgur.com/a/HK0D5Yp](https://imgur.com/a/HK0D5Yp)
+
+EDIT 6: Many of you are commenting here, and DMing why I closed the position. I've had more hours to reflect on this, and I think I was worried about being unable to close the trade due to (potentially) diminishing buying power. I closed the trade about 4 minutes into the session so I did think twice about not closing it, but I don't know I made a judgement call. So ultimately, risk management and position sizing were the fatal flaws of this trade. On a side note, I wish broker dealers would let you CLOSE your positions if you have enough collateral even if you have exhausted your buying power due to Reg T rules.
+
+EDIT 7: I've been told this has happened here before, look at this guy: https://www.reddit.com/r/wallstreetbets/comments/h0l5uw/200k_yolo_on_spy_612_314_312_puts_credit_spread/
