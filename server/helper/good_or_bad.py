@@ -1,6 +1,6 @@
 import pickle
 import os
-
+from sys import platform
 
 f = open('good_words.dat', 'rb')
 good_words = pickle.load(f)
@@ -35,3 +35,5 @@ def check(text):
         return('Very Happy!')
     else:
         return('Do not invest')
+
+#print(check(get_text('AMZN')))

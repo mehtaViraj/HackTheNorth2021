@@ -1,9 +1,0 @@
-[https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-quantum-supremacy-computers-nasa-a9116371.html](https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-quantum-supremacy-computers-nasa-a9116371.html)
-
-Google hitting breakthroughs in quantum computing, this technology will revolutionize the server/datacenter market.
-
-IBM is also a leader in the race to develop a working quantum computer, so they might be a good long term investment if they continue to make sizable improvements on this technology
-
-Update: Just took a look at the pdf published to NASA - here's an important takeaway:
-
-"On Google Cloud servers, we estimate that performing the same task for m = 20 with 0.1% fidelity using the SFA algorithm would cost 50 trillion core-hours and consume 1 petawatt hour of energy. To put this in perspective, it took 600 seconds to sample the circuit on the quantum processor 3 million times, where sampling time is limited by control hardware communications; in fact, the net quantum processor time is only about 30 seconds."

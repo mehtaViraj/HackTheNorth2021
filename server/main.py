@@ -7,7 +7,7 @@ from firebase_admin import db
 from apscheduler.schedulers.background import BackgroundScheduler
 from flask import request, jsonify
 from numpy import cumproduct
-from helper import reddit_api as rApi, text_nlp as nlp, yfinance_api as yf
+from helper import reddit_api as rApi, text_nlp as nlp, yfinance_api as yf, good_or_bad as GoB
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 if 'win' in platform:
@@ -55,6 +55,10 @@ def addCompany():
                 ref.set(data)
                 rApi.code(data['name'])
                 nlp.learn_text(data['name'])
+                redditView = GoB.check(GoB.get_text(stock))
+                ref = db.reference('/stocks/'+stock+'/redditView')
+                ref.set(redditView)
+
                 results['stock-status'] = 'Stock added'
             else:
                 results['stock-status'] = 0
@@ -64,7 +68,9 @@ def addCompany():
 def queryNLP():
     results = {}
     if (('query' in request.args) and ('stock' in request.args)):
-        results['answer'] = nlp.ask_questions(request.args.get('stock').upper(), request.args.get('query'))
+        ref = db.reference('/stocks/'+request.args.get('stock').upper()+'/longname')
+        company = ref.get()
+        results['answer'] = nlp.ask_questions(company , request.args.get('query'))
     else:
         bad_request(400)
     return jsonify(results)
@@ -127,7 +133,7 @@ def loopedYFinanceTask():
         if data == 0:
             continue
         else:
-            ref = db.reference('/stocks/'+data['name'])
+            ref = db.reference('/stocks/'+(data['name']).upper())
             ref.set(data)
 
 def loopedRedditTask():
@@ -135,15 +141,32 @@ def loopedRedditTask():
     stocks_all=ref.get()
     del stocks_all['TEST']
     for stock in stocks_all.keys():
+        stock = stocks_all[stock]['longname']
         rApi.code(stock)
+    print('Completed Reddit Task')
+    print('Initializing NLP Task')
     teachNLP()
+    print('Completed NLP Task')
+    print('Initializing Evaluation Task')
+    evaluateReddit()
 
 def teachNLP():
     ref = db.reference('/stocks')
     stocks_all=ref.get()
     del stocks_all['TEST']
     for stock in stocks_all.keys():
+        stock = stocks_all[stock]['longname']
         nlp.learn_text(stock)
+
+def evaluateReddit():
+    ref = db.reference('/stocks')
+    stocks_all=ref.get()
+    del stocks_all['TEST']
+    for stock in stocks_all.keys():
+        stockLN = stocks_all[stock]['longname']
+        redditView = GoB.check(GoB.get_text(stockLN))
+        ref = db.reference('/stocks/'+stocks_all[stock]['name'].upper()+'/redditView')
+        ref.set(redditView)
 
 
 print('Initializing Schedulers')
@@ -159,7 +182,7 @@ print('Completed FetchStock Task')
 print('Initializing YFinance Task')
 loopedYFinanceTask()
 print('Completed YFinance Task')
-print('Initializing Reddit+NLP Task')
+print('Initializing Reddit Task')
 loopedRedditTask()
-print('Completed Reddit+NLP Task')
+print('Completed Evaluation Task')
 app.run(host='0.0.0.0', port=8080)

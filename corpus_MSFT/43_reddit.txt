@@ -1,9 +1,0 @@
-Hello  
-
-I write to remind you of an old friend of the sub, Mr. Satya Nutella.   
-
-MSFT has been sideways ever since they tried to acquire a clock company, but MSFT is still MSFT, and azure is still azure. ER will be late Jan/early Feb, and IV is low rn.  
-
-Post-ER ATM Jan MSFT calls have IV around 30%, w/ break even around $220. IV on LEAPS is also low.  I'm thinking there might be IV expansion heading into earnings, if the whole market goes up MSFT could just ride the wave, or third MSFT just bounces around alot btw 205-215 and if it randomly rises then cool. AFAIK opportunities for downside are basically a market crash/tech dip or random unexpected bad news for MSFT, which is just true for everything. For comparison on IV pre earnings in the current market, I'm looking at something like Oracle, a huge boring company that has ER tonight and IV on ATM options of 110%. Maybe there's some unique reason Oracle has high IV, but I don't know it.   
-
-**TL;DR**: Positions: 5 MSFT 215c 2/19/2021; 8 MSFT 210c 1/21/2022; 8 MSFT -235c 12/11/2020; 2 BA 295c 1/21/22; 2 BA -300c 12/11/2020
