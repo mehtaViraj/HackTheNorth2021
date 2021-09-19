@@ -1,26 +1,37 @@
-If true this would be huge. [https://twitter.com/CGasparino/status/1386734121607745544](https://twitter.com/CGasparino/status/1386734121607745544)
+Hello All,
 
-Technically it looks like a 5-star set up on a chart heading into their earnings day this Thursday. Been in a channel for 8 months. Sitting at ATH's right now waiting for a reason to break out. A big earnings beat sends it higher or a split sends it higher. 
+After my SOFI TA yesterday I had a request for a TA of these tickers and their potential price movement in the near future. Specifically, a visualization and breakdown of stocks that seem to "keep running."
 
-If there's a 6 to 1 or more split I bet we see +10% Friday even on average earnings. If we get an earnings beat plus a split then we're talking a once in a lifetime move for a biz their size - maybe 50% gains in the 1-2 months. Last time it consolidated this long it doubled in a leg up in 2-3 months. If they don't have numbers that get them there they will likely play the Split card. They know they need a breakout after the last 8 months and with a new CEO. Their last earnings was actually amazing but the stock didn't go because of the Bezos news. A big reason its stalled is the fact that it's 4k freaking dollars. A split means retail can jump in on shares & call options.
+See [https://www.reddit.com/r/wallstreetbets/comments/ofh1ha/sofi\_soft\_technical\_analysis/](https://www.reddit.com/r/wallstreetbets/comments/ofh1ha/sofi_soft_technical_analysis/) for my SOFI technical analysis.
 
-I follow lots of hedge fund guys on Twitter and they're all sharing the same article of this hedge fund guy Bill Miller saying AMZN will double in Barron's and they're all just waiting for a reason to send it higher. [https://twitter.com/JGreenwald86/status/1385585022585954311](https://twitter.com/JGreenwald86/status/1385585022585954311)
+I am applying my strategy as a day trader to see what our long term resistance and support levels are. I'm simply a day trader of three years that has consistently used standard deviations, RVI, and volume on a 6month and 1year time frame to determine my buy/sell areas on stocks, no matter whether I am swing trading or trading intraday. My current trading accuracy is 81%.
 
-If there's an earnings beat then over the next few weeks analyst after analyst will trip over each other upgrading their PT's which'll also send it higher. Analysts don't downgrade AMZN. They either keep their previous ratings or they upgrade. [https://www.tipranks.com/stocks/amzn/forecast](https://www.tipranks.com/stocks/amzn/forecast)
+\-Easy Breakdown of Statistical Standard deviations - 68% of a stock's price range is within 1 statistical standard deviation of it's average/regression trend (2 blue lines), 95% within two deviations (first upper and lower purple lines), and 99.7% within 3 deviations (upper and lower purple lines), known in stats as the 68-95-99.7 rule. These deviations also function, generally, as true support and resistance levels, with deviations, once crossed, becoming either the new resistance or new support level.
 
-If we get any kind of good news Thursday I think we have $4k upside in the next month at least.
+\-ZTS - Moving on news and hype since 3/8/2020. Here is the One Year and 6 Month Deviation Chart - [https://imgur.com/EBtv6RI](https://imgur.com/EBtv6RI)
 
-I've done a lot of time doing DD on this and I think it's a rate 5-star situation so I wanted to bring it to the fam. 🦍 Would suck if I got rich/poor without you.
+ZTS has currently broken through all deviation resistance levels over the past 4-5 months however it is now at over +2 Deviations on both the One Year and 6 Month chart which indicates it is entering extremely overbought territory. Both + 2 Deviation Support Levels are $195. Should it crack through that soon, we should see prices back down to the +1 Deviation Support Level or $185. Now is not a good time to enter. The Stock has entered its selling phase and can easily crash a full deviation price swing in one day. Should it manage to continue upward, we could see prices around $205 (+3 Deviations) although this is unlikely.
 
-I think calls are the move since we're either in for sideways or 🚀🌕. 
+\-FB - One Year and 6 Month Deviation Chart - [https://imgur.com/CiC0KHd](https://imgur.com/CiC0KHd)
 
-I'm thinking **June 4 @ $4,000 strike** for price / expiry. 
+FB has pretty much made it's long-term move for now. It was not able to break +1 Deviation Resistance around 355-358 on the 6 Month Chart. And its +1 Deviation Support on the 1 Year chart is $350, which it broke through pre-market. It is entering the selling phase and we should see prices back around the $321-328 Area, its long-term regression trend, before any deviation support helps to bounce it.
 
-Going to war tomorrow. Would love to have fam beside me. What say you?
+\-AMZN - One Year and 6 Month Deviation Chart - [https://imgur.com/VsKQbhS](https://imgur.com/VsKQbhS)
 
-UPDATE --
-i just looked at the last 45 earnings for amazon, and compared price day of to 5 weeks later.
+On Amazon's One year chart, it has tended to trend between +3 deviations, crash to -2 Deviations, then bounce, with most of the action happening between +1/-1 Deviations following the typical sine-wave like cyclical price pattern seen in many stocks. In the immediate future, it is, like FB, statistically overbought, hovering above +2 deviation support levels of $3500 and $3600 which it is likely to break soon and trend back to it's regression price of 3300-3350. Not the time to buy.
 
-16% of the time, amzn's stock price increased >15%. 84% of the time amzn's stock did not increase by >15%. Among the times that amzn saw a 15%+ increase over the following 5 weeks post earnings, the average gains was 19%.
+\-NVDA - One Year and 6 Month Deviation Chart - [https://imgur.com/HYsy5ne](https://imgur.com/HYsy5ne)
 
-Something to keep in mind if you wanna buy a call option. Historically we've seen big gains 16% of the time following earnings for AMZN.
+&#x200B;
+
+It seems NVDA has finally completed its run up to +2 Deviation resistance on both charts, as you can see it bouncing off the 1st purple line this week. This indicates a bearish move to the downside after being extremely overbought the last 3 months. Our downside buy area would be between $665-678 and the immediate deviation support at +1 on both charts is $748-756 where it will likely try to hold trend before snapping down to it's regression trend line.
+
+Hope these images help you all visualize price trends of these stocks. Good luck trading today!
+
+ZTS - [https://imgur.com/EBtv6RI](https://imgur.com/EBtv6RI)
+
+FB - [https://imgur.com/CiC0KHd](https://imgur.com/CiC0KHd)
+
+AMZN - [https://imgur.com/VsKQbhS](https://imgur.com/VsKQbhS)
+
+NVDA -   [https://imgur.com/HYsy5ne](https://imgur.com/HYsy5ne)
