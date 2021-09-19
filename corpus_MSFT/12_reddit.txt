@@ -1,0 +1,64 @@
+Full report: [https://datastudio.google.com/s/pO1DcwglE7w](https://datastudio.google.com/s/pO1DcwglE7w)  
+**In short, they are still growing on most segments, the CEO does smart acquisitions (usually at a bit of a premium).**
+
+\--The Business--
+
+Microsoft is a technology titan focused on commercial and industrial applications with software and solutions such as Office 365, Azure, Microsoft Teams, Dynamics 365, Linkedin, Windows 10. They also provide platforms for developers via Visual Studio Code and Github. A smaller segment of Microsoft are their devices and their games division powered by Xbox.
+
+**--Next Moves: Healthcare Applications--**
+
+The healthcare sector is characterized by massive bureaucracy and opportunities for growth. It is one of the rare sectors where real future growth is possible by innovation. Microsoft has established itself as a corporate and industry suite, but now it seems that they are taking their whole Eco-system and moving on the healthcare industry.
+
+This is pure speculation, but it can be one of the boldest moves yet, as healthcare facilities, operations, education, training, quality control are large complex systems that can benefit from the tools and services that the company offers.
+
+We have seen Microsoft positioning for a certain client type and taking over most of their business. As the opportunities for growth in the corporate sector decrease, Microsoft might just turn to one of the most complex industries with high barriers to entry and large upfront investment costs.
+
+On 11 April 2021 they entered into an agreement to acquire Nuance Communications for $ 56 per share, or $19.7 Billion. Nuance is a cloud and artificial intelligence (“AI”) software provider with healthcare and enterprise AI experience, and the acquisition will build on our industry-specific cloud offerings. This is effectively their foot in the door to the healthcare industry.
+
+**--Value--**
+
+I think that the company is trading around its intrinsic value, with potential for growth in the future. There is inflation related market risk that can push down value, but with proper management and pricing flexibility they can at least sustain current value levels.
+
+Microsoft solidified the cloud for the corporate & business sector, and decreased the risk of their sales by adopting a continuous subscription model for most of their services.
+
+Their business model seems to be growth trough innovation as they are positioning themselves precisely in segments where innovation is lacking and are integrating those segments within their high-barrier to entry, complex systems.
+
+\--**Product Breakdown--**
+
+AZURE:  The backbone of the productivity suite for most of the western corporations 
+
+Office:  Stabilized revenues for essential business tools
+
+Windows 10:  Declining bloatware built upon old architecture 
+
+LinkedIn:  Well positioned, profitable social network with long-term commuted users 
+
+Dynamics/Viva:  A major competitor for CRM/ERP market-share with potential for innovation 
+
+PowerApps:  The future tool for cutting operating expenses and bureaucracy for companies 
+
+Devices: Uncertain potential for a better experience for Windows users. Augmented reality done right with industry application
+
+GitHub, VS Code:  The platforms that will keep MSFT on the cutting edge of development tech
+
+Gaming/Xbox: Large but risky potential for growth if the devices and games are improved
+
+Microsoft has a wide and complex set of products and services which can be understood as cost cutting tools for businesses, system architecture utilities, productivity and effectiveness tools. 
+
+They have created a well-thought off interconnected Eco-system that is nothing like the company was even five years ago.
+
+It is now apparent that they are well positioned as a market leader for industrial and business applications and will further solidify their position in the future.
+
+\--Competition--
+
+We are already witnessing the convergence of competitive advantages between the technology titans of Amazon, Google, Microsoft, Facebook, and it is clear that all of them are fighting for market share in similar technologies and industries. 
+
+It seems that every company is fighting for their specific industry positioning within technology. For example, Facebook, Microsoft and Google all experiment with Virtual Reality tools such as Google Glass, Oculus Rift and the HoloLens Headset from Microsoft. However MSFT seems to be the most successful as it is positioning for industrial, military and hybrid workspace applications for the headset - the others had less luck in the consumer/gaming sector application of VR.
+
+Google, Amazon and Microsoft are likewise competing for cloud dominance, where Amazon AWS is positioning as a cost effective player for developers, MSFT is positioning as a stable and secure platform for companies and Google is positioning as an advanced cutting edge option for new technologies and companies that are able to scale.
+
+The last example is between MSFT and GOOGL where they competed for the use of virtual conference apps driven by the new hybrid work culture from the pandemic. Both of the competitors had a variant starting off, MSFT had Skype/Teams, and Google had Hangouts/Meet. It is evident that Microsoft had the right approach with Teams and took over the commercial sector for online communication. Side note, Skype is a drain on the Microsoft brand since the appearance of the pretend close feature. It is irredeemable and should be retired.
+
+DISCLAIMER: I do not own a MSFT position, I am planning to go long on MSFT next week.
+
+THIS IS NOT INVESTMENT ADVICE, I AM NOT A PROFESSIONAL, I AM NOT TAKING INTO ACCOUNT YOUR GOALS AND SITUATION.

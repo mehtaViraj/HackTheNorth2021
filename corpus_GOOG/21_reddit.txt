@@ -1,0 +1,106 @@
+I posted this elsewhere, but I'm reposting here in case someone finds it useful.
+
+In this post, I will provide a quick overview of option pricing in its most simplified form, aimed at beginners. Why, you ask? There is no shortage of resources online, but many focus on the definitions, introduce the Greeks, and omit the complicated math. The Greeks are definitely important, but when you're starting out, it might be easier to think about options pricing in a different way.
+
+If you're an expert, you likely won't learn anything new from this post. With the preliminaries out of the way, let's begin.
+
+**The random walk model**
+
+To price derivatives, i.e., options, we need to first have a model for the underlying. The commonly used model is that equity prices exhibit [*Geometric Brownian motion*](https://en.wikipedia.org/wiki/Geometric_Brownian_motion). In this model, the price of an equity continuously compounds with time, but at a varying rate; at any instant, the rate is the sum of two parts: a steady component (or drift), and a random component (that can be positive or negative in a compounding period). 
+
+[Example of a price history with a daily drift of 5 bps, and a random component with a typical daily scale of 100 bps, values that are typical of SPY over the last 10 years](https://postimg.cc/cgcKJHQv)
+
+[Distribution of daily growth rates for this price history](https://postimg.cc/ph5GNw8c)
+
+Given a starting point, several price histories can fan out from there, for different realizations of the random components of the growth rates (the above price history was for one realization). 
+
+[5000 randomly generated trajectories for SPX over the last 10 years](https://postimg.cc/3d2pQ4mX)
+
+If we could look at this universe of possibilities (a' la Dr Strange), and record the final price for each history, we would obtain a distribution of final prices from a starting price.
+
+[Theoretical, and empirically derived (by generating random trajectories) distributions for the final SPX price](https://postimg.cc/YL3QTRXy)
+
+Here are a couple of important features of this distribution:
+
+* Over an extended interval that spans several compounding periods, odds are the total growth rate within the interval is *below* the expectation from the steady rate (this pops out from the graph above). This means that the price action will **underperform the mean more often than not**, and make up for it with relatively **shorter/fewer spurts of overperformance** (legs up), so that the average growth rate will equal the steady one. 
+
+ [Another way of looking at the same feature: we map each final SPY price to a compounded daily growth rate for that trajectory, and look at the distribution of these rates; notice how it peaks *below* the steady rate](https://postimg.cc/Mnx1qCk3)
+
+* The *spread* in the universe of possibilities (i.e., how much the universe of trajectories "fans out", as measured by, say the [logarithmic range](https://en.wikipedia.org/wiki/Natural_logarithm) that the trajectories explore, after factoring out the mean return) grows as the square root of the elapsed time.
+
+ [Standard deviation (or typical spread) in the natural logarithm of the SPY price over the universe of trajectories, as a function of time](https://postimg.cc/4mFbb8jW)
+
+ This spread is usually expressed in terms of an annualized volatility percentage, so over a finite time (t): 
+
+ **Spread in the natural logarithm of price = (volatility percentage / 100) * square_root(t / 252 days)**
+
+ assuming there are 252 trading days in a year. For reference, the trajectories in the plots above have a volatility percentage of 16% (which is coincidentally not far from the IV of leap options on SPY). **Note that if the changes in price are reasonably small, the spread in the natural logarithm of price equals the spread in the price, measured as a fraction of the price.**
+
+
+**Option pricing**
+
+Given the model that I described above (and its parameters), how do we value a call option to purchase shares at a given strike (K) and a given day in the future (T), given the current price (S)? The classical method is to proceed via the [Black-Scholes model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model), which answers the question in terms of the solution to a differential equation. 
+
+Let's think of this in another way: if we think of the call option as an asset, its present value is the discounted value of all the future cash flows that we're exposed to if we hold it. If we buy the call option, we have two kinds of future cash flows:
+
+* We pay the strike (K) at time T.
+
+* Assuming we immediately resell the underlying at the time T, we get a cash amount equal to its future price.
+
+These transactions happen only if the price at T exceeds K. For a moment, assume that we are forced to purchase the underlying at K regardless of price and immediately resell it (i.e., no optionality). 
+
+* The present value of the first cash flow is easy: it equals -K * e^(-r T), where e is Euler's constant and r is the risk-free rate of borrowing (i.e., if we have K * e^(-r T) in the bank today, we will have K in our account at T that we debit in order to purchase the underlying). 
+
+* For the second cash flow, our expectation is that the (unknown) price at T is distributed like in the model above ([remember](https://postimg.cc/YL3QTRXy)). To discount this distribution to the present time, we cannot use the risk-free rate (since it is a risky investment), but rather we have to use the expected rate of return. After we do this, the steady rate cancels out, and *the distribution of discounted prices only depends on the current price (S) and the expected spread in the future price (i.e., volatility and time remaining)*.
+
+ [Distribution of discounted 10 year prices for SPX on 2011-05-02](https://postimg.cc/8sSc0kwr)
+ 
+ [Distribution of the natural logarithm of discounted 10 year prices for SPX on 2011-05-02](https://postimg.cc/Cd3NtqXs)
+
+ The fact that the value of the option does not depend on the steady growth rate (or the equity risk premium) means that **by purchasing the option, you're not betting on the expected growth of the price, you're betting on excess growth**. In other words, **stonks go up is priced in**.
+
+*If we add the optionality, only those parts of the discounted distribution that are profitable count*. Here are the same figures as above, with the relevant regions marked for a discounted strike price of 2115.
+
+[Distribution of discounted 10 year prices for SPX on 2011-05-02, with the shaded region relevant for a strike price of 2115](https://postimg.cc/gnxmNr1p)
+
+[Distribution of the natural logarithm of discounted 10 year prices for SPX on 2011-05-02, with the shaded region relevant for a strike price of 2115](https://postimg.cc/Czk6hgqD)
+
+* With the optionality, the first cash flow (paying for exercise at T) has a present cost of -K * e^(-r T) * area of blue shaded region (i.e., exercise cost * the estimated probability of exercising the option).
+
+* With the optionality, the second cash flow (earnings from reselling the underlying) has a present value similar to the area of the blue shaded region, but with an extra weighting factor that depends on the exercise price (the precise calculation involves some extra mathematical details).
+
+These two terms are precisely those that appear in the solutions to the Black-Scholes model, e.g., [here](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). 
+
+
+**Volatility and time**
+
+From the previous discussion, and [this](https://postimg.cc/Czk6hgqD) figure in particular, we see that the probability of exercise, and hence the value of an option, depends on the area of the normal distribution beyond the strike price. This is called the *survival function*.
+
+[Survival function as a function of the departure from the peak of the normal distribution, in units of its standard deviation, or spread](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm#SURVIVAL)
+
+Notice that as we move toward positive values of x, the survival function falls exponentially. 
+
+From [this](https://postimg.cc/Czk6hgqD) figure, **the spread in the distribution of log(discounted prices) depends both on the volatility and the time to expiration**; Hence if the volatility dies down or the time to expiration draws nearer, the spread narrows, and for a fixed OTM strike price, even if the underlying price doesn't move, the **difference between the logarithms of the strike and the price, measured in units of the spread** (which is what the survival function depends on) rises steeply, and hence the probability of exercise and the value fall steeply. 
+
+[Change in the probability of exercise for an OTM SPX call option with 3 years remaining vs 10 years remaining (neglecting the change in the discounted strike due to the risk free rate)](https://postimg.cc/3kNcpbfJ)
+
+Depending on what is changing, this effect is captured by a combination of a few of the options Greeks (theta, charm, vega, ...), but we can see that at the core, all of these are describing the same phenomenon.
+
+
+**Why did I lose money even when the price moved my way?**
+
+The volatility that is priced into options is **not backward looking (historical volatility), but forward looking (expectation of future volatility, or implied volatility (IV))**. 
+
+[historical volatility and implied volatility of the GOOG options chain this year](https://postimg.cc/18Sp1gwx)
+
+**Prices move by small amounts, but the IV moves by a lot in a small amounts of time, and hence the IV is the most important metric to consider when buying options**, considering the sensitivity of options prices to this parameter. Buying calls when the IV is high (e.g., earnings) is equivalent to betting on a loaded dice with the bias not in your favor.
+
+
+**Caveats**
+
+I have neglected several real-world effects in this discussion: dividends, early exercise, etc. 
+
+Another important factor is that the Geometric Random Walk model isn't really correct, since the distribution of daily returns is very non-Gaussian: there are many more days with small moves, and very large moves, than the model predicts. The market deals with this by using different volatilities for different strike prices. Moreover, the moves can exhibit correlations on various timescales, which are not accounted for in this class of models.
+
+
+You can play with the code used to make the plots in this note here: https://colab.research.google.com/drive/1jRi_20hoM2lG_lmaIHCUMTPJ16BwP8nG?usp=sharing

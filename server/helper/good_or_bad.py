@@ -28,5 +28,4 @@ def check(text):
             score += 3
     return score
 
-print(check())
 

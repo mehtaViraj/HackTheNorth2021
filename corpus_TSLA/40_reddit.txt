@@ -1,0 +1,51 @@
+# Bullish - Neutral Bias - July Read
+
+# TSLA GAMMA READ
+
+* 24.88% of total gamma will expire on 5/28 (When a large amount of gamma expires (generally >25%) then the underlying stock may shift away from current prices.)
+* Upper hedge band has increased to 1,000 from 900 on 5/20
+* Call total has decreased to 2.6m from 2.9m on 5/20
+* Put total has decreased to 2.7m from 2.8m on 5/20
+* Bulls need >400M total gamma
+* Bears need <300M total gamma
+* Darkpool indicator has increased from 40.5% to 54.8% (MMs are buying the dip)
+
+https://preview.redd.it/uz41m0it2k171.png?width=3126&format=png&auto=webp&s=0dcd099146dc40cfb15e1bf1b21227c9d68294f6
+
+# TA NOTES:
+
+* Found support at 600 hedge wall
+* 600 - 547.2 support needs to hold for upward movement to resistance 🎯 662.53 - 691.28
+* Bulls need to break resistance 691.28 for bullish 🎯
+* Bullish 🎯 731.09 - 764.26 - 782.69 - 800.38 - 823.23
+* Bears need to break 547.2 ish for bearish 🎯
+* Bearish 🎯 462.7 - 442.8 - 408.95
+
+https://preview.redd.it/4o92cs0o2k171.png?width=2998&format=png&auto=webp&s=3f6756372ac27c1d1fe32507396ed909c40bc89f
+
+1D RSI
+
+* Under 50 but bounced nicely 30
+* Bulls need 60.92 - 70 - 79.20 - 85
+* Bears need 30 - 23.26 - 20.36
+
+https://preview.redd.it/k1byoo9f7k171.png?width=2998&format=png&auto=webp&s=0ac25d242517c33b124dd7aa7e9b6fb808ec2d12
+
+OBV
+
+* Bulls need to break 4.947B
+* Bullish 🎯 5.054B - 5.195B - 5.435B
+* Bears need to break 4.851B
+* Bearish 🎯 4.677B - 4.215B
+
+https://preview.redd.it/78yzc87e8k171.png?width=2998&format=png&auto=webp&s=0f564bf8d857a64bfc1c6ae5336422b3774eba30
+
+MACD
+
+* Crossed but like to see it seperate some more.
+
+https://preview.redd.it/3nxcg46c9k171.png?width=2998&format=png&auto=webp&s=30f358949663f8c064a6af6045301c9809c71309
+
+Thanks for reading!
+
+NightMan

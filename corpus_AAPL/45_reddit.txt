@@ -1,0 +1,21 @@
+Cloudfare ($NET) is a global edge content delivery network. They also provide cyber security, remote work and threat detection services.  
+
+At today's WWDC Apple rolled out some updates to iCloud under the name iCloud+. Existing paid iCloud users are going to get those iCloud+ features for the same monthly subscription price.
+
+In Safari, Apple is going to launch a new privacy feature called Private Relay. It sounds a bit like the new DNS feature that Apple has been developing with Cloudflare. 
+
+When Private Relay is turned on, nobody can track your browsing history — not your internet service provider, anyone standing in the middle of your request between your device and the server you’re requesting information from. 
+
+This will be offered for Free with existing iCloud subscriptions. Some press already has access to the iCloud+ features and looks like iCloud+ private relay is just Cloudfare's [1.1.1.1](https://1.1.1.1) Warp VPN Service.
+
+Muji @ hhhypekgrowth - [@hhhypergrowth](https://twitter.com/hhhypergrowth) \- [https://twitter.com/hhhypergrowth/status/1402154379998793729?s=20](https://twitter.com/hhhypergrowth/status/1402154379998793729?s=20)
+
+[**Jane Manchun Wong** @wongmjane](https://twitter.com/wongmjane) \- [https://twitter.com/wongmjane/status/1402027672767664128?s=20](https://twitter.com/wongmjane/status/1402027672767664128?s=20)
+
+and other Twitter sleuths/users are confirming this. 
+
+This is huge news for Cloudfare since every iCloud user will be using their service and platform.   Apple's recent push on privacy could be amazing for Cloudfare. Apple is relying on Cloudfare for a global implementation of iCloud+.  Apple has \~ 800M iCloud users.
+
+This could easily add significant recurring fees (so far undisclosed) recurring revenue to Cloudfare's bottom line. This is going to be a great catalyst for upgrades by Analysts tomorrow and Cloudfare is already one of the best infrastructure plays as businesses/governments get more serious about privacy, security and remote work. 
+
+I think this deployment with Apple seriously increases their market potential and opportunity and this is a great price at $86 for a nice swing trade to $100.

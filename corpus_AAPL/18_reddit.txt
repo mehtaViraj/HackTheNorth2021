@@ -1,0 +1,35 @@
+ As I am sure you are aware, if like me you are an investor in $AAPL that the stock has done quite a bit of consolidating for the past month after making new highs back in mid July but I believe I have spotted signs of a very lucrative opportunity. So let me begin with some TA or as I like to call it SA (Stonk Astrology) 
+
+[$AAPL 1 day 2 year chart](https://preview.redd.it/7xofx6igqog71.png?width=2306&format=png&auto=webp&s=6fbdf6d7840b1e2f3c51c6ed2a0910dbd8bdc6a8)
+
+&#x200B;
+
+[$AAPL 1 hour 30 day chart](https://preview.redd.it/r87pwpn3rog71.png?width=2302&format=png&auto=webp&s=bf55f878c36e2a206a831e638ae2b08db6c009c0)
+
+&#x200B;
+
+ What am I looking at? You might be asking and that's a decent question. So let me explain first starting with the 1 day/ 2 year chart. This chart I'm using to show that Apple tends to have its run ups preceding earnings. On that note if you have ever been wondering why you always get IV crushed at earnings its because Apple is so reliably profitable and has grown so consistently throughout its life span that Wall Street tends to price in that Apple will meet or exceed expectations well before they actually announce. This tends to be the pattern for most of the mega cap stocks that are highly globalized and have monopolistic tendencies. (think: MSFT AMZN GOOGL probably). 
+
+ This second graph is the more important one as it actually shows actionable data. If you direct your goldfish-like attention to the 1 hour 30 day chart you can take a look at some things that I have laid out. 
+
+1.)  The orange lines: they form a triangle if you didn't notice that than you definitely shouldn't be trading stocks, but if you have gotten far enough to identify a triangle than you can probably handle the idea of a breakout. As these triangles form they general lead to a breakout from the triangle formation and on to higher, highs or lower, lows. that's it, not that hard to understand
+
+2.) Purple Lines: Just a trace of the prices to better visualize the patterns forming 
+
+3.) Blue Lines: Simple moving avg I set my 3 moving avgs. to 20, 50, and 200, When the cross or spread out  they can help identify downturns or breakouts respesctively. 
+
+4.) Red Lines: this is a fib retracement which uses the fib. sequence to help identify support and resistance levels between the highs and lows of and stock and beyond. The fib. retractions are the most difficult to explain because simply put I literally have no idea why prices using fib. levels as support and resistance. That being said, my research indicated to me that no one else could really explain it either, whether or not prices actually act this way or since everyone uses fib sequences that we cause price to act that way. Either way I have found these work really well when Identifying support and resistance. 
+
+ Studies: I'm just going to clump these into to the same category but these are the charts that you seen on the bottom first one is volume, second one is the ATR which is relative volatility, and MACD which helps indicate refeversals and RSI which helps identify overbought and oversold conditions 
+
+ The trade: so what this chart is telling me is that $AAPL has been consolidating for some months and could break out to new highs. What I am going to do is buy the oct 15 $155 call or the sept 17 $155 call if you are feeling confident like me. Something important I forgot to mention above is that $AAPL's implied volatility is not only historically low but also below the historical one year avg. What this means is that not only will your call option increase in value due to the run up in price but the run up IV that is likely to happen will compound your gains. Why is this likely to happen simply the law of averages? 
+
+&#x200B;
+
+[$AAPL IV vs. historical IV ](https://preview.redd.it/n03w9whpzog71.png?width=1914&format=png&auto=webp&s=b2505c6046090849e450eb4a84371f36fcad1235)
+
+ Couple of notes: first I am not a financial advisor just a dude with a hobby, second obviously TA is a good look into what has happened historically it doesn't guarantee that it will happen. That being said, if this TA begins to bring down I would look at the $143.50 level as confirmation and as for confirmation on the upside you should look for the previous high of $150. To make this trade successful you might want to consider staggering your buys instead of the traditional balls deep all at once. For an example I have already entered this trade with 10 shares at an avg. of $147 and a sep. 17 $155 call at the same price. I plan to buy more 155 calls for both sept and oct. as the price drifts up to $150 if all goes to plan I am looking at a pt of around $160 
+
+TLDR: I thing this is the begining of the apples run up before q3 earnings sep 17 $155 calls 
+
+Positions: 10 Shares at 147.50 1 Sept. 17 155 call
