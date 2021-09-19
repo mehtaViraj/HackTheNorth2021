@@ -26,6 +26,12 @@ def check(text):
             score -= 1
         elif i in good_words:
             score += 3
-    return score
-
-
+    
+    if score < 400:
+        return("Unhappy")
+    elif 400 <= score <= 900:
+        return('Happy')
+    elif score > 900:
+        return('Very Happy!')
+    else:
+        return('Do not invest')
