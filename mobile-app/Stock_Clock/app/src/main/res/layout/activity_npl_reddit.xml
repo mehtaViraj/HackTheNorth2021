@@ -41,6 +41,7 @@
         android:gravity="center"
         android:text="ANSWER"
         android:textColor="#5e13ad"
+        android:scrollbars = "vertical"
         android:textSize="23sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

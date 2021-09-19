@@ -1,47 +1,39 @@
-  
+**9/01 Update**: Now that these are up over 100% from the time of posting, it's time to start taking some profit. I would sell at least your cost basis, potentially more. Leave one or two for any additional run up/gap fill. To all those who took this play, particularly the ones who reached out to me after the fact, ily <3
 
-**Palantir** (PLTR) surged on Aug. 12 after it posted its second-quarter earnings. In a broader perspective, the stock has moved a lot since its IPO in September last year. Now, should you, as an investor, buy it?
+**9/05 Update**: Seeing $AMZN establish and hold support at 3450, along with that EOD hard bounce means that I am re-entering calls for $AMZN, for 9/10 as well as for 11/19. For anyone who cares <3
 
-**1. Accelerating growth** 
+-----
 
-Palantir’s growth is accelerating since 2019. The second-quarter revenue rose as quickly as last quarter, namely 49% year over year. Revenue reached $376 million, beating estimates by $14.5 million. 
+Let’s not make this complicated.
 
-Palantir's government revenue growth slowed down from last quarter but it stayed at an astonishing pace, 66%. These deals are worth $232 million. Commercial revenue reached $144 million leading to a growth of 28%. 
+1. $AMZN has been consolidating since its past earnings disappointment and has found solid support at the $3200 level. At $3300, it’s the time to at least initiate a position if you don’t have one already.
+2. $AMZN currently sits at an IV rank of 1%. That means over the past year the IV has been higher 99% of the time. What makes IV swell? Earnings. What happens when IV swells? The price of the underlying option goes up.
+3. The S&P 500 is up 19.26% YTD, 30.66% over the past 365 days. $AMZN is essentially flat in both regards and is the worst-performing FAANG name on a yearly basis. Comparatively, FAANG names like $GOOG and $MSFT have far outperformed the S&P. \[1\]
+4. $AMZN is breaking out of a descending wedge with large gaps to fill in the 3400-3600 range. \[2\] I know a lot of you believe TA is voodoo, but there are people with a lot of money who trade according to fun shapes on a chart, and their trades move price action just as much as anyone else’s. Whether it’s a self-fulfilling prophecy or a crystal ball, we have to pay some attention when the Technical Analysis people start crowing en masse, and that’s what’s happening here.
+5. Antitrust is not a headwind here. One, because the likelihood of any significant antitrust legislation getting by the powerful lobbying force of $AMZN is nil. And two, because if split, $AMZN (and $GOOG)’s businesses would likely each command higher valuations. And on that note:
+6. Barron’s on $AMZN: “Valuing AWS at 15x 2023 sales gives you a market cap of $1.5T, meaning that investors are getting Amazon’s e-commerce business and its nascent advertising business almost for free.” \[3\] Barron’s isn’t the only publication to recently recognize this, but I hesitate to link to anything Motley has done because I have more self-respect than that.
+7. Out of 64 analysts who have covered $AMZN in the past year, all 64 rank the stock as a buy. \[4\]
+8. CEO Andy Jassy lowered upcoming ER expectations considerably in the past ER, which is what caused the sell-off. For those of you who don’t know, doubt is a good thing. Lowered expectations are a good thing. Because the bar for $AMZN’s October quarter has been lowered tremendously, it’ll be that much easier to achieve a strong beat, and a positive surprise.
+9. Amazon-backed Rivian's EV is set to roll out in September, one month before the ER hype begins to build. It isn't the biggest deal in the world, but it's going to give analysts some more fuel to write positive articles about $AMZN's future growth opportunities and maybe bump up a few price targets, all of which are sitting well above $AMZN's current price.
+10. I put this at the end because it is the most speculative point, but the possibility of a split still looms. If they announce a split, forget all this, sell your house, and all-in your life savings, because that would change the game. Not only because $AMZN is literally (on a price basis, not a valuation basis) an expensive stock with even more expensive options (Which Jassy currently owns many, many of), but because it would almost inevitably lead to $AMZN’s Dow inclusion, a forced buying event similar in nature to $TSLA’s SPY inclusion. Tl;dr: It’d be in both the shareholder's and Jassy’s best interest (if he ever wants to be able to sell any of those options, that is) to split the stock.
+
+Summary: It’s oversold, many HF’s bought in last quarter at a much higher price, Jassy gave himself a low bar for their first quarter under new management (Common among new CEOs), and the IV is at a one year low. Buy November calls near the money for a bounce, or just to hold. Grab some here, double down if we dip to $3200, and at every $100 dip to follow. Those of you who remember me from my last account know that I put my money where my DD is, and this post is no different. I have 53k riding on this trade and plan to add more if given the opportunity.
 
 &#x200B;
 
-[source: Palantir](https://preview.redd.it/t47ksj0a4cj71.png?width=605&format=png&auto=webp&s=cea51eae8e1e35004f14c8aca62b138384ee7479)
+https://preview.redd.it/9a8byws9zdj71.jpg?width=1080&format=pjpg&auto=webp&s=4effcb2da14e9eb0bd29f413ae5c92af0c42d8b4
 
-The slower growth in government contracts is offset by a fast acceleration in the commercial segment. This proves that Palantir has a growing number of customers who are not governments. This is essential as government contracts have less long-term growth potential than commercial contracts.
+https://preview.redd.it/yjdh21t9zdj71.jpg?width=1080&format=pjpg&auto=webp&s=ca40ed29844511646f711e6d1d2198b0452b5b32
 
-Palantir’s commercial growth comes from the U.S. market. Its U.S. commercial revenue surged 90% year over year. This should be compared to a 72% growth in the first quarter of 2021. If you consider the possibility to develop in Europe, the growth potential stays huge. 
+https://preview.redd.it/0ftb1ws9zdj71.jpg?width=1080&format=pjpg&auto=webp&s=c62400a2788c93be2de6435e303bba5227dc81e9
 
-## 2. Improving margin
+https://preview.redd.it/zcl4e0t9zdj71.jpg?width=1080&format=pjpg&auto=webp&s=6a280206b18eeccba212d1bee3c49a633bf6c5ad
 
-Palantir remained unprofitable and the year-over-year comparison shows an increasing loss ($110.5 million vs $138.6 million). Its adjusted gross margin, which excludes its stock-based compensation and other one-time expenses, expanded from 80% to 82%. Its adjusted operating margin jumped from 11% to 31%.
+https://preview.redd.it/fwyem3t9zdj71.jpg?width=1080&format=pjpg&auto=webp&s=5c7f35286edd3c1feb437b793e17520ed48bbb87
 
-Increasing margins mean that a company has market power, i.e. the possibility to set price above marginal costs. This strength comes from its experience with the U.S. government -- for which it aims to become the "default operating system" – which makes a great impression on customers.
+Updates to come.
 
-## 3. Great guidance
-
-Palantir hopes to generate $385 million in revenue in the third quarter, while investors expect $380 million.
-
-Palantir also expects yearly growth of at least 30% until 2025. This would lead to revenue of $4 billion in 2025. The expectation for free cash flow in 2021 was raised from $150 million to over $300 million.
-
-Now you likely better understand why Palantir has a price to sales of 30 times this year's sales.
-
-## A drawback to consider:
-
-Palantir's platform is really efficient in finding data from individuals, but its use is controversial.
-
-Palantir's Gotham platform is used by all branches of the U.S. military, as well as government agencies like the FBI, CIA, and ICE. This omnipresence is good, but Palantir was also used to track down and report undocumented immigrants in the U.S. 
-
-This use led to protest from activists and Palantir's own employees. **Amazon** Web Services’ -- which hosts Palantir -- employees called for its shutdown. If more controversies come to light, the stock can be under pressure.
-
-## TLDR:
-
-Palantir is one of the best companies in the market. Current social unrest will lead to increasing demand for its product. Moreover, the quality of services rendered to governments will attract a growing number of customers.
-
-Palantir has set clear goals for the future, and it could easily surpass its 2025 targets as it expands its government and commercial businesses. Those growth opportunities should justify its relatively high valuation and offset any concerns about its controversial contracts.
-
-PS: I own 500 shares of Palantir worth USD 12,490 as of today.
+1. [https://twitter.com/mukund/status/1429888554742665224/photo/1](https://twitter.com/mukund/status/1429888554742665224/photo/1)
+2. [https://twitter.com/traderstewie/status/1429888383736696833/photo/1](https://twitter.com/traderstewie/status/1429888383736696833/photo/1)
+3. [https://www.barrons.com/articles/big-tech-apple-microsoft-alphabet-amazon-facebook-stock-51629429127](https://www.barrons.com/articles/big-tech-apple-microsoft-alphabet-amazon-facebook-stock-51629429127)
+4. [https://twitter.com/TrendSpider/status/1429971720748769300/photo/1](https://twitter.com/TrendSpider/status/1429971720748769300/photo/1)

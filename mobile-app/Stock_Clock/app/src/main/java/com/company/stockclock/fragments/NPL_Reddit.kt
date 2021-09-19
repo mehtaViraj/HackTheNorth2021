@@ -1,15 +1,16 @@
 package com.company.stockclock.fragments
 
 import android.graphics.Typeface
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.text.method.ScrollingMovementMethod
 import android.view.View
 import android.widget.EditText
-import android.widget.FilterQueryProvider
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import com.company.stockclock.R
 import com.company.stockclock.requestsJava
-import java.util.ArrayList
+import java.util.*
+
 
 class NPL_Reddit : AppCompatActivity() {
 
@@ -30,6 +31,8 @@ class NPL_Reddit : AppCompatActivity() {
     fun queryNLP(view: View) {
         query_box = findViewById(R.id.query_box)
         ans_box = findViewById(R.id.answer_box)
+
+        ans_box.setMovementMethod(ScrollingMovementMethod())
 
         val tv1 = findViewById(R.id.textView7) as TextView
         val tv2 = findViewById(R.id.textView4) as TextView
