@@ -1,261 +1,133 @@
-#Good morning traders and investors of the r/wallstreetbets sub! Welcome to Tuesday! Happy Groundhog Day! Here are your pre-market stock movers & news on this Tuesday-
+Alright autists--pull up a chair, grab a tub of cheese balls, change the password on your wife's IRA so she doesn't find out you dropped $20k on TLRY FEB 26 $100C that literally couldn't go tits up, and get ready for papa MRE to tell you a story.
 
-*****
+Everyone back? Great. I know you Asperberger laden assholes can't read too good, so I'll do my best to give you TL;DRs in emoji form. Skim if you wish--I would.
 
-# [5 things to know before the stock market opens Tuesday](https://www.cnbc.com/2021/02/02/5-things-to-know-before-the-stock-market-opens-february-2-2021.html)
+&#x200B;
 
-*****
+**Numbers Overview & Leadership**  
+**TL;DR** \- 🔢👌
 
-> # 1. Dow looks for back-to-back gains after last week’s decline
+NASDAQ: **RAVN**
 
-> * The Dow is set to rise over 200 points at Tuesday’s open, looking for a second day of gains after last week’s nearly 3.3% decline. The 30-stock average Monday clawed back 229 points of Friday’s 620 point drop as Wall Street appeared to shake off concerns about the speculative retail trading mania that largely drove the market’s worst weekly sell-off since October.
-With gains Monday, the Dow and S&P 500 were once again positive for 2021, joining the Nasdaq. However, the three stock benchmarks remained below last month’s record closing highs, with the Dow over 3% away and the S&P 500 and Nasdaq each about 2% away. Google-parent Alphabet and Amazon are set to report quarterly earnings after Tuesday’s closing bell.
+|Market Cap|$1.5B|
+|:-|:-|
+|Shares Outstanding / Float|35.9M/35.4M|
+|% Held by Institutions|80.07%|
+|EPS\*|0.61|
+|P/E\*|69.78|
+|Price/Book|4.63|
 
-*****
+\*I know numbers make some of you dizzy, and I wish I didn't feel like I needed to include this, but for you fellow tards that keep investing in companies that don't have products yet, EPS is Earnings per Share and P/E is Price to Earnings. These things mean the company is actually making money.
 
-> # 2. GameStop’s decline accelerates as Robinhood raises more money
+Looking back, the company got pretty fucked by COVID. Their EPS dropped from over $1.00 in 2019 to the $0.61 listed above in 2020, but their earnings have largely recovered as of Q4 2020 ($0.28 in 2019 vs $0.24 in 2020).
 
-> * GameStop continued to lose ground in Tuesday’s premarket trading, with shares of the volatile retail investor-favorite sliding 40% to around $133. The tumble follows a more than 30% drop during the regular market session Monday after last week’s 400% gain, which saw shares as high as $483 each. Before Tuesday’s open, the stock had gained more than 1,000% in 2021 as users on Reddit’s WallStreetBets forum talked up the videogame retailer and crushed short-sellers betting against the stock.
-Robinhood said it raised another $2.4 billion from investors to weather the extreme market swings due to the trading frenzy in GameStop and other heavily shorted stocks. The overall $3.4 billion the online brokerage has mobilized since Thursday exceeds its total funding amount since its founding in 2013.
+Also of note, they "indefinitely suspended" (read axed) their dividends in 2020 to more aggressively invest in their growth areas.
 
-*****
+Overall, there's nothing exceptional about those numbers. My key take-aways were that, unlike some other companies in the sectors Raven is in, the price isn't insanely inflated. The fact that over 80% is held by institutions (Blackrock, Vanguard, and Thrivent are the top 3 holders, all of whom added last quarter) is also reassuring.
 
-> # 3. Pfizer raised full-year guidance after mixed quarter
+As for the leadership, no one really stands out as an all star or an asshole. The CEO/President is a home grown dude who started at the company as an intern back around the time of Christ. Everyone is about what you'd expect--a dude with a masters from MIT, a buncha dudes with MBAs, etc.
 
-> * Pfizer expects to sell about $15 billion in coronavirus vaccine doses this year, the U.S. drug giant said Tuesday as it reported mixed quarterly results. Adjusted fourth-quarter earnings of 42 cents per share fell 6 cents short of expectations. Revenue in Q4 rose 12% to $11.68 billion, exceeding estimates. Pfizer also raised full-year guidance. Shares were flat in the premarket. Pfizer has said it expects to deliver 200 million doses of its two-shot vaccine to the U.S. by the end of July.
+**Bottom Line--this isn't some artificial hyped up bullshit.**
 
-*****
+&#x200B;
 
-> # 4. Democrats move to go it alone on Biden’s Covid relief package
+**History**  
+**TL;DR - 🥣🏭+👴💭+⌛➡🎈🏭**
 
-> * Democratic congressional leaders took the first step toward passing a sweeping coronavirus relief bill without GOP support, as President Joe Biden on Monday heard out a much smaller plan from Republicans. The Republican lawmakers on Sunday put forward a $618 billion counteroffer to Biden’s $1.9 trillion rescue package. The GOP proposal would send a smaller $1,000 direct payment to many Americans, and extend a smaller $300 per week federal unemployment benefits boost and only until June 30. Biden left the door open to passing a bill without Republicans if he cannot reach a deal with GOP lawmakers.
+Let's go back in time. To the time of dinosaurs. 65 whole years ago--when the contiguous 48 was the only 48. Some chucklefuck busts into his boss's office at the cereal factory they work at.
 
-*****
+Chad: "GOD DAMNIT. IM DONE WITH THIS SHIT HARRY. MAYBE THIS BETTY CROCKER MAKING, ROCKY AND BULLWINKLE SPONSORING BULLSHIT IS NOT FOR ME. MAYBE I WANT TO FLY."  
+Harry: "Sounds good, Mr. Chad, sir"  
+U.S. Navy: "AND MY AXE"
 
-> # 5. CDC requires face masks on airlines, public transportation
+And boom. A Raven baby.
 
-> * Travelers on planes and public transportation, like buses and subways, are required to wear face masks, staring Tuesday. To curb the spread of Covid-19, the CDC issued the mask-wearing rule late Friday that builds on executive action announced by Biden on Jan. 21. The enforcement, which could include fines, will be handled by the TSA and other federal, state and local authorities. The order extends to waiting areas such as airports, train platforms and subway stations. Airlines already require masks and have banned more than 2,000 passengers for refusing to wear one.
+"*MRE, I don't understand* 😖😢"  
+Fuck I gotta spell everything out huh?
 
-*****
+Back in 1956, a bunch of duders working at General Mills (yeah, of cheerios fame) High Altitude Research Division, broke off to form Raven Industries after their big brained leader, Ed "Chad" Yost got a $47,000 grant from the US Navy after he built and flew a tethered hot air balloon.
 
-#STOCK FUTURES CURRENTLY:
-######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
+You remember all those old "ITS A UFO"/"Nah bitch it's a weather balloon" stories? Turns out a bunch of those were made by our boy ~~Ed~~ Chad--both from his time at the cereal station and from Raven itself.
 
-*****
+"MRE THAT SOUND LIKE AN OLD COMPANY 😭. I DONT LIKE BOOMER SHIT 😓😥"  
+Yo shut the fuck up. If Pfizer (founded in 1849) is still around and providing ~~little blue~~ fat green gains, you bet your undescended testies that a company like Raven can do the same. But I hear you. That was then, this is now. What's Raven done for me lately?
 
-#YESTERDAY'S MARKET MAP:
-######(**[CLICK HERE FOR YESTERDAY'S MARKET MAP!](https://i.imgur.com/mpuUE2H.png)**)
+**Raven Aerostar**  
+**TL;DR - 🎈🕵️‍♀️🏋️‍♀**
 
-*****
+Decades later, Raven still gets some of those fat military contracts. [Last month](https://www.prnewswire.com/news-releases/raven-aerostar-and-persistent-systems-network-constellation-of-stratospheric-balloons-in-comms-demo-301217001.html), they demoed a platform where they use a constellation of stratospheric balloons to create an on demand, low cost, reusable, wireless networking system above battlefields or other points of interest.
 
-#TODAY'S MARKET MAP:
-######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx)**)
+These aren't your kids party balloons. And Dorothy, these aren't the wizard's balloons either. They have a bunch of different types created for different things. Some of these things go to the edge of space--Remember that dude who drank too many redbulls and jumped out off a balloon? That was Raven. You remember Google/Alphabets Loom project where they were going to float hot spots around the earth using balloons? Yeap. Raven.
 
-*****
+In 2015 NASA needed to test their Supersonic Decelerator. To do that, they had to drop it from the edge of space. Guess how they did it. You bet your ass it was a big fucking balloon made by Raven. Raven got a special award for that, btw. But that wasn't the end of the relationship. In 2020 alone, NASA threw \~$3Mil at Raven for all sorts of weird studies--cosmic rays, the magnetosphere, atmospheric sciences, seismic events on Venus--they used balloons and raven for ALL that shit.
 
-#YESTERDAY'S S&P SECTORS:
-######(**[CLICK HERE FOR YESTERDAY'S S&P SECTORS CHART!](https://i.imgur.com/Jta5vgw.png)**)
+"MRE. I don't give a fuck about balloons."
 
-*****
+Well, you should. Along with that shit above, Raven's balloons have a bunch of capabilities that have yet to be fully realized simply because we don't have the technological capability to use it. Lets say, for example, that we wanted a worldwide network of autonomous delivery drones. What if there was a platform that could float around providing both a charging base and a warehouse simultaneously? Amazon has already thought of doing this with blimps/airships (I don't want to mislead you, there have been no public discussions between amazon and Raven that I've found, but I am sure that Raven would be a leading candidate to build them). What if you want to carry 8000lbs of fuel up to 110,000ft and let your futuristic spacecraft or drone or whatever refuel when it gets there? What if you want to go and survey an alien planet? Balloons can do all that shit. They can lift a shit ton of stuff for cheap, they're semi-autonomous and can control where they're hovering, and they stay up for MONTHS at a time. I get it, though, fuck balloons I guess.
 
-#TODAY'S S&P SECTORS:
-######(**[CLICK HERE FOR TODAY'S S&P SECTORS CHART!](https://finviz.com/groups.ashx)**)
+Raven Aerostar also makes:
 
-*****
+* Military Radars and early detection systems
+* Payload recovery parachutes (think rocket parts falling back down, high altitude payload drops, etc)
+* Stratospheric airships
+* Aerostats (which the army keeps buying)
+* Various "Dry suits" and other PPE
 
-#TODAY'S ECONOMIC CALENDAR:
-######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/FzMWxJO.png)**)
+"Wait. Dry suits? Why?"
 
-*****
+**Raven Engineered Films**  
+**TL;DR - 👩‍🔬👨‍🔬🧪➡👩‍🌾👩‍🚀🥗🎈🏠**
 
-#THIS WEEK'S ECONOMIC CALENDAR:
-######(**[CLICK HERE FOR THIS WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/I3EtDfQ.png)**)
+You thought "Raven Industries" was just Aerospace and Defense? Fucking. Wrong. Raven is a conglomerate. For you smoothbrained fucks, that means it's a business slaver. Its a business that makes money by owning businesses that actually do work. These include Raven Aerostar (Aerostar International, Inc. and Aerostar Technical Solutions), but also other shit.
 
-*****
+When Raven started doing crazy shit with balloons, there literally weren't companies making the materials that they needed. So what did they do? Started making it themselves.
 
-#THIS WEEK'S UPCOMING IPO'S:
-######(**[CLICK HERE FOR THIS WEEK'S UPCOMING IPO'S!](https://i.imgur.com/NczinkP.png)**)
+Along with the various materials for the balloons, Raven learned to make all sorts of materials. Ultra-thin, ultra-light films? Check? Thicc ass fiber reinforced shit? Check. Everything in between? double check. Seriously. You want some shit to wrap around your plants so you're not wasting water? How about shit to put over one field while another one is being fumigated? What if you wanted to build a temporary structure to keep something warm while a more permanent structure was being built? What if you had a shit ton of nasty ass shit that you didn't want leaking into mama earth (land fills, fracking water, etc)? What if you had a fuck ton of cotton that you had farmed but if it got wet, shipping bills would be \~5x more expensive? What if you needed to ship some veggies across the country? You ever see those half built houses getting carried down the road with big ass pieces of plastic on them so you can't see in the living room? What if you want to build your own living room but you got argon seeping up out of the ground? Yeah... All of this is Raven. And I'm just scratching the surface. I was going to try to cover everything, but fuck I still need my fingers to buy FDs. [Go look for yourself](https://ravenefd.com/products). Then check out [geomembranes](https://en.wikipedia.org/wiki/Geomembrane#Applications). And again. that's just one of their products.
 
-*****
+And they have all sorts of ways to do this. They do blown film (heh), cast film, sheeting, laminating, coating, and basically anything you could think to do with large pieces of single materials.
 
-#THIS WEEK'S EARNINGS CALENDAR:
-######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](https://i.imgur.com/kyPHRhw.png)**)
+So they're fucking with space, military, farmers, builders, energy, and more. They got flying shit, beeping shit, floating shit, anti-seeping shit. Honestly it's kind of hard to stay on track writing all this. Speaking of staying on track, though...
 
-*****
+**Raven Applied Technology**  
+**TL;DR - 🚜+💻+🛰=🥗🍅🍊🥔🥙💲💲**
 
-#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
-######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!](https://i.imgur.com/g8mEXlC.jpg)**)
+Yeah. I get it. This is long as fuck. I'ma keep this part short. Raven one of the leaders in autonomous farming tech and precision agriculture. Want to make the best possible use of some specific land and get that bitch farming itself? Raven is the company to call. They make and use field computers and GPS to measure with sub-meter accuracy and then provide the data crunching to plan it all out. They even have a software suite designed to enhance efficiency on the office side of farming businesses.
 
-*****
+Also of note--they acquired an autonomous agriculture startup "SmartAg" as well as majority ownership in another autonomous tractor startup "Dot Technology Corp" at the end of 2019  (they acquired the rest of DOT in 2020) and have been folding their stuff into Raven's pre-existing systems ever since--the first revenues from this acquisition are probably just now coming to fruition, with much more potential.
 
-#EARNINGS RELEASES BEFORE THE OPEN TODAY:
-######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES!](https://i.imgur.com/tQgEhzX.png)**)
+**Review and Future**  
+**TL;DR** **-** **💹 $50-65 End of March, $70-90 EoY**
 
-*****
+So if you're keeping up Raven is an established company that came from (at the time) futuristic ideas and has recently made moves showing it's still looking toward the future. At the base of this growth, it already has:
 
-#EARNINGS RELEASES AFTER THE CLOSE TODAY:
-######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!](https://i.imgur.com/cvIsVZQ.png)**)
+* Long standing relationships and active contracts with both the US DoD and NASA
+* A ton of products with space and futuristic applications
+* Ownership of production for proprietary materials used in aerospace, construction, farming, and just about everything else
+* Autonomous agriculture solutions and precision agriculture planning software
 
-*****
+Fuck this sounds like something Mama Cathie would like.
 
-#YESTERDAY'S ANALYST UPGRADES/DOWNGRADES:
-######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #1!](https://i.imgur.com/GmZQe4d.png)**)
-######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #2!](https://i.imgur.com/Js54c5C.png)**)
-######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #3!](https://i.imgur.com/c1Ocf63.png)**)
+Because it is. ARKQ currently owns 3.33% of RAVN, and that number has been increasing. Cathie has been using the past few red days to buy some shit on sale, but she's also been **buying RAVN at 52 week highs.** She's bought RAVN 4 out of the last 5 trading days (excluding today, or maybe not--I don't have that info at time of writing).
 
+I'm not gonna spout some bullshit about guaranteeing it'll be in ARKX. Anyone saying something is a lock is just lying to you. Mama Cathie does as Mama Cathie wants and we'll all fucking like it. That said, I would be extremely surprised if it's not a consideration for her.
 
-*****
+So where do we go from here? Just like the balloons, we go up. Obviously. Nasdaq has been doing its best to keep this bird's wings clipped the past few days, but RAVN has been growing regardless (at least prior to today--may have finally gotten it to come down temporarily, but I'm not ruling out a late rally). Regardless, I'm looking at hitting a new ATH around $50 (\~$1.7B valuation)before the end of March (sooner if NDX can quit being a bitch). If it's added to ARKX, I think $60-$65 ($\~2.3B valuation) could be realistic in that same time frame. Because of their re-found focus on growth (again, shown by their cutting dividends to reinvest) and recent strategic acquisitions, I'm targeting $70 (\~$2.5B valuation) without ARKX or $90 with (\~$3.2B valuation) EOY.
 
-#YESTERDAY'S INSIDER TRADING FILINGS:
-######(**[CLICK HERE FOR YESTERDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/lHtvVK5.png)**)
+&#x200B;
 
-*****
+**Upcoming Events**  
+March 23rd - Earnings Release  
+March 29th - First Possible date for ARKX launch (assumedly the holdings will be announced by this date)
 
-#TODAY'S DIVIDEND CALENDAR:
-######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR!](https://i.imgur.com/l5Liho7.png)**)
+&#x200B;
 
-*****
+**POSITIONS**  
+16 April 21 $45C  
+20 Aug 21 $50C
 
-#THIS MORNING'S STOCK NEWS MOVERS:
+&#x200B;
 
-######(**source: [cnbc.com](https://www.cnbc.com/2021/02/02/stocks-making-the-biggest-moves-in-the-premarket-ups-harley-davidson-cirrus-logic-more.html)**)
+**Note:** Yes I know that this a new account. I have my reasons and you can go fuck yourself. If you think this is bot spam, well... your glass licking ass probably belongs here, so I guess I can't blame you.  
+Also, I started writing this before the market opened and just now got back to it. I didn't update any of the numbers and made very few changes. Also, I didn't spell or grammar check it. Again, fuck you.
 
-*****
-
-> **United Parcel Service (UPS)** – UPS reported quarterly earnings of $2.66 per share, beating a consensus estimate of $2.14 a share. The revenue also came in above estimates for the holiday quarter. Among the factors boosting the bottom line: a 7.8% increase in revenue per delivered package in the U.S. market, as the pandemic spurred an increase in online shopping. Shares of UPS rose 3.2% in premarket trading as of 7:38 a.m. ET.
-
-> #**STOCK SYMBOL:** UPS
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=UPS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/UPS)**)
-
-*****
-
-> **Pfizer (PFE)** – The drugmaker earned 42 cents per share for the fourth quarter, 6 cents a share below estimates. Pfizer’s revenue was above forecasts, however, and the company raised its full-year guidance amid the positive impact of the Covid-19 vaccine developed in conjunction with partner BioNTech (BNTX).
-
-> #**STOCK SYMBOL:** PFE
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=PFE&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/PFE)**)
-
-*****
-
-> **Alibaba (BABA)** – The China-based e-commerce giant reported better-than-expected profit and revenue for the fourth quarter, helped by growth in active users as online shopping boomed. Alibaba also saw growth in its cloud computing business.
-
-> #**STOCK SYMBOL:** BABA
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=BABA&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BABA)**)
-
-*****
-
-> **Harley-Davidson (HOG)** – The motorcycle maker reported a loss of 63 cents per share for the fourth quarter, compared with expectations of a 14 cents per share profit. Revenue was also below Wall Street forecasts, with 2020 total shipments hitting a more than 20-year low. Harley also unveiled a five-year turnaround plan aimed at generating low double-digit earnings growth through 2025. Harley shares sank 4.4% in the premarket.
-
-> #**STOCK SYMBOL:** HOG
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=HOG&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/HOG)**)
-
-*****
-
-> **Exxon Mobil (XOM)** – Exxon Mobil earned 3 cents per share for the fourth quarter, beating the 1 cent a share consensus estimate. Revenue came in below Wall Street forecasts. Separately, Exxon is expected to announce board changes as soon as today following discussions with investor D.E. Shaw, according to people familiar with the matter who spoke to The Wall Street Journal. D.E. Shaw has been pushing Exxon to cut costs and protect its dividend. Exxon shares rose 2% in premarket trading.
-
-> #**STOCK SYMBOL:** XOM
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=XOM&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/XOM)**)
-
-*****
-
-> **Emerson Electric (EMR)** – The manufacturing conglomerate’s shares rose 3.3% in premarket trading after Emerson beat estimates on the top and bottom lines for its fiscal first quarter. Emerson also made optimistic comments about a rebound in industrial demand for this year. Separately, CEO Dave Farr will step down this week after 21 years in the job, to be replaced by Emerson’s automation business head Lal Karsanbhai.
-
-> #**STOCK SYMBOL:** EMR
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=EMR&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/EMR)**)
-
-*****
-
-> **SiriusXM (SIRI)** – The satellite radio operator’s shares are up 1.4% this morning, after it reported better-than-expected revenue and earnings for its latest quarter. The company noted an expansion in paying subscribers and increased audience penetration helped by its Pandora and Stitcher units.
-
-> #**STOCK SYMBOL:** SIRI
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=SIRI&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/SIRI)**)
-
-*****
-
-> **Cirrus Logic (CRUS)** – Cirrus Logic reported quarterly profit of $2.13 per share, beating the consensus of $1.86 a share. The chip maker’s revenue also came in above forecasts. Cirrus Logic also announced a $350 million stock buyback. The company’s shares fell 7.1% in the premarket.
-
-> #**STOCK SYMBOL:** CRUS
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=CRUS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CRUS)**)
-
-*****
-
-> **BP (BP)** – BP reported a lower-than-expected fourth-quarter profit and posted a $5.7 billion annual loss for 2020, its first unprofitable year in a decade. BP was hit by a pandemic-related slump in demand, but does expect a 2021 recovery. The company’s shares were down 4.4% in premarket trading.
-
-> #**STOCK SYMBOL:** BP
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=BP&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BP)**)
-
-*****
-
-> **Boeing (BA)** – Boeing said 118 orders for its 777X aircraft can no longer be considered “firm” under accounting rules, trimming the total of orders it considers solid to 191. The company said delays in the 777X program give customers the right to terminate orders or substitute other Boeing aircraft. The company’s shares were up 1.1% in the premarket.
-
-> #**STOCK SYMBOL:** BA
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=BA&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BA)**)
-
-*****
-
-> **DXC Technology (DXC)** – French IT consulting firm Atos has ended takeover talks with its U.S. based rival. DXC had maintained that an Atos offer made in January undervalued the company, and had shared “high-level” information to make its case.
-
-> #**STOCK SYMBOL:** DXC
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=DXC&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/DXC)**)
-
-*****
-
-> **American Airlines (AAL)** – American Airlines CEO Doug Parker told employees that another round of furlough warnings could be coming on April 1, when payroll support for workers expires. Its shares were up 1.4% in premarket trading.
-
-> #**STOCK SYMBOL:** AAL
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=AAL&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/AAL)**)
-
-*****
-
-> **Vertex Pharmaceuticals (VRTX)** – Vertex fell 8 cents a share shy of forecasts with quarterly earnings of $2.51 per share. The drugmaker’s revenue beat consensus, however, helped by strength in its cystic fibrosis business.
-
-> #**STOCK SYMBOL:** VRTX
-
-> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=VRTX&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
-
-> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/VRTX)**)
-
-*****
-
-#**DISCUSS!**
-
-What's on everyone's radar for today's trading day ahead here at r/wallstreetbets?
-
-*****
-
-# **I hope you all have an excellent trading day ahead today on this Tuesday, February 2nd, 2021! :)**
+**e**:Formatting cause my brain is smooth af

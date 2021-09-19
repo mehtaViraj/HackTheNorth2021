@@ -11,11 +11,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyInformationBook">
-        <activity android:name=".AddCompanyActivity"></activity>
+        <activity
+            android:name=".fragments.NPL_Reddit"
+            android:exported="true" />
+        <activity android:name=".AddCompanyActivity" />
         <activity android:name=".Activities.WondersActivity" />
         <activity android:name=".Activities.MuseumsActivity" />
         <activity android:name=".Activities.LeadersActivity" />
-        <activity android:name=".Activities.GeneralScreen2Activity" />
+        <activity android:name=".Activities.DisplayDetails" />
         <activity
             android:name=".Activities.MainActivity"
             android:theme="@style/MyTheme">

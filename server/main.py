@@ -29,6 +29,7 @@ def getKnownStocks():
     ref = db.reference('/stocks')
     all_data = ref.get()
     knownStocks = list(all_data.keys())
+    print(knownStocks)
 
 @app.route('/', methods=['GET'])
 def home():
@@ -58,7 +59,7 @@ def addCompany():
                 redditView = GoB.check(GoB.get_text(stock))
                 ref = db.reference('/stocks/'+stock+'/redditView')
                 ref.set(redditView)
-
+                getKnownStocks()
                 results['stock-status'] = 'Stock added'
             else:
                 results['stock-status'] = '0'

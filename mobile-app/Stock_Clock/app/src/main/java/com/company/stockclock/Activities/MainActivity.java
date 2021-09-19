@@ -42,6 +42,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Log.d("htn", "----->"+"hello!");
+
+        /*
         // http requests: (trial)
         ArrayList<String> keys = new ArrayList<>();
         ArrayList<String> values = new ArrayList<>();
@@ -50,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         values.add("111");
         values.add("222");
 
-        /*
+
         requestsJava http_obj = new requestsJava();
         http_obj.makeRequest(new requestsJava.VolleyCallback() {
             @Override
@@ -66,9 +69,9 @@ public class MainActivity extends AppCompatActivity {
         //defining addCompany button:
         addCompany = findViewById(R.id.buttonAdd);
 
-      //  recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        //  recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setLayoutManager(new GridLayoutManager(this, 2));
-       // recyclerView.setLayoutManager(new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL));
+        // recyclerView.setLayoutManager(new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL));
 
         arrayList = new ArrayList<>();
 
@@ -94,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
             arrayList.add(new ModelClass(imageNames.get(i), companyNameList.get(i), null, stockNames.get(i) ));
             //TODO
             // the third argument in the above thing must be changed after integration with server
-            Log.d("I", String.valueOf(i));
 
         }
 

@@ -1,69 +1,21 @@
-I am halfway through an 18 hour shift, currently stationed in Turkey, its hot as fuck, idk why I’m here, I’m 2,000mg deep in caffeine, getting drunk as soon as I get off, getting off as soon as I get off, my wife is back home cheating, my daughter calls another man dad, *cracks knuckles* lets do this. 
+This won't be a long post, I'm mainly here to stoke discussion and educated opinions.
 
-Overview
+The nature of technology is that of exponential progress. If you were to review the latest greatest tech of each era, it would be plainly obvious just how fast things evolve. TV to VCR to Walkman to Playstation to VR. The next new tech of today often makes the last thing look ridiculous. Even if you were to look year to year, you would witness growth that reaches far beyond any other sector. I'm going to make a few quick cases for technology being the highest value, highest growth, and simply the best investment of the next decades and beyond.
 
-	AMD is a global semiconductor company offering x86 microprocessors as standalone or integrated (CPU’s, GPU’s, server systems, Etc…) and intellectual property/ services.
+1. **It is being subsumed by everything.**
 
-Products
+Technology is no longer a separate entity. Recently Bank of America claimed they are really a tech company. That's kind of a stretch, but the point is taken. Everyone has incorporated tech into their business model. Tech is what makes things cheaper, easier, more efficient, cleaner. And any company with intention of surviving is rapidly adopting technology into their models.
 
-	AMD’s primary products consist of CPU’s and GPU’s which are on par or out performing NVIDIA GPU’s and Intel’s CPU’s. While these other two giants have dominated the market for sometime, AMD’s recent move has evolved from a slow creep to a brisk jog. 
+2)  **It was fairly stagnant for a very long stretch.**
 
-Competition 
+If you look at QTEC or any of the other technology ETF's you'll see a ten year period from 2006 to 2016 where the value of tech more or less doubled. Doubling your money in ten years is nothing to sneeze at. However, if you look over the next 5 years, from 2016 to 2021, tech more than tripled from there. There are many who might claim that makes tech overvalued, but I look at it as more as coming into a 'catching up' phase. Tech brought a lot of prosperity to the world from 1970's to today. That was not properly reflected in share prices until recently. I think you could make a case that, especially when considering point 1 above, tech is still vastly undervalued. If tech was to disappear, it would not only be companies like Apple, Microsoft, Palantir, etc that would fall, but the value of every company on earth would fall as well. Ask yourself: How much prosperity on the S&P over the past couple decades can be directly attributed to tech?
 
-	AMD’s largest competitors are Intel (CPU’s) and NVIDIA (GPU’s). With the release of AMD’s Ryzen processors in 2017, AMD has been steadily over taking Intel’s dominance over market share. AMD’s current market share (over all CPU’s) currently sits at 44%, levels it has not seen since 2005. AMD took 20% of the market share in past 2 years with a significant jump in 2019. Since the release of Ryzen, AMD is now on par or out performing Intel chips and has gained a significant amount of sentiment over the soy boys at intel. AMD is on track to overtake the majority of CPU market share within the next year based on current projections.
+3)  **The future depends on technology.**
 
-	Now NVIDIA is a whole other beast who currently has a significant advantage over the dGPU market. Nvidia at the end of Q4 2020, held roughly 82% of the market share which was a increase of 9% from the previous year. AMD’s high end GPU’s do not come close to Nvidia’s high end models, UNTIL AMD’s Radeon 6000 series, which are now on par with Nvidia’s cards, either outperforming or underperforming in various tests. AMD catching up to Nvidia is the same move that AMD made against Intel in 2017, 4 years later they are on the verge of overtaking market share. While Nvidia is a monster of a company, I believe that AMD will begin taking more market share from Nvidia and establish a decent foothold over the next few years. AMD has already taken the game console market, console plebs.
+If you were to ask someone what are the most sensitive issues going forward, you might hear things such as energy concerns, climate change, security, food shortage, water shortage, pollution. You'd hear a lot more answers as well. How will they be solved? To make an argument outside of technological disruption would be laughed at, and for good reason. We've hit an inflection point where all the problems we've gotten ourselves into can be solved only by technology. Will it happen? There are concerns around the viability of technology to solve our issues at the speed necessary. But what is the alternative?
 
-	AMD has already proved they are able to take back significant market share with there current and future products, Lisa Su is a genius and I believe she’ll lead the company to Valhalla. What does AMD have that Nvidia does not? Aside from many differences, I think the fact that AMD has an ecosystem will play a significant role in catching up. Now that AMD can evenly compete with both of their rivals, AMD plans on leveraging the fact that they produce CPU’s and GPU’s. There are already incentives to using AMD’s CPU with their GPU rather than an AMD CPU with a Nvidia GPU. With AMD taking the CPU market, retail users will be more likely to stick with the ecosystem, and I’m a big fan of companies producing an ecosystem (laughs in apple). 
+**Conclusion**
 
-	A new player enters the battle. Intel has been working on their own dGPU and will surely be releasing in the next few years, but I believe this will be comparable to Sony vs Microsoft with Nintendo enjoying their best life staring at butterfly’s, covered in drool in the corner lol.
+Technology will almost certainly experience a pullback at some point over the next few years. It could be now, next month, next year: no one knows that. But what is almost certain is that for a young investor, technology is very likely to be the best investment you could make. Fintech, genomics, AI, VR, AR, cybersecurity, agriculture, EV tech, this list goes on. What are the chances these things do not play a gigantic role in our futures?
 
-The Merger
-
-	Nvidia set to acquire ARM, AMD set to acquire Xilinx. What are they and how are they expected to impact the company?
-
-ARM - Create and dominate the mobile processor market, covering TV’s, phones, tablets, and other similar products as well as some software applications. I will not be covering much more of ARM in this DD.
-
-Xilinx - Designs and develops programmable logic products. As far as I can tell this is some big brain shit that I’m sure some booger nosed, mothers basement living, neck beard having, nerd will easily explain in the comments cuz Wikipedia ain’t cutting it.  
-
-	If AMD completes the purchase, which is likely and expected to happen by the end of 2021, Xilinx shares will become worth 1.723 shares of AMD. AMD is currently trading at 86.10$, meaning that shares of Xilinx will be worth 148.35$ if the deal were to go through right now. Xilinx is currently worth 133.71$, I’m betting heavily that AMD will continue to pump prior to this deal as well.
-
-	ARM will be huge for Nvidia, but this is running into some major road blocks and is likely some ways off or will fall through.
-
-Financials and projections (I had pictures but I’m reddit dumb)
-
-Net Revenue
-$9.8B(2020), $6.7B(2019), $6.5B(2018), $5.2B(2017)
-Net Incum 
-$2.5B(2020), $341M(2019), $337M(2018), $(33)M(2017)
-	
-	I like your growth G
-
-	AMD decreased their debt to 338 million from 568 million.
-	
-	$1.6 billion in cash ($9 billion in total assets, I find cash on hand more important)
-
-	GPU/CPU sales accounted for $6.5 billion while enterprise accounted for $3.3 billion, GPU/CPU sales saw a 37% increase over 2019 while enterprise saw a 65% increase in 2020. 2021 is set to continue this trend of growth.
-
-	AMD has a high price target of $169.70, median $107.00, and an average of $103.92. I just read 100’s of pages of 8k’s and 10’ks, plus I’m super attracted to the ole doc Su Bae so I’m betting that it will get a target price upgrade, regardless $103 will make me rich. There is a lot more we could dive into on financials but idk what the fuck I’m doing so nah.
-
-Risks
-
-	I like to plan for more than 1 risk occurring at a time so keep that in mind. Ive highlighted the risks that I find most impactful/ probable. Also keep in mind of global shortages for damn near every company, especially with chips.
-
-	- Intel/ Nvidia’s market share dominance (mostly Nvidia)
-	- Seasonal sales can make for shit earnings in Q1/Q2
-	- Reliance on third parties for manufacturing/ distributors
-	- Xilinx deal falls through
-	- Jim Cramer also likes this stock
-
-	That’s enough risks, what am I, a gay bear?
-
-TLDR
-
-AMD will moon, Lisa Su is my mommy and is cooking up some tendies, AMD GPU’s are now in Teslas,  obligatory rockets (insert rocket emojis here), lots of words just buy it.
-
-POS
-150 shares @ 78.50
-Jan22 $100/$105C
-Looking for entry into Xilinx cuz I dumb
+All opinions are welcome. I'd encourage people to stick to mature discourse since this thread is kind of lacking it at times. I'm really curious to hear any supporting or differentiating opinions. Thanks!

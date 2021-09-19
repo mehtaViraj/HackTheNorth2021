@@ -1,45 +1,159 @@
-Alright let me explain something.
+* DiDi is a Chinese vehicle for hire company headquartered in Beijing with over 550 million users and tens of millions of drivers. The company provides app-based transportation services, including taxi hailing, private car hailing, social ride-sharing and bike sharing; on-demand delivery services; and automobile services, including sales, leasing, financing, maintenance, fleet operation, electric vehicle charging and co-development of vehicles with automakers.
 
-People are on here complaining saying “oh why are all these stocks being discussed”, WSB isn’t the same. “I remember when we used to only YOLO on solid fundamental companies like TSLA &amp; APPLE so that if you fucked up your trade at least your not bagholding”.
+*Owner and founder is Cheng Wei, ex Sales Manager of *BABA*, and Regional Manager of Alipay.
 
-First off, shut the fuck up. I do agree that the sentiment has changed a bit since prior to January 2021, but do you even know what WSB is about?
+In 2014, Cheng hired Jean Liu (Liu Qing), a former *Goldman Sachs Asia* managing director, as the COO of the company.
 
-It’s about finding good trades that can like 5x to 10x your profits which also comes with high risk aka High Risk, High Reward trades … like 1-0DTE SPY calls or puts.
+In February 2015, the company merged with its rival Kuaidi Dache and was renamed Didi Kuaidi (later renamed Didi Chuxing or “DiDi”).
 
-I’m not pushing $IRNT here, but I’m holding my bag until next week to see what happens. I think with its setup, high OI% for October, high SI%, and high CTB% that there’s something unique to come of it, “potentially”.
+In August 2016, DiDi acquired all assets of the Chinese division of *Uber*.
 
-Fuck for a lot of you on here, prior to two weeks ago had no idea what a super 8-k was or a company completing a stock redemption from a DeSpac.
+Since the company was founded in 2012, under the leadership of Cheng Wei and Jean Liu, DiDi has grown to become one of the world’s highest valued tech start-ups.
 
-I’m in full exceptante of the L’s I take as it was my choice to partake. I can imagine posters of DD getting flack from people not getting “GaINs” or losing a fuck ton of money blame posters or ask them questions like, hey man I just dropped a bag on this stock how fucked am I? No one is going to answer you. That was your choice to play that play.
+By September 2015, Didi Kuaidi had obtained 80% market share in private car hailing services and 99% of the taxis market share. The same month, Didi Kuaidi announced the launch of a rebrand process, including a plan to rename itself "Didi Chuxing".
 
-People complaining of stocks in this sub-reddit this week and saying ah man I miss the old days; when 95% of you weren’t even here back then.
+*2016: Acquisition of Uber China*
 
-You want to know why the DeSpacs high redemption are being discussed? Because of their Super 8-k (Redemption) and Option Chain activity.
+By the beginning of 2016, *Uber China*, which started its Chinese operations in 2015, had become a major competitor to Didi Kuaidi. Uber's then-CEO, Travis Kalanick, claimed the company was losing over US$1 billion annually in China.
 
-These types of stocks can lead to gamma squeezes and high return for those who got in early before IV and on the run up when the stock was illiquid and IV is low, if that stock pops off, again, High Risk to High Reward plays, then that make sense.
+In June 2016, DiDi closed a US$4.5 billion fundraising round, with investors including Apple Inc., China Life Insurance Co., and a financial affiliate of Alibaba Group Holding Ltd. As part of the round, DiDi secured a $2.5 billion syndicated loan arranged by China Merchants Bank Co. This equity share fundraising round is one of the world's largest by any private company, surpassing the previous record set by DiDi.
 
-For example, until lock up expires for the PIPE investors, I’ll use $IRNT as an example, it still has absurd Option Chain activity for October, high short interest, high CTB, closed at $30 which indicates to me dumb money is still holding strong, and a very small float that moves easily and has been proven to do so.
+On 1 August 2016, DiDi announced that it would acquire Uber China in an acquisition valuing Uber China at US$35 billion. As part of the deal, Uber acquired 5.89% of the combined Chinese company with preferred equity interest which at the time equated to a 17.7% economic interest in DiDi. The transaction also provided DiDi with a minority equity interest in Uber.
 
-So, for me I’m rolling the dice and playing this into next week to see. But here’s the thing, I ChOsE tO tAkE tHaT rIsK … because I knew why I was going into that trade and if I get burnt that’s on me and me only, there’s no one else to blame but myself and some of you are forgetting that.
+In April 2019, *Uber* released a public version of its S-1 filing ahead of its planned initial public offering. As part of the filing, Uber revealed that at the time of filing, the company owned a 15.4% stake in DiDi. Uber's stake in the company was diluted (from 17.7% in 2016 to the 2019 stake) as a result of new investments from additional investors since 2016.
 
-DeSpacs are hot right now because some of them have potential to make good money if your lucky and smart.
+* 2017–present: business expansion, crisis and safety system enhancement
 
-Plays like $IRNT are unique and if anything remind me more of old WSB rather then the current buy $WISH or buy $CLNE type shit.
+In March 2017, the Wall Street Journal reported that *SoftBank Group Corporation* approached DiDi with an offer to invest $6 billion in the company to fund the ride-hailing firm's expansion in self-driving car technologies, with a significant portion of the money to come from SoftBank's then-planned $100 billion Vision Fund.
 
-There’s a lot of interesting plays out there as of lately, but don’t ever bitch and complain to a Mod or Redditor because your down and didn’t know why you got into  a trade.
+On 28 April 2017, DiDi announced it closed a new financing round of over US$5.5 billion to support its global expansion strategy and continued investments in AI-based technologies. The round valued the company at US$50 billion.
 
-This isn’t fucking Safe—Moon you quacks. If that’s your mentality then go join a subreddit similar to that.
+In December 2017, *Reuters* reported that DiDi had raised $4 billion for a global push into foreign markets and investments into technologies such as Artificial Intelligence.
 
-This is a place where we take bets on trades that have at least some form of logical reasoning as a catalyst to occur.
+In May 2018 the company received a wave of negative media coverage when a female passenger on the company's Hitch social carpooling service was murdered by her driver. In August of the same year, a second female passenger was raped and killed by her driver using the same Hitch service on the DiDi platform. Following these incidents, DiDi suspended its Hitch services in August 2018, and began to reform its platform with improved safety standards. In September 2018, Didi announced an investment of $20 million in customer service, The app's safety updates included an evolving set of safety precautions and in-app functions, including the formation of an in-app safety center, en-route audio recording, police assistance button and blocking function to restrict service from certain drivers and passengers. The company also invested $20 million in its customer service offerings and increased its in-house customer service team to 8,000 staff. As part of the update, DiDi created an online discussion platform to facilitate online and offline national public opinion surveys in China. Media reported that in 2018, DiDi recorded losses of up to $1.61 billion owing to heavy spend on training and recruitment of qualified and skilled drivers.
 
-Whether it be an Option Chain activity, highly shorted with a catalyst, Oversold, Calls or Puts because of JPowws money printer goes Brrrr, etc.
+In 2018, the company launched its "Red Flag Steering Wheel" program in which verified Communist Party of China members would be visible as drivers. The company also pledged to hire 1,000 Communist Party members as part of its safety drive.
 
-If you can’t eat a loss based on your own decision gracefully, and go straight to blaming others, then get the fuck out this sub.
+In 2018, the company launched a bike and e-bike sharing platform and expanded vertically into auto service sector with the spinoff of Xiaoju Automobile Solutions, a platform providing auto sales, leasing, financing, car maintenance, refueling and recharging services to driver partners on the platform and independent vehicle owners.
 
-Sincere regards,
+* Since 2015, DiDi has invested in Grab, Lyft, Ola, Uber, 99, Bolt (Taxify) and Careem, and expanded into Latin America, Australia and Japan. In January 2018, DiDi acquired 99, a Brazilian ride hailing app.
 
-Edit: I want to be clear, I don’t post shit to receive awards or upvotes or any glorification about anything that I post. I post when I feel people don’t understand something or when I see an opportunity etc. I also read other redditors post for the same reasons.
+* Services: 
 
-This shit could get downvoted to oblivion and like I said, idgaf about Karma points etc. This is staying up unless a Mod takes it down. 
+DiDi serves 550 million users across over 400 cities with products including Taxi, Express, Premier, Luxe, Bus, Designated Driving, Enterprise Solutions, Bike Sharing, E-bike Sharing, Car Rental and sharing, and food delivery. A total of 7.43 billion rides were completed on DiDi's platform in 2017. 
 
-TL;DR - Don’t blame others for your decisions. There’s logical reasons why certain stocks apart from playing SPY weeklies etc are being traded on.
+Some of DiDi's services include: 
+-DiDi Taxi
+-DiDi Express
+-DiDi Premier
+-DiDi Designated Driving 
+-DiDi Enterprise Solution 
+-DiDi Bus
+-DiDi Luxe
+-DiDi Bike Sharing 
+-Xiaoju Automobile Solutions
+-DiDi Financial Services
+-DiDi Food
+-DiDi English (In May 2017, DiDi released an English-language service in the Chinese mainland. The service offers English language user interface and a real-time, in-app, instant text message translation to facilitate rider-driver communication)
+
+*Technology: 
+
+-Artificial Intelligence (AI) : The DiDi Research Institute is focused on AI technologies including machine learning and computer vision to optimize the platform's dispatch system and route planning services. A few hundred scientists work on deep-learning technologies at the institute. To expand on this research, DiDi launched AI Labs in Beijing and in 2018 the company opened DiDi Labs in Mountain View, California. This facility mainly focuses on AI-based security and intelligent driving technologies.
+
+-Big Data Operation : Big data operation: DiDi is building a cloud platform to integrate anonymized data from sensors on vehicles, static information and real-time events from roads with anonymized platform data including pick-up and drop-off, trips and carrying capacity information. This data allows platform supply and demand to be balanced efficiently, and enables mitigation tactics for traffic congestion.
+
+-DiDi Smart Transportation Brain is powered by AI and cloud technology
+
+* Globalization :
+
+August to September 2015: invested in Grab, Lyft, and Ola.
+
+August 2016: acquired Uber China and obtained an equity interest in Uber.
+
+January 2017: made a strategic investment in 99, Brazil's largest local shared mobility provider. In its official announcement, DiDi noted its intention to provide strategic guidance and support to 99 in the areas of technology, product development, operations and business planning.
+
+March 2017: opened a research and development center called DiDi Labs in Mountain View, California, U.S.
+
+July 2017: co-led a new financing round of Grab.
+
+August 2017: formed a strategic partnership with Taxify, a transportation network company operating in Europe and Africa. DiDi also formed a strategic partnership with Careem, a transportation network company operating in the Middle East and North Africa.
+
+January 2018: acquired 99 and now operates in Brazil under the 99 brand.
+
+February 2018: launched its new app in Hong Kong, which is an upgraded version of Kuaidi Taxi. It was also announced that DiDi will, along with SoftBank Group, begin a venture in Japan.
+
+April 2018: started operation under its main name in Mexico.
+
+May 2018: started trial operation in Geelong, Australia.
+
+July 2018: DiDi and Tokyo-based SoftBank Corp. have set up a joint venture for taxi-hailing in Japan.
+
+September 2018: launched a taxi-hailing service in Osaka.
+
+November 2018: launched a research facility in Toronto, its second in North America.
+
+March 2019: launched ride-hailing services in Newcastle, Australia.
+
+April 2019: launched Taxi-Hailing Service in Tokyo and Kyoto.
+
+June 2019: started operations under its main name in Chile and Colombia.
+
+November 2019: DiDi scheduled to commence ride sharing services in Perth, Western Australia. DiDi will be the third major player to enter the West Australian ride share market alongside Uber and Ola. DiDi also launched operations in Costa Rica this month.
+
+January 2020: DiDi started hiring staff to start its business in Russia.
+
+August 2020 : DiDi launched service in Kazan, Russia. 
+
+November 2020: Announces entry in to New Zealand
+
+November 2020: DiDi launched services in Dominican Republic.
+
+March 2021 Announced launch in South Africa after a pilot in Gqeberha.
+
+*Honors :
+
+2015: DiDi was announced as a Davos Global Growth Company
+2016: DiDi was included in Fortune "Change the World" list
+2016: DiDi was named one of the World's 50 Smartest Companies by MIT Technology Review
+2017: DiDi was nominated as one of the best five startups for TechCrunch’s 10th Annual Crunchies Awards
+2018: DiDi was included in Fast Company's "Top 10 Most innovative Companies in China" list
+2018: DiDi was included in the Global Clean Tech 100 list by Cleantech Group
+2018: DiDi was named on CNBC's Disruptor 50 list
+2018: DiDi was selected on Fortune's Change The World list
+2018: DiDi Rider App was recognized as Best Hidden Gem for Mexico in Google Play's Best of 2018 list
+
+Tl;Dr : 
+
+I know for someone would be too long to read (trust me there is more) but took my time this morning to touch the “basis” and share what I found.
+
+This is DD for DiDi, I would encourage you to read and research on your own too, looks like we have a pretty nice gem here.
+
+*Oh and Apple invested 1 billion dollar in 2016 and have a seat on the board.* [link](https://9to5mac.com/2016/10/11/apple-didi-chuxing-board-seat/) 
+
+(Along with Apple’s $1 billion investment into Didi, the ride service giant’s major backers are SoftBank, Alibaba, and Tencent)
+
+And connecting the dots looking back, with *Apple Car* plans possibly including a robo-taxi service, the company may have been able to learn a lot of valuable knowledge from its involvement with Didi over the last six years that it could leverage in a future ride service.
+
+Main sources are Wikipedia, Reuters, Bloomberg and Forbes
+
+Edit : Bloomberg Technology; [link](https://youtu.be/FC0OIoNzfFs) 
+
+They are using Lidar technology on all of their cars. Team up with NVIDIA. [link](https://iot-automotive.news/didi-chuxing-teams-with-nvidia-for-autonomous-driving-and-cloud-computing/) 
+
+Feature Tracking  for Robust Self Driving from NVIDIA [Video](https://youtu.be/y2X_7KwppoI) 
+
+DiDi Chuxing is rolling out its own electric vehicles : [link](https://www.google.com/amp/s/mobile.reuters.com/article/amp/idUSKBN1HV05Z) 
+[link2](https://www.google.com/amp/s/mobile.reuters.com/article/amp/idUSKBN27W1K6) 
+
+*They acquired Uber China for $7 billion dollars.
+
+Research facility in Mount View and Los Angeles, CA : DiDi Labs [link](http://www.didi-labs.com) 
+
+Financials : [link](https://www.crunchbase.com/organization/didi-dache/company_financials) 
+
+Forbes : Didi Makes $1 Billion Profit While Uber Bleeds — Good News For Robotaxis (Feb 4, 2021)
+[link](https://www.forbes.com/sites/bradtempleton/2021/02/04/didi-makes-1-billion-profit-while-uber-bleeds---good-news-for-robotaxis/?sh=695516336ee4) 
+
+China to test sovereign digital currency on ride hailing giant Didi [link](https://www.google.com/amp/s/mobile.reuters.com/article/amp/idINKBN24914U) 
+
+Peace!

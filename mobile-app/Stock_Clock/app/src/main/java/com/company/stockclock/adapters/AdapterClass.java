@@ -7,19 +7,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.company.stockclock.Activities.ImageNameHelper;
-import com.company.stockclock.Activities.MainActivity;
-import com.company.stockclock.Activities.NameFileHelper;
-import com.company.stockclock.Activities.StockFileHelper;
+import com.company.stockclock.Activities.DisplayDetails;
 import com.company.stockclock.ModelClass;
 import com.company.stockclock.R;
-import com.company.stockclock.Activities.GeneralScreen2Activity;
 import com.company.stockclock.requestsJava;
 import com.squareup.picasso.Picasso;
 
@@ -86,8 +81,8 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.CardViewHold
             @Override
             public void onClick(View v) {
 
-                Intent intent = new Intent(context, GeneralScreen2Activity.class);
-                intent.putExtra("position", position);
+                Intent intent = new Intent(context, DisplayDetails.class);
+                intent.putExtra("stock", model.getStockName());
                 context.startActivity(intent);
 
                 //MainActivity mainActivity = new MainActivity();
