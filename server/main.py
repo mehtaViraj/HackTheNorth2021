@@ -61,7 +61,7 @@ def addCompany():
 
                 results['stock-status'] = 'Stock added'
             else:
-                results['stock-status'] = 0
+                results['stock-status'] = '0'
     return jsonify(results)
 
 @app.route('/query-nlp', methods=['GET'])

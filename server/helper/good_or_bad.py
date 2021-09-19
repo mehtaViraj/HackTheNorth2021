@@ -43,5 +43,4 @@ def check(text):
     else:
         return('Do not invest')
 
-print(check(get_text('apple')))
-
+#print(check(get_text('apple')))
