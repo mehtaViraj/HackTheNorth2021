@@ -1,35 +1,49 @@
-Alright you degens, here's the deal. Raven Industries is a small-cap [(but over $1 Billion market capitalization currently)](https://finance.yahoo.com/quote/RAVN/). Their highest market cap range was $1.75B in [September of 2018](https://ycharts.com/companies/RAVN/market_cap), with a huge dip due to the 'rona. So mods, don't think I missed the submission rules.
+https://investor.fitbit.com/press/press-releases/press-release-details/2019/Fitbit-to-Be-Acquired-by-Google/default.aspx
 
-**What Raven Industries Do**
+The above is over a year old. So what is Fitbit, and why am I posting this now, then?
 
-"Applied Technology" aka fancy tech for farmers. Field computers, guidance/steering, machine control, yada yada. Anything to get Jebediah out of his tractor and behind a tablet.
 
-"Engineered Films" - you need a big blanket to cover up an entire pond, but specifically made to protect the environment from hydrocarbon contaminants? You get Absolute Barrier Y30BAC, and you get a pond sized liner in a week.
+Fitbit is an American electronics and fitness company which focuses on health-related metrics, tracking, and data analysis. For you, what you need to know is that it sells smartwatches. 
 
-"Aerostar" - This is the big one. Raven provides quick deployment balloon systems for everything from surveillance and communication systems to monitoring atmospheric conditions. NASA loves these and so does Alphabet/Google [(check out Project Loon)](https://loon.com/), both current Raven customers. They're pretty much satellites you can deploy from the ground that can smell your last FD's rotting corpse from [19 miles high.](https://ravenaerostar.com/aerospace-and-defense/scientific-research)
+Anyone who cares about watches or fashion at all, you might have heard of Fitbit. As someone who used to be big on high fashion about 2-3 years ago, Moncler was a suave yet not over-the-top brand that a lot of rich Asians and Khabib Nurmagomedov wore. https://i.imgur.com/tiONi3I.jpg. Personally for me, Fitbit has a lot of resemblance - popular enough for the cool kids wear and know, and still good for the boomers due to the functionality. 
 
-**WHY YOU ARE BEING SPOON FED ABOUT THIS STOCK**
 
-Our lord and savior, Cathie Wood and ARKQ has [initiated a position on RAVN.](https://www.benzinga.com/news/earnings/20/12/18582800/raven-industries-small-cap-agriculture-balloon-technology-stock-cathie-wood-likes) Moreover, they have since increased their stake from an initial $5 million to a current stake of around [$12 million in 2 months.](https://cathiesark.com/arkq-holdings-of-ravn) That's what prompted me to take a look at some of Raven's performance.
+Fitbit is ranked 5th worldwide in shipments for watches, behind notably Apple, Samsung, and Xiaomi. https://www.idc.com/getdoc.jsp?containerId=prUS46122120
 
-**PERFORMANCE RELATIVE TO COMPETITORS**
 
-Pulling data from Fidelity's Key Statistics derived from Raven's latest Edgar filings, Raven has some interesting metrics:
+Back in 2019, some of you boomers here might recall an announcement by Google, with plans to acquire Fitbit at a 2.1 Billion dollar USD transaction, which was halted by various legislative and activist communities due to the ongoing battle vs. FAANG+M (Facebook, Apple, Amazon, Netflix, GOOG(Alphabet) + Microsoft). See: Facebook vs. US of A currently. Let me give you the spoilers on this stuff for the upcoming Biden Administration and the near future: it doesn't matter. 
 
-Gross Margin (Most Recent Qtr, Annualized): RAVN 40.27%, Avg Industrial Conglomerates 38.06%, putting them in the 75th percentile of Industrials. Solid but not mind blowing.
+https://www.theverge.com/2020/12/17/22158271/googles-fitbit-deal-eu-regulator-approval
 
-Return on Equity (Most Recent Qtr, Annualized): RAVN 10.65%, Avg Industrial Conglomerates 11.75%, putting them in the 50th percentile of Industrials. Middle of the pack.
 
-Return on Assets (Most Recent Qtr, Annualized): RAVN 8.56%, Avg sector is 3.98%, putting them in the 92nd percentile. Now we're talking.
+Big techs rule the world, that's why they are boomer stocks at this point, that's why they are blue chips. Stonks only go up? None of this exists to today without the big tech companies starting the trend and movement into this digital era, into this technological boom. Your teachers use Google to find their sources despite telling to you keep your nose in the books. Your very own senators representatives and law-makers, voting about the 25th Amendment, revisit the constitution thru Google, while actively voting against big-techs taking over the world, using... Google. 
 
-According to the [Nov 24 earnings report](https://investors.ravenind.com/news-releases/news-release-details/raven-industries-reports-strong-third-quarter-fiscal-2021), the applied technology and Aerostar segments saw an increased revenue of 22% and 15% year over year respectively. Tractors go brr, balloons go prrrrt.
 
-Total Debt/Capital (Most Recent Qtr, Annualized): 3.03%, avg of sector is 57.13%. It has *extremely* low debt obligations relative to other industrials. Now normally this is where you say that they're idiots because they're not properly leveraging. But to that I say that this company is ran by a bunch of South Dakotans who listen to Dave Ramsey on their truck radios and avoid debt like its a minority they're not familiar with.
+The very same Google is bent on acquiring Fitbit, and has received a conditional-yet-final approval from the EU commission, and will be soon to follow in the USA, I presume not long after the transition of power on the 20th. Google will acquire Fitbit due to their previous failure to breach into the smartwatches market, which exploded some ~4-5 years ago. Apple currently dominates the market, and Google wants a piece. Do you think Google will sit by idly and watch one of their prime competitors claim the throne without contest?
 
-&#x200B;
 
-I've had a lot of bourbon since I started writing this post, so I'll leave with this. I am bullish with 300 shares and 10 calls at varying strikes for May 2021 (furthest out I could go). The current options sentiment is massively bullish. I'm talking Call/Put ratio of 434:1 for today's volume, open interest C:P is 27:1. For the smoother of brains out here, that means that we can't have a bear hunting season, because thus far we cannot determine whether bears even exist.
+Google recently filed a patent for a smartwatch-design which includes a heartrate tracker. It's very unlikely that after their past attempts at breaking into the watches market, that they will go ahead and just, "TrY aGaIn" without the proper measures taken. Fitbit is that proper measure, it's the acquisition which will get them the entry footing they need, to grow. https://www.91mobiles.com/hub/google-fitness-band-design-revealed-uspto/
 
-&#x200B;
 
-Cathie is love, ARK is life. Following her till the day I die.
+But the biggest reason why I'm in Fitbit right now, is because it's a tech-involved product maker coming out of the COVID pandemic, consistently beating earnings expectations for the last 2 quarters of the pandemic, about to report yet another earnings in... ~3 weeks, speculated 1st/2nd week of February. Premiums are beyond dirt cheap also, the stock's been sideways for a year since Google's acquisition announcement over a year ago. Get in before the holiday earnings in early February.
+
+
+**TL;DR**
+- $FIT is a watch company being acquired by Google, after long halts from various legislators and committees.
+
+- Earnings are coming up, have consistently been beat during the pandemic, smart watch market grew ~80% YOY in 2019 and Fitbit's revenues grew during pandemic.
+
+- Premiums are dirt cheap, stock has long to run. If $PTON can grow into 2021, $FIT will certainly rise from the ashes.
+
+**EDIT**
+
+POSITIONS:
+https://imgur.com/a/x0x2mYb
+
+Down on all, been in for over a month on all of them, some longer. Will be burnt for January calls. Time your calls to the ides of February or after - earnings are definitely not priced in.
+
+Adding some rockets for WSB literacy - 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+**FINAL EDIT**
+
+https://old.reddit.com/r/wallstreetbets/comments/kwk1cc/fitbit_phoenix_rising_from_the_ashes/gjaivyq/

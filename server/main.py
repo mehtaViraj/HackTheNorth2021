@@ -100,7 +100,9 @@ def lastAll():
             ref = db.reference('/stocks/'+request.args.get('stock').upper()+'/history/'+i)
             values_all = ref.get()
             results[i] = newestValueFinder(values_all)
-        results['']
+        ref = db.reference('stocks/'+request.args.get('stock').upper()+'/redditView')
+        redditView = ref.get()
+        results['redditView'] = redditView
     else:
         bad_request(400)
     return jsonify(results)
