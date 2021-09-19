@@ -1,64 +1,49 @@
- Hey guys,
+I think after the last earnings call there is a lot of incorrect information or straight out distortion of facts being put out by people and analysts alike here and would like to set the record straight with what I believe the facts are.
 
-For those that don't know me, I wrote the original FSR dd (pinned comment has it - thanks automod)   
- In this post I will be going over what happened this week to the FSR share price and what I see happening in the future. I will be sure to keep it short
+**Production:**
 
-So first of all the Morgan Stanley PT was released:
+The company in their earnings call said they are on track to start production at the end of Sep 2021. If you actually listened to what they said, they said this is for test-builds that they hope to validate in Q4 and to deliver a few to some special early customers in Q1' 2022. They further said or implied that they expect regular commercial deliveries to start in Q2' 2022. Previously, they said on the Q1' 2021 call they had enough cash to ramp production to produce and deliver 1,000 vehicles this year. Now delivery (ignoring their special test-builds delivered to early customers) is pushed back to Q2' 2022. Maybe the word PRODUCTION is being misused to imply something other than what they are doing. I would suggest the correct term for what they are doing now is PRE-PRODUCTION. In any case this is semantics as revenue requires deliveries, not production.
 
-" Adam Jonas at Morgan Stanley resumed coverage of Fisker’s stock at the equivalent of a buy rating, setting a 12-month price target of $40, or 122% upside over Tuesday’s share price. He set out a bullish case scenario Price target of $90". After this, FSR rose 20% in a day. Pretty obvious, right? People see a PT higher than current price and want in.
+**Equity Line of Credit (ELOC):**
 
-But then Henrik goes and kills sentiment by announcing a $600 mil convertible notes offering (link in comments) " $600,000,000 aggregate principal amount of its Green Convertible Senior Notes due 2026"
+There have been claims that there is a "Line of Credit" providing up to $400M in financing in place. In fact this is a complete misrepresentation. Below is the link to an SEC filing describing the agreement between RIDE and YA. Here are some key points and how the $400M is computed and why it does not mean anything.
 
-Now, people straight away see "offering" and have flashbacks to every other goddamn company that diluted like shit and messed up all hopes of their share prices rising. But this is actually bullish, contrary to popular belief.
+On 7/23/2021 they entered into the agreement with YA to purchase up to $400M of their Class A Common Stock over a 36 month period at RIDE's discretion (that should be a red flag there. As why would YA agree to this... well all will be explained). Per that filing, " The net proceeds that we may receive under the Purchase Agreement cannot be determined at this time...", which means that while RIDE can potentially receive up to $400M, they might receive far less but can't predict that amount, as it depends on the stock price.
 
-In the words of **Dan Gonzales**, the **Investor Relations officer** for FSR:
+The agreement says that RIDE can only sell YA, up to 35,144,690 in shares, UNLESS, (1) they obtain shareholder approval to sell more or (2) the average price they sell the shares to YA at is over $7.48 per share. The price of the shares is 3% less than the "simple average of the daily VWAP's for the three trading days following notice to YA" There are also daily limits on how many shares RIDE can sell to YA at any time.
 
-" Hi all. I am seeing some confusion on the board here and I wanted to try to address a couple things: 1) We've been very consistent that the $1 billion FSR raised in the SPAC funded the Ocean program to start of production. That is still the case and we don't want to touch those funds for other projects; 2) As the press release says, purpose of this fund-raising is to fund the PEAR development, and other potential exciting projects; 3) We have great balance sheet now but the time to raise add'l capital is when you can, not when you have to (like Tesla always did); 4) Converts are very standard product and generally include conversion premium. Meaning dilution doesn't happen at current price but something higher. Capped call raises that even more typically; look at other convert annc'ts for example. Just wanted to add some facts and clarification. "
+So assuming 35M shares, at a current share price of about $5.8 that is about $204M before the 3% discount to market price that RIDE nets. For RIDE to net 400M, with selling 35M shares they need a share price of $11.4. Alternatively they need shareholders to approve selling much more than 35M shares (so just more dilution) or they need the average price to be over $7.48, which will allow them to increase the shares they sell, so also more dilution.
 
-These are also "capped call transactions" What that means is that dilution is reduced either way, worst case scenario is still less than 20%. Also, not being due until 2026 puts faith in FSR's ability to actually produce the PEAR vehicle, which reduces the main bear thesis that FSR will never actually produce a vehicle.
+In sum, at current market prices they net about $200M under this "Equity Line of Credit" or share offering. However, as selling shares will likely depress the price, they should net far less.
 
-So now that we have the details out of the way, (check the links if you want more info), here is my theory and how I am playing this:
+[https://sec.report/Document/0001558370-21-009222/](https://sec.report/Document/0001558370-21-009222/)
 
-&#x200B;
+**Further Dilution:**
 
-[Finviz short data as of this morning](https://preview.redd.it/b9qc3349uzg71.png?width=178&format=png&auto=webp&s=a1eda8b35bd9d1dcc3440d2a458744ccc2a15820)
+Per the SEC filing below, it says that Mr. Burns can sell 50% of his shares by 10/23/2021. Steve Burns owns 46.4 million shares, so assuming he sells when his shares are unlocked he can sell 23.2M shares end of Oct 2021. While in theory not "dilutive" the end of lock-ups tend to have a similar impact by flooding the market with more shares than demand for them.
 
-&#x200B;
+[https://sec.report/Document/0001104659-21-090313/#tSTTR](https://sec.report/Document/0001104659-21-090313/#tSTTR)
 
-[Marketbeat quotes 22&#37; short interest as of July 15. Consistent with Finviz 20&#37; yesterday, meaning shorts must be deep](https://preview.redd.it/wngu0iy9uzg71.png?width=516&format=png&auto=webp&s=7d93bff5c54e513964473a99799a7528a8b2177e)
+**Cash Position:**
 
-&#x200B;
+Per their Q2 earnings call and reports they have about 366M in cash on hand at 6/30/2021. In their earnings report they suggested about 200M in operating expenses for the rest of 2021 and about 215M in CAPEX. While they suggested they can time some of the payments in Q3, this comes to about 415M in cash needed to get through the year. That is about 50M cash short.
 
-[15 min chart showing the previous weeks action. Note the massive gap up after PT announcement and the massive red candle before close today. 600 mil offering was the gap down](https://preview.redd.it/81fb7sjbuzg71.png?width=1306&format=png&auto=webp&s=f174a1ddbf80e5af9a1548be525e80f3d0aab43e)
+Going back to their ELOC, at current share price they can raise about 200M, so assuming they raise the funds without dropping the share price that leaves them  with 150M at year end. It is reasonable to assume that their quarterly cash needs will only increase as they attempt to get to production (this has been the case so far for them and has been the case by every other auto maker as far as I can tell) means that for Q1' 2022 they will need over 200M.  The conclusion is obvious, that on top of the current share offering, if the share price does not go up, they must issue more shares. Further, they project regular commercial deliveries in Q2' 2022 so the money they need will not be insignificant.
 
-&#x200B;
+**Other Sources of Funds:**
 
-[ORTEX data straight after the large red candle before close today. Looks like SI doubled on that particular candle. 4 million volume too](https://preview.redd.it/0fhn971duzg71.png?width=131&format=png&auto=webp&s=bce1f83af6e395d8406c01891b5b75505e17651d)
+The Company suggested that they are getting a valuation on their plant and equipment in order to possibly borrow funds against that. They suggested that the value is much more than the book value of about $300M. The fact is, a lot of their equipment will be installed and modified to their specs and will not be suitable without additional cost to another manufacturer. This means that fire sale value, or what someone might actually lend against it, will likely be far less than the book value. Perhaps to Lordstown, the value is higher, but to a third party that is a very doubtful assumption. As to the factory itself, it was an old plant that GM shut down. This is not something people are looking to buy. For EV's, you see with Tesla, Lucid, and others they are looking or building new factories with layouts designed for EV's and not ICE vehicles. I would again doubt the factory has much value for a lender. Hard to know what they can borrow using their plant and equipment as collateral, but it clearly will not be much.
 
-&#x200B;
+**Conclusion:**
 
-https://preview.redd.it/jx2w7q0euzg71.png?width=275&format=png&auto=webp&s=886b009f897eca62b85812801aae4e1021aca7bf
+Given the dilution and share unlocks coming and their downward pressure on share price, as it stands now the company will have difficult raising sufficient funds to get to production. For the company to be viable, it must have its share price go up first to enable them to raise funds favorably. As evidenced by today's price action, this company is not attracting substantial shareholder inflows, so it remains unclear how the share price increases first to enable them to raise sufficient funds. So based on the current share price, I don't understand how this company, even if they do everything right going forward, can succeed.
 
-Also interesting to note is the following, from Quant Data. If my math is correct, this is roughly 400k dollars in long term bets against Fisker.
+**Some Other Thoughts:**
 
-&#x200B;
+None of the above analysis is dependent on whether the in-wheel tech works or not or is a good candidate for a commercially viable electric truck. I have for several months expressed substantial doubts about the tech and RIDE's ability to execute and have no reason to assume otherwise. In any case, even if it could work, structurally RIDE is not in a position anymore to commercialize it.
 
-[From just before close. Same time as the massive red candle](https://preview.redd.it/vef4u62fuzg71.png?width=417&format=png&auto=webp&s=957d0db452fac644be574884ac2f6af3ae95b8a5)
+I actually also have an issue with Price Targets analysts are setting here. Either you have to have a high price target or a near-zero one. An in-between target makes no sense as current share price means they are headed to insolvency before they can produce anything. This company is either a $10+ investment or a <$1 investment, there is no in-between.
 
-It should be obvious what the play is here. SHORT SQUEEZE!!!!! I am not a fan of "squeeze" plays as 90% of them are not true squeeze potential. "Apes" and "stick it to the hedgies" types are what ruined this sub. But this, I believe is potential to make money and thats what I like.
+**TL,DR price-target <$1 and bankruptcy in Q4' 2021 or Q1' 2022 (if they are lucky they push it off till Q2' 2022).**
 
-Read my original dd to see my PT of $100 for end of year 2022, or $35 for end of 2021. At a current price that is almost 600% profit on share alone by next year. Adam Jonas seen what I see in this company, announced his PT and then the price pumped. Everyone who was short panicked, Henrik done them a favour by announcing (bullish) news that got misinterpreted as dilution, which stupid traders, theres a lot of them nowadays, decided to sell the news without researching. Shorts seen the opportunity to double down and are now 40% of the float SHORT!
-
-If I had to make a wild guess, I would say they have an average short price of around $17.50, just assuming they were short first time at 19.40 (strong resistance according to crayons and what is resistance anyway, but a place where most sell positions were placed - aka a price heavily shorted at) and short second time at 16.50 down to 15 (the entire fucking red candle before close today)
-
-Assuming anything above 17.50 causes pain for short positions, then it should be interesting to note the open interest on all the calls expiring tomorrow, mainly 18 and 20:
-
-&#x200B;
-
-[Calls on the left and puts on the right. Open interest is the far right number, check out 18 and 20 calls. over 3,000 and 7,000 OI respectively.](https://preview.redd.it/r3ein8iguzg71.png?width=1278&format=png&auto=webp&s=8f1e70839c1e21c613318f7ea950f4863d7655b2)
-
-This research paper titled " *A Market-Induced Mechanism for Stock Pinning*" (found on google scholar) essentially states that unusually large OI generally results in pinning to that price by expiry. By that theory, either 18 or 20 should act as a magnet for price all day tomorrow. From the paper: "**We argue that if the open interest on a particular contract is unusually large, Delta-hedging in aggregate by floor market-makers can impact the stock price and drive it to the strike price of the option**".
-
-Positions: 500 FSR shares at 15.50 at 5:1 leverage (been in since May, and accumulating since, dollar cost averaging). Price target is $100 by next year, and I will likely keep dipping in and out until then, mainly holding a core position of shares
-
-Tl;dr is the same as always: Read the whole fucking thing you half-assed dimwit, your fucking wife ain't gonna be proud to be married to a bum too lazy to do some actual reading. Like good god, Im handing it to you as it is.
+Positions: a bunch of $5 Puts for Jan 2022 that are currently up about 20%.

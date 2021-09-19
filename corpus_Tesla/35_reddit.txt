@@ -1,27 +1,53 @@
-&#x200B;
+Only really writing this so I can screenshot this post in a year’s time when this stock has already doubled off it’s bottom with no signs of slowing down. The stock I’m talking about is COIN (Coinbase)
 
-https://preview.redd.it/glzavdp4bkj71.png?width=2028&format=png&auto=webp&s=c374f12f8b0c72a2e7ce42c3bd6644b6d034ea89
+COIN is so undervalued it’s insane. It has a 30 PE ratio while literally 11x revenue YoY when corn halved from it’s May peak. It’s priced like fucking AAPL or FB who are growing 30-50% YoY not fucking **tentupling**. Not to mention during the quarter where corn halved from its peak, they increased their profit by 4900% year over year, so the bear argument “if corn drops they’ll stop making money” has already been disproven.  
 
-Alright well tesla is getting ready to break out and rally once again, now the question is when. It dropped from 900 to around 500 due to inflation fears as well as the market correcting itself . Now it has been range bound for the the last 3 months consolidating and creating strong levels of support .
+In terms of financials, COIN is literally the fastest growing stock I have ever seen. Let’s take a quick look 
 
-[last 5 days](https://preview.redd.it/4shhy0b6ckj71.png?width=2028&format=png&auto=webp&s=ff63b9f6f68bf6f9dd6ec7f60f51705ed5f33a44)
+—-
 
-Last week chip shortages caused a lot of stocks in the automotive industry to drop as the market priced it in , thus tesla dropped from the 700s to 640 before quickly rebounding back up to 700 . Furthermore tesla has been consolidating the past few days creating higher highs and higher lows .
+**Q2 Earnings:**
 
-the last  3 days
+Revenue: $2.23 billion (up 1097% YoY)
 
-8/23- open 685.44 close 706.30
+EPS: $3.45/share 
 
-8/24- open 710.68 close 708.49
+Net Income: $1.61 billion (up 4880% YoY)
 
-8/25- open 707.03 close 711.20
+Net profit margins: 72%
 
-last 3 days tesla has been closing at higher levels each day. Furthermore Tesla held its support at 700, 705 and today created support at around 710. ( Its been consolidating and testing the 715 resistance ).
+Cash on hand: $4.4 billion 
 
-Its only a matter of time before tesla breaks out of this 3 month long channel and so far has created  strong levels of support at 550 , 620, 650 , 675-680 and as of now has turned the 700 level support into a support .
 
-Ive been play calls this whole week as tesla tends to pump then drop and consolidate around vwap  these last few days . But i think it will soon break out either this week or next week.
+—-
 
-This isnt financial advice and i am not a financial advisor 
+**Bear Arguments**
 
-This is just my view of the stock what do yall think of tesla and papa elon.
+*Growth will slow down*
+
+Obviously growth is going to slow down, but there has been no big tech companies that we see today (the FAANGs) that has grown nearly as fast it this is. They have so much money, they don’t know to do with it. Their profit margins are exceptional on that kind of revenue and even if growth halves, they’ll still be making an absolute metric fuck ton of pure revenue and profit. 
+
+
+*Their money is dependent on transaction fees*
+
+For now, but they’re branching out. This is a brand new company we’re talking about. I literally know somebody personally who had their company acquired by Coinbase. They’re spreading their roots to more revenue streams so they’re not entirely dependent on transaction fees. Not to mention they already have Coinbase Pro, so people who want low fees can already get them. 
+
+
+*What if Corn drops*
+
+Corn halved last quarter and they still saw enormous revenue and profits. The *only* reason why I think this could be a problem is if you think corn will flat out stop existing. Corn could drop to 10,000 and as long as people still trade the currency, COIN will be making money
+
+
+*Competition*
+
+That’s the bear argument to every single superior product. It’s a non-issue. Tesla has competition. Apple has competition. The market is big enough for multiple exchanges. Coinbase ranks up there as one of the best; literally the only better alternative (having a physical wallet) is so inconvenient that nobody in that community does it. The only thing bears can say is “fees” but it’s obvious they have absolutely no idea what they’re talking about and have never even used the app, because if they did, they’d know that Coinbase Pro exists and their fees are almost non-existent. 
+
+
+Positions: 
+
+1/21/21 300c 
+
+280/295 12/17 debit spread 
+
+
+Plan is to average down if it gets back down to ~$220/share. Willing to add about another $1000 to this play and eyeing October calls

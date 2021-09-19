@@ -59,7 +59,8 @@ def addCompany():
                 redditView = GoB.check(GoB.get_text(stock))
                 ref = db.reference('/stocks/'+stock+'/redditView')
                 ref.set(redditView)
-                getKnownStocks()
+                #knownStocks.append(stock.upper())
+                #getKnownStocks()
                 results['stock-status'] = 'Stock added'
             else:
                 results['stock-status'] = '0'

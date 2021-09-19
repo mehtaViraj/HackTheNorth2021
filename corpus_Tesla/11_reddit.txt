@@ -1,105 +1,233 @@
-Below is not fun financial advice. Just analysis. You should probably quit reading here and go have fun. Run before it is too late!
+**tl;dr:** a promising EV business which stock plummeted on PIPE unlock + probably shorties are catching the ride down under + insiders gobbling up a bunch of shares at a discount right before a bunch of high profile conferences. LFG[⚡](https://emojipedia.org/high-voltage/)[🚗](https://emojipedia.org/automobile/#:~:text=%F0%9F%9A%97%20Automobile%20(Car)%20Emoji)**🚀🚀🚀**
 
-* **TL/DR:** $LAC, Lithium Americas, share price is about to increase because of catalysts and price squeezing on their product which is: Battery grade Lithium. **Skip to the bottom to see valuation.**
+# Part 1: Intro
 
-**Junior Explorer. The price trajectory of mining companies.**
+Hello degenerates and welcome to my first ever DD! Let's see if it finally gets approved - been getting taken down for the stupidest of reasons...
 
-* Lithium Americas is a mining company with two major projects: Thacker Pass in the USA and Cauchario-Olaroz in Argentina. We will get back to them later. But for now we will just consider that they are both huge, as in gigantic, and both are pre-production / pre-revenue.
+Wait, do we even need a DD for a ticker like this? Well k...
 
-https://preview.redd.it/7cbhl2cm7an71.png?width=1188&format=png&auto=webp&s=43bea16374d62fa66472bab9196314e6b7f91ab8
+Not going to lie here - even though I’m in tech, worked at startups for most of my life and currently at a “woke” FAANG I don’t give 2 craps about EV - would much rather cruise in a good ol’ Porsche or Lambo. That is unless EV can bring in some $$$, now we’re talking.
 
-* The Thacker Pass project is in the development stage, having received its initial record of decision but awaiting its final water and air permits. Cauchario-Olaroz is leaving the development phase, finalizing construction and entering the startup stage.
-* In mining company price trajectory theory, aka the Lassonde curve, these two stages of development and startup often are treated as one single phase: Phase 4 Development. It is the period when a mining company sees the highest increase in share price during its entire life-cycle.
-* Phase 4 begins when the financing is done and construction begins. This is a sign that the project has been figured out, most permits approved, and third-party due diligence found no fatal flaws. The stock value increases on this positive news, especially if construction is on time and on budget. It is even better news if it is in a period of rising commodity prices. New long institutional owners enter.
-* Before the development phase comes the feasibility or orphan phase. Where prices are as depressing as that name sounds, financing is unclear, permits are not yet given and early enthusiasts sell.
-* After the development phase comes the production phase, also known as depletion phase. Here share price often falls at the pace of which the resource is depleted.
+I learned about [$REE](https://ree.auto/) while following u/caddude42069 \- more precisely by checking out his new [sub](https://www.reddit.com/r/2point5to1M) where he’s trying to go from \~$2500 to a cool $1M. Dude’s had some good plays in the past so when he [posted](https://www.reddit.com/r/2point5to1M/comments/pjs8q2/1st_trade_call_me_a_ree_tard/) that $REE is his first trade in that challenge I got intrigued. Usually I don’t YOLO into plays without doing my own DD and couldn’t find much on Reddit (only this post about upcoming [catalysts](https://www.reddit.com/r/wallstreetbets/comments/phbfst/ree_automotive_catalyst/) and [this](https://www.reddit.com/r/wallstreetbets/comments/pktz93/ree_an_undervalued_gem/) “DD” trying to build on top of it) so here it goes…
 
-**The market.**
+# Part 2: Fundamentals
 
-* Battery grade Lithium is used in consumer electronics, behind the meter and on grid storage, and vehicles including drones / remotely piloted aircrafts. The main market is that of vehicles.
-* Light electric vehicles, such as electric cars, are seeing a year on year sales growth in excess of 100% comparing one month to the same month one year earlier.
-* The definition of hypergrowth is 40% yoy growth. This means the demand for batteries is increasing very rapidly.
-* The same battery cell in a vehicle battery pack is cheaper than in a behind the meter home storage battery pack. This is due to something called economy of scale.
-* Vehicular battery packs are seeing the economy of scale affecting their production, which is one of the reasons electric vehicles are competitive with gas/diesel vehicles.
-* Analysts have projected increasing growth of the demand of vehicular battery packs due to this tipping point versus traditional oil powered vehicles.
-* What is not well understood, even by analysts, is that the increasing energy density of battery packs, and their decreasing likelihood of catching fire due to technical advancements - such as solid state electrolyte - will lead to battery packs for home storage and for drone aircrafts also reaching production volumes in the near future that requires large production facilities and thus brings the tipping point in affordability that is caused by economy of scale.
-* Analysts project the demand to 10-fold until 2030 and that is with very conservative, linear, estimates of the growth in sectors other than vehicles.
-* Long story short. In the near future demand for lithium will boom and while the manufacturing process of batteries gets cheaper the value of the battery packs will to a larger extent reflect the value of the raw material in them: Battery grade lithium.
+## 1. Qualitative
+
+## Company Profile
+
+*“REE Automotive Holdings, Inc., formerly 10X Capital Venture Acquisition Corp., is an automotive technology company. The Companys REEcorner technology combines traditional vehicle drive components such as steering, braking, suspension, powertrain and control into the arch of the wheel. The Company develops the electrical vehicle (EV) platform, which helps customers to create the range of EV and autonomous vehicles. Its segments include last mile delivery/ robot-taxis, Mobility-as-a-Service (MaaS), E-Shuttle and Mid mile delivery. The Company provides a basis for urban delivery vehicles or two passenger autonomous Robottaxi applications. Its platform creates the blank canvas to build the MaaS vehicle for both autonomous and human-drive applications. The Companys EV platform technology accommodates medium-duty commercial vehicles, which includes shuttles and medium zero emission delivery trucks.”*
+
+Think this is a pretty smooth brain explanation of what REE does but if you still need it dumbed down (like I did): they make a sort of a base/chassis for EV vehicles which other makers can build on top of. The idea is to make it in a way that a) optimizes the space b) minimizes time to market c) allows manufacturers/customers to build custom vehicles on top of it.
+
+They are best known for their skateboard platform, and no I don’t mean like the one you tried to do ollies on when you were in high school. In EV a skateboard platform is an architecture which directly houses all of the most critical components of an electric vehicle i.e. the powertrain, steering, suspension and braking components.
 
 &#x200B;
 
-https://preview.redd.it/pdcxp32z7an71.jpg?width=1242&format=pjpg&auto=webp&s=8017b9359f93f9ce6026855a649504950b8f7bc5
+[Red cars are the fastest - facts](https://preview.redd.it/mqla2b7lwbn71.jpg?width=305&format=pjpg&auto=webp&s=76d5c30842490a7dc5ebc68ca1a8f6faa0be5779)
 
-* In this image the covid-plunge effect on EV sales can be seen. August and September numbers are up. But there is room for further increase as sales eventually come back to the pre-covid trend like they did after the 2008/2009 financial crisis. But Lithium price is a leading indicator compared to EV-car sales, as it is used in produced cars. Not only in sold cars.
+This is most probably why you haven’t heard of them before - they don’t focus on the consumer market but rather other makers who can build custom vehicles on top of it. Now while players like Tesla, who are trying to build \*everything\* themselves, probably won’t even look at $REE I see this as a major opportunity for all the other companies, especially ones who slept on the whole EV craze and are far behind.
 
-**The producers.**
+## Competitive/Competitor Analysis
 
-* USA just declared Lithium production a national interest. The Chinese have since long understood that securing the entire supply chain of raw material and production is of great national importance and by this strategy they are dominating the world market.
-* In 2019, Chinese chemical companies accounted for 80 percent of the world’s total output of raw materials for advanced batteries. China controls the processing of pretty much all the critical minerals: Of the 136 lithium-ion battery plants in the pipeline to 2029, 101 are based in China.
-* Much like oil is priced in dollars. Lithium is today priced in Chinese currency, Yuan.
-* Why is that important? If you need oil first you must get US currency. If you need lithium first you must get Chinese currency. Once many currencies were guaranteed by gold.
-* In a way the value of the US dollar is guaranteed by the value of Oil, and the Chinese Yuan by the value of Lithium. As the world for some use cases shifts from oil to electricity this has geopolitical consequences. And the superpowers rush to secure control of these resources.
+Fully scalable and completely modular, REE offers multiple customer benefits including complete vehicle design freedom, more space and volume with the smallest footprint, lower TCO, faster development times, ADAS compatibility, reduced maintenance and global safety standard compliance.
 
-**The lithium supply - demand squeeze.**
+Main competitors:
 
-* Like most materials lithium for cars sees an increasing demand during the bounce up from the covid plunge. This is causing price inflation. And while lumber and concrete prices are destined to settle as they do not see sustained 100% yoy growth like batteries there is also another factor causing Lithium prices to go up in the future.
-* As can be seen from the timeline in the first figure above it takes about 10 years to start a new mine. That is a much longer time than a saw mill or other types of factories. So production will not be able to ramp up to a sharp increase in demand due to this time lag.
-* This is why I would expect lumber prices to stabilize and even fall back, while lithium should soar.
-* Mines that are in the discovery / feasibility phase will not be able to meet demand until five years from now. In pole-position to reap the benefit of booming demand is already producing mines, and those in the development / startup phase like Lithium Americas both projects.
-* After the 2008/2009 drop in lithium demand it took until 2018, ten years, for Lithium price to peak, when production capacity finally catched up it was due to demand not increasing anymore. There was some overshooting of production capacity that coincided with the demand drop accelerated by the covid-plunge. Causing the shut-down of mines with high production costs in the period 2018-2020. And we are again starting a new cycle of supply-demand squeeze that just like the last time is likely to maintain high/ increasing lithium prices until the demand stops growing at the currennt pace, and / or the ten year period to start brand new production capacity has passed.
+* Xos Inc (1.5B)
+* Lion Electric Co (2.11B)
+* Niu Technologies (2.19B)
 
-https://preview.redd.it/cixhehvjdbn71.png?width=660&format=png&auto=webp&s=c0369b22537f3afd07eff510070b144bce49ca25
+Tbh as I said earlier I know nothing about the EV space - if there are any apes with more wrinkles around I'm more than happy to add their competitive analysis here. From my side the designs look like what I've seen in Ghost in The Shell type of animations when I was younger and is more than enough to get me on board.
+
+## 2. Quantitative
+
+## Share Price/ER
+
+**Share price (09/10 close):** $5.97
+
+**52 week range:** $5.48 - $16.66
+
+Ok… WTF happened here?!
+
+$REE went public in July 2021 via a SPAC and as we all know many of those haven’t been doing particularly well. $REE’s price was no different, slowly tumbling down before it performed a beautiful nosedive - minus 35% on 8/31. Why? Well the initial PIPE investors sold 30M shares - the full initial SPAC deal private investment amount. 10% of current outstanding shares. Yikes!
+
+So the game’s over, right? When early investors sell right after the lockup period it means the company will flop, right? Not necessarily… As the saying goes: “There are many reasons for insiders to sell, just one reason to buy”. As I said, I've worked in startups most of my life and saw first hand co-founders sell their shares back to the company for a dollar a share just a few years before they skyrocketed to $5-$10.
+
+So let’s go deeper down the rabbit hole and see if we can dig up something interesting…
+
+\*I’m trying to get this DD out asap before the Morgan Stanley conference, will fill out the financials later but they **aren’t very impressive** to say the least as of yet\*
+
+**Revenue: TBA**
+
+**Earnings per share (EPS): TBA**
+
+**Price-to-earnings ratio (P/E): TBA**
+
+**Projected earnings growth (PEG): TBA**
+
+**PEG ratio: TBA**
+
+**Debt-to-EBITDA ratio: TBA**
+
+**Price-to-sales ratio (P/S): TBA**
+
+**Price-to-book ratio (P/B): TBA**
+
+**Dividend payout ratio: TBA**
+
+**Dividend yield: TBA**
+
+**Return on equity: TBA**
+
+Ok so if the financials are also clearly… not the best to say the least. Then what gives? You’re not doing a good job selling this thing man. Why should I even keep on reading, this company looks trash🤦
+
+Let’s see what the analysts have to say...
+
+## Analyst Ratings
+
+Based on 3 ranked analysts offering 12 month price targets for REE in the last 3 months.
+
+The average price target is $16.67 with a high estimate of $20.00 and a low estimate of $15.00.
 
 &#x200B;
 
-* As can be seen from the chart above the demand-supply squeeze is already causing a sharp increase in lithium price. Recent highs recorded for battery grade Lithium carbonate in the market place is 145,000 Yuan. 22,460 USD per tonne. (source: [www.fastmarkets.com](http://www.fastmarkets.com/))
+[Green is my favorite crayon](https://preview.redd.it/zs6x7k4owbn71.png?width=1478&format=png&auto=webp&s=a610f4989645dda10227baa0c50f657d3e494a2f)
 
-**Lithium Americas Thacker Pass project.**
+For the very smooth brainers: **$16.67 > $5-$6** (good) and green = good.
 
-* This is the largest deposit in north-america and the second largest in the world. You might know of Yellowstone, which is a Caldera or a super-volcano. There are more of them. The oldest is the MCDermitt Caldera, and Thacker Pass lies within it.
+Finally something positive😅 While I find Igor’s estimate rather optimistic (and his own rank rather telling) the other 2 ratings look more reasonable (and in line with each other).
+
+Especially Osborne’s (who you can check out [here](https://www.tipranks.com/analysts/jeff-osborne)) justification is worth checking out:
+
+*“We are constructive on REE’s modular EV chassis approach* ***trimming the time and investment required in building new platforms***\*. Its REEcorner and REEboard aim to serve as building blocks for modular EV production. We are positive on its capability to provide mission-specific vehicles as in our view\* ***it opens several doors to optimization***\*, particularly in the\* ***commercial vehicle market***\*. REE’s flat chassis will\* ***enable space optimization***\*, yielding\* ***lesser trips via volume maximization***\*… The light and medium commercial vehicle markets are ripe for electrification given their “return to base” operation as well as focus on total cost of ownership (TCO), and we view REE as potentially well-positioned to unlock value.”\*
+
+This makes total sense - if you go and check out REE’s website and their design, having fleets of such vehicles can be a game changer in multiple industries. Reminds me of Zermatt where they only use electric buggies in the village, such a cool experience. Now imagine you’re the main company providing solutions for them globally.
+
+# Part 3: Catalysts/Good News
+
+## 1. Past
+
+**Key Collaborations Secured:**
+
+* [Magna](https://investors.ree.auto/news-releases/news-release-details/ree-automotive-signs-strategic-collaboration-agreement-magna)
+* [Navya](https://investors.ree.auto/news-releases/news-release-details/navya-and-ree-automotive-announce-they-have-signed-agreement)
+* [Hino](https://investors.ree.auto/news-releases/news-release-details/hino-motors-and-ree-automotive-sign-business-alliance-agreement) (Toyota subsidiary)
+* [AAM](https://investors.ree.auto/news-releases/news-release-details/aam-and-ree-automotive-jointly-develop-new-electric-propulsion)
+
+**UK 17M$ funding**
+
+Last month REE [announced](https://investors.ree.auto/news-releases/news-release-details/ree-automotive-awarded-17-usd-million-funding-uk-government) obtaining £12.5M (\~$17M). The investment is in line with the UK government’s ambition to accelerate the shift to zero-emission vehicles and de-carbonize the UK’s transport networks.
+
+The UK funds will allow REE to facilitate commercial production of its REEcorner technology and ultra-modular electric vehicle platforms, including engineering design, validation, verification and testing and product homologation.
+
+**Global EV Platform Company of the Year**
+
+Just a few days ago Frost & Sullivan named REE the global EV platform company of the year. You can read more about it [here](https://investors.ree.auto/news-releases/news-release-details/frost-sullivan-names-ree-automotive-2021-global-ev-platform).
+
+## 2. Upcoming
+
+[**Texas HQ**](https://investors.ree.auto/news-releases/news-release-details/ree-automotive-will-open-its-us-headquarters-and-first)
+
+*“Establishing our U.S. headquarters in Austin, Texas best positions us for growth and rapid expansion,” said Daniel Barel, REE’s Co-Founder and CEO. “Austin is fast becoming a worldwide home for elite technology professionals. REE needs to continue growing and thriving, and Austin’s dynamism and entrepreneurial spirit definitely fit REE’s culture and values. Our U.S. presence will allow us to capitalize on the incredible opportunities in the U.S. market and put us closer to our North American-based customers and partners, including Magna International and JB Poindexter, as we work together to develop and deliver modular EVs.”*
+
+I think this is great news - all the cool kids are moving to Texas (where as we know everything is bigger and better). It will also give them much more US exposure.
+
+**September Conferences**
+
+10 days ago REE announced that they will participate in a series of Investor Conferences this month. Daniel Barel, the Co-Founder and CEO, will present in these conferences and discuss REE’s business model, production strategy and the rapid change in the automotive landscape with the adoption of EV platforms on a global scale. Might this be why the insiders bought in?
+
+* Cowen's 4th Annual Global Transportation & Sustainable Mobility ConferencePresentation scheduled for Thursday, **September 9** at 9:20am ET Register to webcast
+* Morgan Stanley Virtual 9th Annual Laguna Conference Tuesday, **September 14**
+* [Evercore ISI Autotech & AI ForumPresentation](https://investors.chargepoint.com/events-and-presentations/event-details/2021/Evercore-ISI-Autotech--AI-Forum---New-Paradigms-in-Mobility--Electrification--Compute/default.aspx) scheduled for Wednesday, **September 22** at 8am ET Register to webcast
+* [DA Davidson 20th Annual Diversified Industrials & Services Conference Presentation](https://wsw.com/webcast/dadco57/register.aspx?conf=dadco57&page=ree&url=https://wsw.com/webcast/dadco57/ree/1745220) scheduled for Thursday, **September 23** at 11am ET Register to webcast
+
+# Part 4: Risks
+
+**Another Lockup Expiry**
+
+As I mentioned before the lock-up for the original PIPE Shares (30M) expired 1.5 months after the merger and caused a 35% drop. Yikes.
+
+According to the [SEC filing](https://investors.ree.auto/node/7191/html) (“ORDINARY SHARES ELIGIBLE FOR FUTURE SALE“ section) 180 days after the merger date (22 July 2021) so \~late January 2022 the lock-up for the remaining 188,722,998 shares held by legacy shareholders expires.
+
+**Shorting**
+
+According to IBKR there are still 1,310,981 shortable shares available. Yes, the fee is hovering around 100% but this still can be shorted even lower, though personally I think it unlikely to go below the 52-weekly low without major negative news. I mean it would have to be worse than a 30M share sell-off...
+
+**Delays, no more partnerships, widespread adoption**
+
+Hey, it’s hardware. And EV. Loads of things can go wrong.
+
+# Part 5: Insider Trading & Institutional Holdings
+
+We finally got to the part that actually made me pull the trigger on this deal.
+
+So you remember that 30,000,000 shares sell-off after the initial PIPE lock-up expiry? Of course you do, I can’t shut up about it.
+
+Well guess who gobbled up a fair amount of them?
 
 &#x200B;
 
+https://preview.redd.it/nw452a9rwbn71.png?width=2316&format=png&auto=webp&s=94cbd02e2655ec5aab3c06bf2c756dca2b7c7b94
+
+Yup, Thomas Hans, one of the Directors (and a founding partner of ​​10X Capital), and Weisburd David, REE’s COO snatched a cool $2,000,000 worth of shares between $5.66 and $5.97.
+
+Remember that saying about insiders selling and buying? Call me a tinfoil-hatter but imho they just don’t want to look weak or they know something. The timing right before the conferences looks very sus to me. Maybe they know something?
+
+# Part 6: Option Flow
+
+Not gonna lie and sugarcoat - I’m an option n00b and would love someone with more experience (and access to better tooling) to have a look at the current options flow and sentiment, from my naive understanding this look bullish.
+
 &#x200B;
 
-https://preview.redd.it/wzwjg6ffdbn71.png?width=701&format=png&auto=webp&s=61f559a2c22d3d50471f0a105ececffb11d3e506
+https://preview.redd.it/2siktx3twbn71.png?width=1059&format=png&auto=webp&s=f51ab77c1a733f6ac1c207fdc48b89b163442a7b
 
-* The geological cause of the lithium deposit is due to erosion from the sides of the caldera being deposited as claystone at its centre in what was once the bottom of a big lake.
-* The Thacker Pass project is in Humboldt County, below the Montana mountains, in northern Nevada. It would be developed in two phases. It is expected to have a production capacity of 60,000 tonnes per annum (tpa) of battery-grade lithium carbonate (Li₂CO₃) and 46 years of mine life.
-* At the current price point that is $1.4 Billion USD worth of lithium.
+# Part 7: Short Squeeze Checklist
 
-https://preview.redd.it/tl8rxpy28an71.png?width=914&format=png&auto=webp&s=bff3348b4c4da32f768d4e05539684cff40588cb
+So yeah, short squeeze potential… Not really a fan of that terminology as I don’t think we’ve seen many real squeezes but still find it useful to look at some key data points:
+
+**Market Cap:** \~1.8-2B
+
+**Outstanding shares:** \~229M
+
+**Public Float:** 11.85M according to Fintel and Yahoo Finance but I’m assuming it must be much higher with the recent 30M lock-up expiry? MarketWatch is reporting 72.78M which might be too much, though.
+
+**Short Shares Availability:** 1,300,000
+
+**Short Borrow Fee Rate:** 93.45% (spiked to 110-180% apparently last week but don’t have historical data)
+
+**Utilization:** 26%
+
+**Short Interest % of Free Float:** N/A according to ORTEX (finviz/yf showing \~13% but again that data might be stale)
+
+**FINRA Short Volume Ratio (10d avg):** 51.33%
+
+**FTDs (7.23 - 8.13 avg):** $8.84 / 267,455.3529 shares
+
+**Average Days on Loan:** N/A according to ORTEX
+
+I’ll be frank with you - I believe in $REE going to $8-10 based on the analyst reports, partnerships, the tech and insider buying. I don’t really see this as a squeeze play, though. There are plenty of shortable shares available, utilization isn’t high, float is relatively large. But who knows, maybe the shorts are digging themselves deeper as we speak - there were some interesting FTD spikes 2-3 weeks ago.
+
+# Part 9: Positions - $18k “YOLO”
+
+Disregard the combo - was trying out the new broker
+
+* 1667 shares
+* 87x Oct15’21 7.5C - Sept conference play
+* 42x Feb18’22 10C - “long” term play
 
 &#x200B;
 
-* Thacker Pass feasibility study shows an operating cost of $4,088 / tonne.
-* This would mean a net revenue after operating costs are paid of $18,372 / tonne.
-* Which results in a $551 Million yearly profit in 30,000 tpa stage one, and twice that at $1.1 Billion yearly profit in stage two. The project is 100% owned by Lithium Americas.
-* Well timed in the last EV-hype in the stock market Lithium Americas made a public offering, which means stage one the 30,000 tps is fully funded. The development of stage two will be paid by revenues of stage one, requiring no significant further funding.
-* Tesla has a gigafactory next door in Nevada, but no partnership has yet been announced.
-* Lithium production from the first phase is anticipated to be started in late 2022 at a rate of 30,000 tpa for a period of 3.5 years. The second phase is expected to increase the production rate to 60,000 tpa starting from 2026.
+https://preview.redd.it/ebdf6gjvwbn71.png?width=2602&format=png&auto=webp&s=c94da6dec0a236378467ed9dacf42177b590cf21
 
-**Cauchari-Olaroz**
+As usual *NOT FINANCIAL ADVICE* \- treat carefully, you can clearly say I’m an ape with very barebone and rudimentary financial skills but I make up for it with huge cohones!
 
-* This is the largest deposit in south-america.It is a Brine project. Construction underway with first production targeted for early 2022
-* Updated 40,000 tpa Feasibility Study in October 2020 reaffirming capital costs of $565 Million.
-* Partnered with Ganfeng Lithium on the jointly (51/49) owned operation in Jujuy, Argentina
-* Partner Ganfeng is building a battery factory next to the mine.
-* Lithium Americas and its joint venture partner Ganfeng Lithium have started development planning for the second stage of the Caucharí-Olaroz lithium project in Argentina.
-* The second stage expansion will aim to add at least another 20,000 tpa of lithium carbonate equivalent (LCE) production capacity to the project. To expand production in 2025.
-* Currently, construction is in progress for the initial 40,000 tpa stage 1 operation at the Caucharí-Olaroz lithium project in Jujuy province. The partners estimate a capital expenditure of $641 Million for the first stage of the project.
-* Lithium Americas said that the partners are on track to achieve first production in mid-2022, with currently more than 1,000 workers on site.
-* Here we see a more mature project.
-* Operating cost is $3,579/tonne Li2CO3. This would mean a net revenue after operating costs are paid of $18,881 / tonne.
-* Which results in a 277.6 Mn yearly profit in 14,700 tpa stage one, and twice that 555.1 Mn yearly profit in stage two. The project is 49% owned by Lithium Americas; this is why 14,7 tpa is used here, while 30 tpa is produced. The partner chosen for the project is a world leader in this industry.
+**Edit1:** IBKR shortable shares went down to 1,260,000 i.e. \~50k less than pre-market. Someone really doesn't like this stock and is trying to pummel down the price.
 
-**Net Present-Value**
+**Edit2:** IBKR showing less and less shortable shares, now at 1,213,000 yet the utilization is staying the same, let's see what happens. The price action is vaguely familiar and resembles last week - the day before the Sept 9th conf when this had a nice runup. Let's see if history repeats itself.
 
-* Yearly revenue of $277.6 Million ($138.8 Million for half year) from mid 2022
-* $829 Million from 2023 as both projects start phase one
-* Then $1.1 Billion from 2025 as Cauchario Olaroz starts phase two
-* Finally $1.7 Billion yearly revenue from 2026 as both projects are in phase two production Lithium Americas has a significant Net Present Value at the current lithium price.
-* Using present day lithium prices and just counting the next ten years and a 12% discount rate, I arrive at the net present value of $6.4 Billion. The lifetime of the mines are much greater than ten years, namely forty-six years for the larger fully owned deposit. The current Market Cap of Lithium Americas at $22.80 per share is just $2.7 Bn.
-* Calculating the Net Present Value using the projected revenue for the next 20 years using current price results in a valuation of $9.4 Billion or $78 per share. To give you an idea about the sensitivity of this calculation to interest rate, using a discount rate of 8% and 20 years of revenue results in a Net Present Value that is $13.1 Billion or $109 per share.
-* This is the value of future cash flows discounted to the present day. Using a lower discount rate increases the value. This should be the real rate which is the nominal rate minus inflation. Meaning decreased nominal rates or increased inflation leads to higher Net Present Value.
-* Conclusion is that Lithium Americas is undervalued 2.3x just considering the next ten years and using 12% rate and 4.8x if you consider the next two decades and a rate of 8%.
+**Edit3:** tldr to the top for the ones with 0sec attention span
+
+**Edit4:** Morgan Stanley's Adam Jonas just [initiated coverage](https://www.benzinga.com/news/21/09/22925015/morgan-stanley-initiates-coverage-on-ree-automotive-with-underweight-rating-announces-price-target-o) on REE with an initial price target of... $5... Looking at his other EV past ratings this is pretty bullish to me, the market also didn't go haywire because of it (yes, we're a bit down in PM).
+
+**Edit5:** people asking if i'm still in - yes, if this drops to $5 I'll consider doubling down.

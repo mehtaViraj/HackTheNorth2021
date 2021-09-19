@@ -1,98 +1,61 @@
-I fully expect PLTR to be the next trillion dollar market cap stock. It’s got Peter Thiel (ROTH IRA gang) and Karp at the helm, two really smart and patriotic guys, who know what they’re doing. The IBM partnership was huge in expanding the private sector growth, adding almost 3000 to the sales team. There’s an ever growing log of government contracts meaning they have steady revenue.
+#**Introduction**
+The world of finance is absolutely filled with people making claims about what’s good or bad, how you should or shouldn’t do something, and what you can and can’t achieve. My goal is to take a look at these claims, spend some time researching them, and then share what I’ve found. I’m going to investigate various strategies, ratios, indicators, portfolios, and general market concepts with the goal of determining which ones are just noise and which ones might help you get ahead. 
 
-Palantir’s retail investors are also a class of their own and Karp recognizes this as noted in one of his recent interviews. This I think is huge in cultivating an investor base that will buy, hold, and believe for years to come. It’s currently my largest holding and I only expect to be that way for the foreseeable 5-10 years. I have no intention of letting a single share go no matter how long boomers keeps it down.
 
-Every other day there’s news of a new or renewed contract. One day it will be too much to ignore. Wall Street has either been too lazy to understand the company or, if they have done the research, they’re too stupid to act on it. At least Cathie Woods knows what she sees, currently owning over $872M of it...This is going to be her next Tesla call.
+This is the first in a series I’m calling Ratio Review where I will be taking a deep dive into various popular fundamental metrics such as price to earnings, price to book, and return on assets. I will start by giving a brief description of how you calculate the metric, followed by how it is typically used, followed by how it should be used, and most importantly, if it gives you any kind of advantage when selecting stocks. Let’s kick this off by talking about arguably the most popular fundamental ratio out there – price to earnings. 
 
-Constantly, being bashed by analysts but being scooped up by the same banks? Come on now, once these jamokes are done loading the boat and the upgrades come out its game over.
 
-Karp and Thiel added over $57m in gold and they are pro digital currencies so that's a plus. No debt and \~2.4B cash on hand.
+#**What is P/E?**
+Let’s say a company’s stock costs 10 dollars, that there are 100 shares in existence, and that the company earned a total profit of 50 dollars this year. The price to earnings ratio, or P/E ratio, is calculated by dividing the current share price by a company’s earnings per share. Well, what is earnings per share you now ask. Earnings per share is calculated by taking a company’s profit and dividing it evenly amongst all shares. The earnings, when divided by the number of shares, results in 50 cents of profit a piece. Now to calculate the P/E ratio you simply divide the price by this number, which is 10 divided by 0.5, which results in a P/E of 20. 
 
-They are aiming to be Skynet...make of that what you will.
 
-On the TA side of things, it's forming higher bases but bases none the less. The longer the base the longer the explosion to the upside. Once this gets hot the lid is coming off and this is gonna blow.
+So, is 20 good? Bad? It’s complicated!
 
-**Partnerships/Customers include the following**:
 
-\-	Abbvie
+#**Is P/E useful?**
+If you’ve ever looked at any article, video, or strangers comment on the internet that’s talking about the price to earnings ratio you will almost always hear the same thing. BUY when the P/E is low, AVOID when P/E is high. This is by far the most common discourse and unfortunately is a great oversimplification. 
 
-\-	Amazon
 
-\-      Airbus
+Some sources you’ll see will take this one step further to say that you should buy stocks with a low price to earnings ratios within their own sector, because different sectors have naturally different average P/E ratios. For example, the financial sector currently has an average P/E of about 23 whereas the technology sector currently has an average of about 37. This is a big step up from the last piece of mediocre advice, but it is still missing a relatively important detail.
 
-\-	IBM
 
-\-	CIA
+Let’s take a step back and look at what a P/E ratio is describing. When you read the fraction it’s “price to earnings ratio” but you could say that it’s a “price for earnings” instead. You’re essentially buying the company’s current and future earnings. In our example above the stock had a P/E of 20 which means it would take 20 years of earnings at the current rate to get your money back. Just to make sure this is clear the earnings per share amount isn’t actually paid back, it’s not a dividend, it’s simply the company’s profit which is most likely going to be reinvested into the company which should raise the price of the shares.
 
-\-	U.S. Navy
 
-\-	U.S. Army
+With the idea in mind that you’re buying the company’s earnings it might make sense why it’s hard to compare a new fast growing company with an old giant one. The share prices are factoring in different things. The company that is expected to grow has more uncertainty but also potentially more room to exceed expectations. The other is less concerned with growing and more concerned with maintaining its current market position which often includes its dividend payouts. The P/E ratios of these companies will reflect these differences with faster growing companies having much higher ones. This is why you shouldn’t blindly use P/E even within the same sector. You are far more likely to end up with mostly older companies with less room to grow. These companies may be safe picks, but it is unlikely they will outperform a portfolio with a mixture of new and old companies.  
 
-\-	SEC (Up for Bid)
 
-\-	DoD
+#**Real Application**
+I’ve spent this whole time shooting down price to earnings as a metric because it’s frequently misused and misrepresented, but now let’s talk about where it should be used and if it adds value. It should be used as a data point. It’s not ever going to be a buy or sell signal on its own, but it can be used to compare two companies who are at similar stages of growth in similar industries. Let’s use automotive companies as an example.
+Comparing Tesla to Ford using their P/E ratios is a little bit senseless because while they are within the same industry, they lie on opposite ends of the growth spectrum. Tesla sits at an insanely high P/E of about 550 whereas Ford’s is a modest 10. This shows that people have a lot more confidence in Tesla’s future earnings and growth potential than they do in Fords. This is one way to classify Tesla as a growth stock and Ford as a potential value stock and while value stocks have tended to outperform growth stocks on average this gives little indication as to whether Ford is a good value stock or not. If you were looking to add an automotive company to your portfolio and were comparing Ford to General Motors, which has a P/E of about 9, this would be a data point you could look at. You’ll see that these very similar companies have very similar P/E ratios. If you were comparing them and found that GM actually had a P/E of 20 you might give Ford a positive data point in your search for the best value automotive stock. 
 
-\-	Marines
 
-\-	NSA
+#**Does P/E work on the entire market?**
+So that’s how you would consider the price to earnings ratio when looking at individual companies, but can you use it to look at the entire market? Evidence leans towards saying yes, at least in the past. The paper titled “The P/E ratio and stock market performance” was published in the year 2000 before the dot com bubble popped when the market P/E was far above average. It looks at historical evidence and finds that when the market as a whole has a high P/E ratio the next decade underperforms on average. Hindsight shows that this is exactly what happened with two devastating crashes happening in the next 10 years and returns being negative overall during this period. 
 
-\-	DHS
 
-\-	Air Force
+However, it also makes a series of compelling arguments for why P/E ratios might start to naturally increase in the future. Some of these reasons include people having longer time horizons which lessens the risk of investing, low cost index funds have gotten even lower cost, and the barriers to investing have gone down dramatically. As of 2021 anyone can use a variety of brokerages for free from their phones. All of these things increase the number of people investing which increases the amount of money being put in the market which drives up the stocks prices but doesn’t necessarily drive up the company’s earnings – hence, a higher natural P/E ratio. With 20 more years of data, it appears that this is exactly what’s happening although there’s no guarantee that this will remain.
 
-\-	ICE
 
-\-	British National Health Service
+#**Conclusion**
+P/E ratios have remained one of the most popular fundamental analysis tools for decades and with popularity often comes misinformation. When something is faster to say and more simple to remember like “Buy stocks when P/E is low” you lose some of the context and details that make it an effective tool. That being said, P/E seems to have earned its popularity. Every paper I looked into that covered the long term seems to agree that P/E can be used to make smarter investment decisions if it's used to compare similar businesses within the same sector or industry, even if just slightly.
 
-\-	Merck
 
-\-	Ferrari
+###**TLDR**
+A low price to earnings ratio can be shown to provide superior performance, at least historically. Ideally it should only be used as one of many data points when selecting a stock and should only be used to compare similar companies in similar industries. 
+ 
 
-\-	CDC
+###**Mild subreddit self-promotion:**
+If you enjoy these kinds of posts I created my own subreddit r/FinancialAnalysis where myself, and eventually others, will be doing this style of research. 
 
-&#x200B;
 
-**Recent Earnings Highlights**
+#**Papers on the subject**
 
-* Total revenue grew 49% year-over-year to $376 million
-* US commercial revenue grew 90% year-over-year
-* Closed 62 deals of $1 million or more, of which:
-   * 30 deals are $5 million or more
-   * 21 deals are $10 million or more
-* 20 net new customers added in Q2 2021, total customers up 13% quarter-over-quarter
-* Commercial customer count increased 32% quarter-over-quarter
-
-**H1 2021 Highlights**
-
-* Total revenue grew 49% year-over-year to $717 million
-* Commercial customer count increased 61% since December 31, 2020
-* Cash flow from operations of $140 million, representing a 19% margin
-* Adjusted free cash flow of $201 million, representing a 28% margin
-
-&#x200B;
-
-TLDR: I'm stoned so was probably all over the place but Palantir is gonna be the next early Amazon or Apple or Tesla or Microsoft. Endless government contracts and partnerships and an ever growing private contracts list and clients as well. Two patriotic fellas leading the way.
-
-PLTR and Papa Karp to the 🌙
-
-**Edit: Positions**
-
-Acquired	Term	$ Total Gain/Loss	% Total Gain/Loss	Current Value	Quantity	Cost Basis Per Share	Cost Basis
-
-**2021-04-23	Short	+$194.77	+2.69%	$7,443.10	310	$23.38	$7,248.33**
-
-2021-02-24	Short	-$1,316.00	-13.54%	$8,403.50	350	$27.77	$9,719.50
-
-2021-02-22	Short	-$1,036.00	-19.78%	$4,201.75	175	$29.93	$5,237.75
-
-2021-02-17	Short	-$59.77	        -15.10%	$336.14	        14	$28.28	$395.91
-
-**2020-12-03	Short	+$22.20    	+1.57%	$1,440.60	60	$23.64	$1,418.40**
-
-2020-11-27	Short	-$154.80	        -13.88%	$960.40	        40	$27.88	$1,115.20
-
-2020-11-25	Short	-$1.17	        -4.65%	$24.01	           1	$25.18	$25.18
-
-&#x200B;
-
-**\*This is not financial advice it is just my own opinion as a Palantard\***
+* Great overview of P/E:
+    * http://www.growingscience.com/ac/Vol3/ac_2016_24.pdf
+* P/E might work on a market wide level:
+    * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.196.7397&rep=rep1&type=pdf
+* P/E is effective:
+    * https://www.clutejournals.com/index.php/JBER/article/view/8380/8404
+* P/E is effective on long time frames (> 5 years out):
+    * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1040.7284&rep=rep1&type=pdf

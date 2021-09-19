@@ -1,51 +1,57 @@
-&#x200B;
+# A cash cow getting fatter every day (read the summary):
 
-[Canoo pickup truck](https://preview.redd.it/76aswan72rm71.jpg?width=1280&format=pjpg&auto=webp&s=635a1f44992e767571b2291718d2df152b05aecf)
+Tesla reported second-quarter 2021 earnings of $1.45, which surpassed the analyst consensus of 90 cents per share. Higher-than-expected automotive gross profit resulted in outperformance. Precisely, automotive gross profit came in at $2,899 million, topping the consensus mark of $2,504 million. The bottom line also smashed the year-ago earnings of 44 cents a share. Total revenues came in at $11,958 million, surpassing the consensus of $11,389 million. The top line also witnessed year-over-year growth of 98.1%.
 
-I am deeply attracted by the bold designs by Canoo at first sight even though most of those EVs are designed for business/workers instead of individual customers and really wish that I could own a truck or a van like that in the near future.  Yet shorts seem dominating the SP of the ticker and scare retailers away. There was a small short squeeze (up 30% without news) happened weeks ago but that's not the reason I create the post. I want to share all the knowledge I have about the company to discuss whether it is a good short term and long term investment. Potential short squeeze is of course a plus but that's not what I pursue here.
+Importantly, the firm generated a free cash flow of $619 million during the quarter. This last point is essential as it means that Tesla can generate cash by itself. It implies that in the future they won’t be capital raise anymore which dilutes shareholder capital.
 
-&#x200B;
+**Summary:** Tesla destroyed analyst’s expectations and made tons of money. No wonder when you drive shit cars that you do not understand the future.
 
-**Why shorts are hunting Canoo**
+# Everyone wants a Tesla (read the summary):
 
-Canoo was founded in 2017 by executives from BMW, Tesla, Ford, etc and went public last year. The main reason shorts crowded in is the disastrous earning call in March, where the previous CEO Ulrich (along with chief lawyer Andrew) stepped away and the new CEO Tony took over the company.  The change of executives also triggered a SEC investigation on the company. Meanwhile, Canoo does not have cars in production yet and blew off the deals with Apple and Hyundai. Those negative news hence scared away retail investors and shorts come in and took over.
+Delivery and production totaled 201,304 and 206,421 vehicles, reflecting a year-over-year jump of 121% and 151%, respectively. Tesla reported stellar second-quarter 2021 production and deliveries despite global chip shortage, thanks to the increasing popularity of green vehicles, preference for personal mobility, easier credit conditions, and economic recovery buoyed by accelerated vaccination drive as well as massive fiscal stimulus.
 
-&#x200B;
+Model 3/Y registered production and deliveries of 206,421 and 199,409 vehicles, reflecting whopping year-over-year growth of 169% and 148%, respectively. Meanwhile, production and delivery of Model S/X fell 63% and 82% on a year-over-year basis to 2,340 and 1,895 units, respectively. Even if this was anticipable, these are bad news as margins are whey smaller with model 3 and model Y than with the model S or X.
 
-[MPDV I](https://preview.redd.it/l21zt3w92rm71.jpg?width=2048&format=pjpg&auto=webp&s=1b116f98f8210896dcbec741cd546a055cb9b44c)
+Total automotive revenues surged 97% year over year to $10,206 million for the reported quarter. This included $354 million from the sale of regulatory credits for electric vehicles, which decreased 17% year over year. Automotive gross margin was 28.4%, improving 298 basis points from second-quarter 2020. This is key as margins are what finally determine how profitable a company is.
 
-&#x200B;
+**Summary**: Everyone wants Teslas and margins improved. At least retarded start grasping the potential of these cars.
 
-[MPDV](https://preview.redd.it/te2jtddb2rm71.jpg?width=1024&format=pjpg&auto=webp&s=b8fbc02ba2b433c99b2124f970a5e010a2d78948)
+# Energy and storage (read the summary):
 
-&#x200B;
+Energy generation and storage revenues came in at $801 million for second-quarter 2021 compared with $370 million in the year-ago period. Services and other revenues were up 95.2% years over year to $951 million. These digits show that Musk is now able to use the knowledge developed for car batteries for producing home batteries used for saving electricity in countries where the electricity grid is no good. Moreover, the current trend in the decentralization of electricity production will lead to the increasing demand for such batteries for saving electricity generated at home, through solar panels, or other sources. By also having solar panels, through the acquisition of Solar City in 2016. All in all, it means that Tesla is getting closer to its target to be an ecosystem where customers produce their own electricity, save it overnight through batteries, and then can charge their Tesla.
 
-**Why I view the change of CEO positive**
+**Summary:** When some companies sell cars, Tesla sells electricity, storage, and cars. Even the dude buying the Ford Mustang Mach-E will use Tesla for its electricity and storage of electricity. So, I will get rich whatever EV you buy!
 
-Ulrich was later hired by Apple. (FYI, Apple reached Canoo in 2019 and 2020 for acquisition but Canoo turned it down. Canoo said that they don't want acquisition but investment.) Although many people view Ulrich's stepping down as a negative news, I view it differently.  The main disagreement between Ulrich and the board (including the new CEO Tony who invested $75million of his own money into the company), as I understand it,  is the business model and directions. Ulrich wants to create a subscription model for their vehicles (companies subscribe/lease vehicles) yet I don't think the Canoo board agreed. We have to admit that Ulrich contributed significantly to Canoo as Chief Technology Officer yet I don't think he can be a qualified CEO leading the company to right business model.  Tony, on the contrary, has abundant success business records.
+# Why you will get rich (read the summary)?
 
-&#x200B;
+**Production target :**
 
-**What has changed after March.**
+While Tesla has not provided any clear delivery target for 2021, it reiterated its goal of achieving 50% average annual growth in vehicle deliveries over a multi-year horizon. Looking at the current results (+ 121% YoY), this target seems to be easily achievable and may even be overshot which would give a further push to the stock.
 
-Everyone seems keeping those bad memories of Canoo after the earning call and no one really cares about what is really going on under the new leadership.  Facts below:
+"Despite minor shifts in the timeline, we expect the introduction of Semi and Cybertruck to be positive catalysts for Tesla stock in the intermediate term," Baird analyst Ben Kallo said in a note to clients. He maintained an outperform rating on Tesla stock. His price target was raised to 764, from 736.
 
-&#x200B;
+**Risen estimates**
 
-* Canoo received $300M incentives from the Oklahoma government to build their factory. FYI, Rivian (pre-IPO which is valued $80B) received $350M from the Texas government. I don't think those state governors are morons. The question is why Oklahoma governments picked Canoo instead of all other 'promising' EV companies out there. (source: [https://www.theverge.com/2021/6/17/22538811/canoo-ev-factory-oklahoma-electric-vehicles-vdl-nedcar](https://www.theverge.com/2021/6/17/22538811/canoo-ev-factory-oklahoma-electric-vehicles-vdl-nedcar))
-* Canoo received 10,000 orders from FRONTdoor Collective executives (source: [https://www.freightwaves.com/news/qa-frontdoor-collective-executives-explain-importance-of-franchised-dsp-network](https://www.freightwaves.com/news/qa-frontdoor-collective-executives-explain-importance-of-franchised-dsp-network))
-* Canoo has 9,500 non biding orders from individual customers.
-* Canoo has signed contract with VDL Nedcar ( that produced BMW in Europe) source ([https://www.press.canoo.com/press-release/canoo-names-vdl-nedcar-as-contract-manufacturing-partner](https://www.press.canoo.com/press-release/canoo-names-vdl-nedcar-as-contract-manufacturing-partner)) Their first batch of car will be on market in 2022q4.
-* Canoo has been hunting for talents: the number of employees jumped from \~200 to \~700 and most of them are engineers. They have the ambassador Josette on board as the new president ( believe her connections can win Canoo government and international orders). (source: [https://www.prnewswire.com/news-releases/canoo-names-ambassador-josette-sheeran-president-301340683.html](https://www.prnewswire.com/news-releases/canoo-names-ambassador-josette-sheeran-president-301340683.html))
-* Meanwhile, I think that Canoo has some news being held (The CEO mentioned in q2 earning call and there is either no news or big news), they have been actively expanding different markets (pest control, delivery. They attended different expos (ACT expo for example)  and received a lot of interests from companies like UPS for their MPDV type, they speak on Panel at World's Largest Mobility Event, etc.
-* Rumors still stir around about the Apple and Canoo thing. I think as long as the price is seductive, there are always possibilities. I see a more possible situation as that Canoo focuses on hardware while Apple contributes the softwares (autonomous driving).
+In the past month, investors have witnessed an upward trend in estimates review. The consensus estimate has shifted 8.09% due to these changes. This is key. It means that investors were surprised by the results of Tesla and become more ambitious about its future. Even if Musk promises a lot, analysts are still surprised and raise their target price.
 
-&#x200B;
+**Summary:** One more time, analysts are asleep. Tesla will smash their boomers’ expectations and the stock will go to the moon!   🚀  🚀  🚀
 
-[Lifestyle vans](https://preview.redd.it/3u0vhilc2rm71.png?width=2560&format=png&auto=webp&s=d60457126baa2ab77ff155c3846f187939f3af9e)
+# Dangers (read the summary):
 
-&#x200B;
+**Competition increases:**
 
-**What is the core technology behind Canoo**Skateboard technology + versatile/flexible modules. The skateboard technology they own saves a lot of space and create more rooms for passengers.  The modulization gives the advantage of customization and reduce the production cost as well.  Their MPDVs (MPDV I, II and III with different sizes) and Lifestyles Vans are to B while the pickup truck (expected to go to market in 2023) are to C. But I personally would like to customize a MPDV for traveling as well![https://www.press.canoo.com/press-release/canoo-shows-off-performance-and-versatility-of-skateboard-platform-for-the-first-time-in-video](https://www.press.canoo.com/press-release/canoo-shows-off-performance-and-versatility-of-skateboard-platform-for-the-first-time-in-video)
+Meanwhile, China-based rivals **Nio**, **Xpeng**  and **Li Auto** recently reported sales.
 
-**TL;DR**Canoo has $563.6 million in cash and $300million incentives received from the Oklahoma government. This combines into $863.6 million. The company currently valued at $1.65B (less than 2x of the cash equivalents the companies owned), which is far undervalued compared with its peers. It is like $NIO when it was at $3. Short float reported as 40% but it should be much higher than this.  This is the company that Apple reached for acquisition not a long time ago, and rumors and speculation still stirs around about the collaboration. Their design of vehicles always remind me of the feeling that I first time saw iphone 3gs.  And hopefully you guys can see me driving a Canoo Pickup or Van in the near future.Position: long term holder 2900 @$8.23 (still adding though). Do your own research and not a financial advice.
+**Fake advertising:**
+
+Even if Musk presented a new humanoid able to do repetitive and boring tasks, some investors were not convinced of the realization of this project. They even perceived it as further proof that Musk is enabled to respect deadlines. For instance, Dan Ives, a Wedbush Securities analyst, in a note to clients early Friday said that: “Unfortunately, as we have seen with robotaxis and other future sci-fi projects for Musk, we view this Tesla Bot as an absolute head-scratcher that will further agitate investors at a time the Street is showing growing concern around rising EV competition and safety issues for Tesla,”
+
+The safety issues Ives mentions are what investors should be attuned to right now because it appears the government is finally stepping up and taking note of a problem that seems essential: Musk repeatedly oversells the current and near-term potential for his automotive autonomy advanced technology.
+
+**Summary:** Some dudes are heavily buying Xi’s cars. However, Tesla is clearly above the competition. Uncle Sam is starting to be annoying with probes against fake advertising considering the software in Teslas. However, I believe that the government will be loud but do nothing in practice (as always).
+
+# TLDR:
+
+Last earnings show that analysts are old boomers who understand nothing about technology. Hence Tesla destroyed their expectations. Growth in deliveries was massive, profits and revenues jumped. Analysts are not only retarded but also have little balls. Hence, they doubt the capacity of Musk to reach his objectives and others are afraid of lawsuits again Tesla due to false advertising. No worries boys, Tesla is on the right track to reach its long-term goal. Soon we will all have full freedom over our production and consumption of electricity. Then we will go two times quicker than retarded analysts in our brand new Teslas.
+
+PS: I hold 20 shares of Tesla, worth approximately 14,666 USD.

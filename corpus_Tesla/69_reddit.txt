@@ -1,243 +1,195 @@
-Glad everyones having fun with MVST. If you’ve liked the recent price action on that, here's another EV supplier play that I believe has similar multibagger potential. Important bits bolded and tldr at the bottom if you can’t read too well.
+Listen up retards, this won't be short.
 
-**Table of Contents:**
+This was not meant for you apes; Seek ing alpha denied my article because they don't want recent SPACs merger on their website.
 
-I. Introduction
+So instead of earning cash to spend it on stupid shit, I'm here wasting my time for you all because I don't want 50 hours and 4000 words of research to go to waste, let me tell you gamblers why Microvast ($MVST) is a Hidden gem.
 
-II. Overview
+First of all, you retards probably came for the short squeeze potential, rumor has it, there's not many shares left to short sell and Microvast is down 60% from its peak (even after yesterday's 20%+ run), but I could not care less about that, MVST will trade significantly higher once decent analysts start coverage on it and this post will tell you why. You guys are so lucky to have found this now, I've been holding since November when it was $11, so the price right now is still dirt cheap (it was $15 two weeks ago...).
 
-III. Partnerships
+Quick introduction for those of you who don’t know what Microvast is and what it does. Microvast is a technology innovator for Li-ion batteries that designs, develops and manufactures battery systems for commercial electric vehicles and energy storage that feature ultra-fast charging capabilities, long life and superior safety. Microvast believes the ultra-fast charging capabilities of its battery systems make charging electric vehicles as convenient as fueling conventional vehicles and believes the long battery life of its battery systems reduces the total cost of ownership of electric vehicles.
 
-IV. Sales
+Microvast is expected to grow at a compounded annual growth rate of 87%, their estimates are justified by the growing desire for electrification as well as the growing demand for clean energy and the zero-carbon revolution.
 
-V. Advantage
+The forecasted battery components revenues (see picture below) come from Microvast being vertically integrated. Their battery components are world-class, significantly differentiating and they are going to sell those parts to some key cell manufacturers in the passenger EV market (specifically their aramid separator and their gradient cathode). They currently ship to passenger vehicle applications (SAIC) but are also engaging with passenger OEMs that have made the announcement that they will manufacture their own batteries (with battery components)\[1\]. They also plan to do the same thing with consumer electronics.
 
-VI. Connections
+&#x200B;
 
-VII. The Plunge
+https://preview.redd.it/alqqdfwu0qf71.png?width=359&format=png&auto=webp&s=f607dd17a8b1c6817205d2e9b561ca0c22eb26dc
 
-VIII. Financials
+Microvast's projected revenues
 
-IX. Growth and Long Term Strategy
+While their projections may seem optimistic, they were able to secure partnerships with industry leaders representing over $1.5 Bn in contracted revenue through 2027. $44 millions, $125 millions, $172 millions, $250 millions, and $355 millions for 2021, 2022, 2023, 2024, and 2025 respectively. Those numbers were before they recently announced a partnership with eVersum, a high-tech vehicle OEM, specialized in the design, development, and build of the most purposely engineered electric commercial vehicles for passenger transport. The deal has a potential volume forecasted to be more than 100 million €.
 
-X. Conclusion
+There’s a great interview on [cheddar news](https://cheddar.com/media/microvast-goes-public-on-nasdaq-via-spac) with Shane Smith, COO of Microvast, where he talks about why Microvast went public and raised more than $800 million: “We raised capital to support orders we already had in place. We’ve won more business than we’ve had capacity for”. It seems like Microvast has a great problem; the demand is bigger than the supply at the moment, which is great news as they may not need to spend a lot on marketing if customers are coming to them directly.
 
-**I. Introduction:**
+\- Microvast has over a decade of expertise in designing and manufacturing battery components (Cells, electrolytes, packs, separators). That differentiates them from most of the other battery makers who source their components from the vendors. It is important to note the cell makers do not have the right to produce the material that they did not invent or have the license for. “Microvast invented and manufactures the key battery materials to ensure unique performance and by also guaranteeing the leading time because the material patents are the strongest patents, legally protected and our success is founded on our deep technology portfolio which is wholly owned and protected by over 550 patents (and patent applications)”, said Dr. Mattis, Chief Technology Officer of the company.
 
-Proterra designs and manufactures zero-emission electric transit vehicles and EV technology solutions for commercial applications. Founded in 2004, Proterra is a monster in electric bus manufacturing in the United States, with over 600 busses delivered, 750 million in backlog, and over 20 million miles of service[ already bagged.](https://www.proterra.com/) The company has a very bright future no matter what, but the Infrastructure bill makes that future a whole lot brighter.
+\- They have more than 1800 employees including more than 500 employees in the R&D division.
 
-The bipartisan Infrastructure Bill has about 1 trillion dollars for various projects and initiatives with WSJ reporting that it is expected to include “**$39 billion in new funding** to modernize public transit and[ replace thousands of buses](https://www.wsj.com/articles/infrastructure-agreement-on-major-issues-reached-by-bipartisan-group-gop-negotiator-says-11627487459) with zero-emission vehicles”.
+\- They have 28000+ Battery systems in operation in 19 different countries.
 
-Now, the specific language of the bill has not been written yet, but even a fraction of this $39 billion would represent an **absolutely massive, and I mean truly gargantuan, increase in funding for electric busses**. Right now, the main way electric busses get funded is through the Federal Transit Administration’s Low or No Emission Vehicle Program (“Low-No”) [which has only given about $600m over the last six years](https://www.atlasevhub.com/data_story/more-than-2-6-billion-in-public-funding-for-evs/). No, that's not $600m per year, t**hat's $600m overall**. That means that funding for electric transit busses is about to jump from around an average of $100m per year to having access to a potential $39 billion. Even just $1 billion of this would represent a **1000% increase in funding**. This legislation represents a seismic shift in the electric bus market that would supercharge any companies in this particular sector, with analysts predicting this new money will balloon the US ebus market[ five-fold to $2.7 Billion by 2024 alone.](https://www.reuters.com/business/sustainable-business/five-facts-why-electric-buses-are-key-bidens-green-agenda-2021-07-14/)
+\- More than 3.8Bn Miles of operational distance was covered with no major safety incidents.
 
-Two companies stand out in this regard: Proterra, and BYD.
+\- Their Batteries can run at a high temperature for a long time and they won’t explode. They have this proprietary way for their Batteries to be 90% as efficient as brand-new ones after 10,000 charges.
 
-BYD is a Chinese manufacturing company that, among other things, manufactures a shit ton of electric busses. In China, they fill contracts ranging in the [tens of thousands](https://insideevs.com/news/521895/china-byd-plugin-sales-june2021/). In the US, their subsidiary has completed some of the largest electric bus contracts in the US and is aggressively moving to expand production, technical capacity, and acquire more contracts.
+\- Among all of Microvast’s products, two stands out that no one else in the world has: the 100% Aramid separator and the full concentration of the grading of the material.
 
-They have one big problem though. Politicians in both the Republican and Democratic parties have acknowledged the rise of China linked energy companies as a threat to US national security. Nobody wants to move from having OPEC hold us by the balls by controlling oil supplies to China suddenly having an undue influence on the very means of public transportation in our streets.
+o “One of the perks for the solid-state battery is on shrinking separators and with our Aramid separator, we are there”, Dr Wenjuan Mattis said in the Wedbush conference held on April 8th2021. For the fans of solid-state batteries, this could be a major catalyst incoming. Their Aramid separator has higher thermal stability than charged cathode material; 2X the temperature resistance of traditional poly-ethylene separators, enhancing safety and charging time.
 
-Due to this, at the end of 2019[ Congress passed language](https://www.wsj.com/articles/congress-wants-to-ban-chinese-buses-railcars-in-defense-bill-11575927925) in the National Defense Authorization Act that bars use of federal funds to purchase Chinese busses. In fact, they [explicitly called out BYD by name](https://www.freightwaves.com/news/lawmakers-slam-china-controlled-truck-maker-byd-as-threat-to-u-s) as a national security threat and prime target for blacklisting from taxpayer money.
+o “We have almost 15 patents in solid-state batteries, it’s one of the three advanced technologies that we’re working on”, said COO Shane Smith. 15 might not look like a lot compared to QuantumScape, which holds over 200 patents and patent applications related to solid-state battery technology, but they operate in different markets, MVST in commercial vehicle batteries and QS more in the passenger EV batteries. Also, it’s important to mention that they are not really competitors at the moment, Microvast generated about $ 107 million in sales in 2020 and is expecting to generate more than $2 billion in sales in 2025 compared to QuantumScape, which will not generate meaningful revenues until 2026, according to the website “[barrons.com](https://barrons.com/)”.
 
-This means that there is a relatively good chance that BYD will struggle to receive much of the proposed funding for bus electrification in the upcoming Infrastructure Bill. Even with them having a unionized, American workforce in 99% American factories, they still have not been able to convince politicians that they match the requirements for “Buy American” initiatives.
+\- The other material, the full concentration grid in the cathode, is a unique material made by Microvast. With this technology, they can tune the distribution of the transition metals across the particles, which allows them to maximize the capacity and maintain safety and at the same time minimize the cost and the risk by reducing the cobalt content. The material has a capacity 20% higher than the best material in the market and is 10% lower in cost. They have a production line that has been making 600 tons per year (for the past 3 years).
 
-Therefore, a sizable amount of the remaining money designated for electric bus adoption will fall to the other top electric transit bus maker in the United States: Proterra.
+**Partnership/Customers**
 
-**II. Overview:**
+\- They have solid partnerships, including FPT (the global powertrain brand of CNH Industrial Group), Oshkosh (leading global innovator of mission-critical vehicles and essential equipment), Porsche, SAIC, and many more. Oshkosh also made a $25MM strategic investment in the PIPE, and signed joint development agreement highlighting future battery collaboration and integration. It is worth mentioning that Oshkosh received the USPS contract to replace its mail delivery trucks (the initial contract is. worth $482 million). Also, it is an open contract, meaning USPS will be able to order more vehicles throughout the 10-year contract ([they will order between 50,000 and 165,000 vehicles](https://www.oshkoshcorp.com/en/news/2-23-21-usps)). This is a lot of potential business for Microvast and could represent a serious catalyst in the future once more information is available. Oshkosh expects to start production in 2023, right when Microvast’s factory in Tennessee will be up and running. Remember, MVST went from $14 to $23 the day Oskosh got the USPS contract, this will definitely be a HUGE catalyst once we know more about it.
 
-Based in deep blue California with a factory in red South Carolina, Proterra is the ideal vehicle to advance Democrats' vision of enacting deep climate change fighting policies as well as providing good, well paying American jobs to boost local manufacturing industries. Indeed, Proterra has already been recognized by the current administration as vital to future Democratic political ambitions, with President Joe Biden[ touring their plant virtually](https://www.greenvilleonline.com/story/news/local/greenville/2021/04/20/joe-biden-visit-greenville-sc-virtual-local-electric-bus-manufacturing/7300675002/) and Vice president Kamala[ touring their partner](https://www.schoolbusfleet.com/10141979/thomas-built-buses-gets-visit-from-vice-president-harris-during-earth-week) Thomas Built Busses in person.
+\- They can count as their customers some of the leading global bus OEMs including Yutong, Higer, Foton, King Long, VDL, and Wright Bus. Their batteries are being deployed across a broad range of commercial vehicles, including automated guided vehicles, port equipment, mining trucks, fork-lift trucks. They also have customer relationships with the likes of Kion, Kalmar, KoneCranes, Linde, PSA Singapore, and Gaussin. All of these names are recognized as leading OEMs in their particular area of focus.
 
-Transportation in the US currently accounts for[ 29% of all US emissions](https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions), making it the highest contributing sector to CO2 levels. A strengthening of public transit and an increase in electric bus adoption[ would make more of a difference than almost any other policy](https://mobile.reuters.com/video/watch/why-electric-buses-are-key-to-bidens-gre-id732925804) the White House could enact.
+**Key advantages over its competitors**
 
-Despite this though, only[ 2% of US busses currently are electric](https://electricvehicles.in/electric-bus-revolution/). Comparatively, China, at the end of 2017, was hitting at least[ 17% of busses being electric](https://www.sustainable-bus.com/electric-bus/electric-bus-public-transport-main-fleets-projects-around-world/) while, overall, [99% of electric busses world wide](https://content.sierraclub.org/evguide/blog/2018/05/when-it-comes-electric-buses-china-killing-it) are being produced in and for China. This is not even mentioning huge electric bus orders in both India and throughout Europe that easily outpace America's own efforts. The United States is badly losing the Green tech race, by almost every measure.
+Microvast is very unique in itself and it is hard to compare them with other public companies; some are fairly young compared to them and others are well established but operate in the passenger EV battery market and it is unclear when/if they will shift towards the manufacturing of commercial EV batteries.
 
-The Infrastructure Bill, however, promises to turn that all around. And a land where no one wears shoes is a prime opportunity for a shoe manufacturer.
+Their closest competitor is probably \*\*\* had to get rid of this competitor (market cap under 1bill) but the short answer is that MVST is 10 times better...
 
-Due to this, there are many companies that will inevitably benefit. New Flyer, Lion Electric company, Vicinity Motors and other electric bus makers will most likely see significant upside from upcoming government subsidies and contracts. However, Proterra stands out as the number one domestic pure electric bus maker in the United States with extensive recognition by the US government.
+If we do a quick head-to-head comparison, we can see Microvast seems to have a clearer path to achieve its Revenue goals.
 
-More significant than any of this though, is that the main advantage Proterra has over other electric transit bus companies is that **PROTERRA IS NOT AN ELECTRIC BUS COMPANY**. Though most people, including the government, recognize Proterra as a leader in the US ebus market, their true potential and current market strategy is so, so much more.
+\*\*\* is headquartered in Los Angeles with a factory of 113K sq.ft compared to Microvast with its biggest factory in China (1.72MM sq.ft.), another one in Germany (170K sq.ft.), and one in the United States in 2022 (577K sq.ft.). In contrast, \*\*\* has more than 200 employees and Microvast is expected to hire around 300 employees only for their new factory in Tennessee and they also have more than 500 employees working in the R&D division as mentioned before.
 
-Proterra has three modes of revenue: Powered, Transit, and Energy.
+It looks like Microvast is better positioned to profit from global electrification with their factories established in three different parts of the world.
 
-* **Transit:** designs and builds the busses
-* **Powered:** develops and distributes electric powertrains and battery system for various commercial vehicle partners
-* **Energy:** offers full scale electric support infrastructure in terms of design, build, financing, operations, maintenance and energy optimization.
+The picture below shows both their year-over-year revenues growth, which could be a bit misleading as they are not in the same business stage and operate in different continents for now. China and Europe lead the United States in electric commercial vehicles on the road, which could explain the difference.
 
-This means that while building electric busses is currently their bread and butter, their business is increasingly having to do with **Proterra Powered** and being more of a pick and shovel play: providing complete battery packs, technology, and powertrains to other companies looking to go electric. To simplify this, it means that instead of trying to build a whole new electric vehicle and market it to potential customers, Proterras strategy is instead just focus on the battery and electric parts while partnering with already established big name brands to let them build the actual vehicle. This allows for them to straighten profit margins and avoid competition with older companies.
+&#x200B;
 
-In essence, this massively expands their potential market penetration and enables them to surmount being pigeonholed into one particular sector, like how many of their competitors are in the commercial transit bus market.
+https://preview.redd.it/e6wzhoey0qf71.png?width=297&format=png&auto=webp&s=77984dcaac9f5762f2edc3dd7fc971418dfa0ed7
 
-**III. Partnerships:**
+But the point I want to make here is that they rely on different things, \*\*\* miss on revenues is due to the short-term limited number of battery cell providers, producing safe, high-performance cells suitable for the commercial electric vehicle market. “We know, we, and the whole industry, need more cells”, said the CEO of \*\*\* in their latest earnings call. Whereas Microvast produces their own cells, relying more on the primary resources. See the picture below for Microvast 2021 projected Revenues as well as \*\*\* forecasted and revised revenues.
 
-And before you think this is some pie in the sky vision they have, the reality is that Proterra is already the #1 leader in electric commercial vehicles with a ton of key partnerships with established blue chip companies. These partnerships are the foundation to Proterras long term strategy, allowing them to expand into new markets for vehicles to electrify. As of now, they are involved with powering.
+&#x200B;
 
-* Thomas school busses
-* Van hool coach busses
-* FCCC stepvans
-* Optimal shuttle busses
-* Komatsu excavators
-* Volta delivery trucks
-* Bustech transit busses
-* Lightening commercial vans
-* And just recently announced partnerships with ROUSH CleanTech and Penske Truck Leasing to develop Ford Motor Co's F-650 all-electric commercial truck, as well as a new partnership with Taylor Machine Works Inc. to develop an all-electric material forklift handler.
+https://preview.redd.it/hbp0ee4x0qf71.png?width=253&format=png&auto=webp&s=23295bd6c127a150fb07bdfec94a2a814a5fc752
 
-And of course, this isn’t even getting into how Daimler Trucks, which is the **leading heavy-duty truck manufacturer** in North America, is a[ major Proterra investor](https://www.freightwaves.com/news/daimler-trucks-invests-in-proterra-electrification-spac) and technology partner. This particular connection gives Proterra credibility with larger, more established corporations, giving increased opportunities for expansion such as how Proterra works through Daimler subsidiary Freightliner Custom Chassis Corporation to build delivery trucks for companies such as **Fedex, UPS, and Amazon**. This massively expands their source of revenue, as yearly sales for this type of vehicle[ measure 200,000 compared to just 8,000 for transit busses](https://www.forbes.com/sites/alanohnsman/2020/02/28/electric-busmaker-proterra-using-its-silicon-valley-tech-to-make-green-freightliner-trucks/?sh=511c1e06351c). In fact, they estimate that by 2025, the bulk of their revenue will actually come from these “secondary” sources of income as opposed to their so far main business of electric transit busses.
+On the other hand, it is true that Microvast did not have earnings call yet to discuss their 2021 outlook but I believe they are in line to achieve their projected revenues. They had \~ $107 MM in revenues in 2020 and if they keep the same YoY growth rate of 115% (Q1 2020 à Q1 2021), they will get to $230 MM by the end of the year. The key differentiator here is that Microvast manufactures their own cells, which ensures high quality, faster product development, greater customization to client needs, and tighter cost control as well as higher margins. The fact that Microvast has its own in-house manufacturing capacity is a clear competitive advantage to my eyes (see picture below, found on Microvast website).
 
-**IV. Sales:**
+&#x200B;
 
-Busses are only the tip of the iceberg of what Proterra is aiming to be. Beyond just electrifying just about every other vehicle offered in the commercial market, Proterra offers something that I personally have never seen from any other bus company: end-to-end electric vehicle solutions including charging stations and Proterra developed management software.
+https://preview.redd.it/nkrsbv1r0qf71.png?width=468&format=png&auto=webp&s=a77943b9313e8bdb0ce659885fc94ab870543332
 
-The main appeal of Proterra is that they have developed an integrated technology ecosystem of different products that promotes sales that they describe as being “sticky”. **What this means is that once you buy one Proterra product, you're incredibly likely to buy something else as well**. Buy a bus - might as well buy their chargers - buy their charges - might as well buy their software system, and so on.
+Both of these companies are currently highly valued based on their potential and future expected revenues. At their current market cap, \*\*\* is selling at an estimated 2021 P/S ratio between 23 and 51 and MVST with an estimated 2021 P/S ratio of about 12. Once again, these two companies are not at the same business stage and I believe they will both succeed and grow at an impressive pace, however, MVST’s growth perspective and business model seem less risky and more predictable.
 
-Impressed with their transit busses? Well lucky for you your yellow school bus fleet is about to expire and the company you already have good relations with and have [a positive view of also makes that product](https://thomasbuiltbuses.com/bus-news-and-events/news/montgomery-county-public-schools-approves-the-2021-02-25/). Repeat business is a big plank of how Proterra operates. Currently, [80%](https://www.proterra.com/wp-content/uploads/2021/04/PTRA-ACTC-Analyst-Day-Presentation-4.8.21-FINAL-1.pdf) of Proterras Transit customers end up making an additional purchase from their Proterra Energy division. A perfect example of this is how Miami recently upped its Proterra bus fleet from 33 to a total of 75 busses, and then went ahead and[ hired Proterra to install one of the largest fleet charging systems in the U.S](https://www.proterra.com/press-release/miami-fleet-electrification/). Reputation is king with emerging technologies, and Proterra has deep networks with almost every transit agency in the US.
+I have a conservative 2023 Price target on MVST of $25 (that was for Seeking Alpha, let's be real here $25 is legit fair value for Microvast, it should trade at a premium for all its potential not a discount), which is more than a 200% increase from its current price of about 8$ and $25 also happens to be their 52 week-high. My price target is based on discounted 2023 revenues and a P/S ratio of 12 (85% of forecasted 2023 revenues (85%\*751MM) \* 12 = \~$7,5 billion market cap). Considering their direct competitor is currently more expensive (P/S between 23-51) and other companies operating in a similar sector are trading at high valuations: Tesla (\~20 P/S), Pro terra (\~11 P/S), QuantumScape (Market cap of 9.5B without revenues yet), and Nikola (Market cap of \~4B without revenues yet), Microvast can be considered as fairly cheap and this price target of $25 as conservative. It could easily go to $40 is what I meant.
 
-It's also important to note, circling back to the infrastructure bill, that on top of whatever money ends up being designated for transit busses, that there is also **$7.5 Billion** **for developing charging stations** and $**2.5 billion for school busses**, both areas that Proterra can take advantage of, as they offer full scale fleet charging stations and their partnership with Thomas Built busses means they are[ actively working with the number one school bus maker in the United States](https://www.greencarcongress.com/2021/05/20210506-tbb.html).
+**TAM is estimated to be $30Bn + in 2025**
 
-Going even farther, Proterra is fully **vertically integrated** almost all the way down their supply chain, with battery cells as one of the only third party components that is not built in house. However, they have secured around 2 GW of cells through 2022 through LG Chem, and are **currently planning their own battery facility**. That means that not only can they tap into government money meant for EV producers, but they can also take advantage of any funds allocated towards American battery producers, [a part which most likely will make up](https://www.hklaw.com/en/insights/publications/2021/07/climate-and-clean-energy-policy-state-of-play) a sizable portion of the 3.5 trillion dollar reconciliation bill that is currently being worked on.
+· Battery providers are expected to play a pivotal role in the EV value chain: \~ 30-40% of EV value resides in the battery.
 
-**V. Advantage:**
+· The rotation from gas-powered commercial vehicles to electric-powered commercial vehicles might happen quicker than the rotation from gas passenger cars to electric passenger cars because of government funding. Also, with the lithium shortage, the world will have to mine more lithium but it would not make sense to use powered-gas trucks to mine to then build electric batteries for a greener future, I believe the U.S government as well as the other governments, will make sure we use clean energy to mine lithium or any other natural resources, which would benefit Microvast.
 
-Proterras main advantage over other competitors is their head start on research in this sector and data obtained that you can only get from over a decade of real world experience. Proterra is currently on their 5th generation battery design and their 5th generation bus, with a combined over 20 million miles driven over their various vehicles. Furthermore, the partnerships and connections they have (both business and political) already established emphasize their first mover advantage.
+· The demand is bigger than the supply at the moment with battery cell production in the U.S. just below 40 GWh in 2020, while battery demand exceeded 42 GWh. For context, achieving President Biden’s goal of a 100% electric fleet of U.S. government vehicles will require 69 GWh of battery cells. I believe Microvast is well-positioned to become a giant in the industry with their new factories; they planned ahead, which could give them a competitive advantage over their competitors.
 
-Proterra also holds over **81 patents** and offers unique services such as their **APEX Connected Vehicle Intelligence System**, which is a cloud based data platform that helps customers manage and monitor their fleets, allowing them to optimize ownership and operations as well as providing state of the art analytics. Working this **SaaS** approach into their overall business model is pivotal in differentiating Proterra from other companies. Additionally, there is also potential to use programs like APEX to **transform Proterra Vehicle charging stations into Utility Grid Assets** which would offer another avenue for revenue and make their systems more attractive to prospective buyers. Proterra is the leading competitor for this necessary next step for all electric vehicle makers and[ is leagues ahead of any rivals](https://www.altenergymag.com/article/2020/12/the-promise-of-v2g-technology-%E2%80%94-and-how-it-could-accelerate-the-clean-energy-revolution/34214).
+· EV Battery market is believed to be at a key inflection point (EV is 1.5% of 2020 sales – 8.5% by. 2025), which equals to an expected CAGR of 55% (based on sales in key markets: U.S, Europe, China, Japan & South Korea). Source: [Microvast investors presentation](https://microvast.com/app/uploads/2021/07/investor-presentation.pdf).
 
-**VI. Connections: It’s all about who you know**
+Ø There is a profound energy transition toward renewable energy driven by governmental policies that are synchronized for the first time, according to Frederique Carrier in the [RBC Global insight May 2021](https://www.rbcinsight.com/WM/Share/ResearchViewer/?SSS_550F5749FFF0E40F2A81B69264610173).
 
-I believe Proterras connections are **unparalleled** by any company and have established them as a preeminent force in both the **business and political world** that most other companies would be hard pressed to match. I won’t go through all of them, but to highlight a few:
+o The European Green Deal refocused the EU’s COVID-19 stimulus package onto renewables -charging infrastructure, power generation, and green hydrogen projects (allocating up to $600 billion to green projects).
 
-Jack Allen: Chief Executive Officer and Board Chairman
+o China’s 14th Five-Year Plan called for electric vehicles to constitute 20 percent of overall new car sales in China by 2021 from just 5% now (spending up to $1.5 trillion).
 
-* Over three decades of experience in the driving core businesses at Navistar International Corporation (**one of the largest trucking companies in the world**) serving as Executive Vice President and Chief Operating Officer President of their North America truck and parts division, President of Navistar’s engine group, and has also has served as Vice President and General Manager of the company’s parts organization.
+o Joe Biden won the U.S presidential election with a sweeping infrastructure program (up to $2 trillion).
 
-Jennifer Granholm: Former Proterra board member (resigned to take cabinet job)
+o Microvast is well diversified in these three growing markets with its biggest factory in China (1.72MM sq.ft.), one in Germany (170K sq.ft.), and another one in production in the United States (577K sq.ft., expected to start production in 2022).
 
-* Current **Secretary of Energy** for Biden admin (the DoE is responsible for dealing out loans, contracts, and grants relating to electric busses and other vehicles.)
-* CNN political contributor (media connections)
-* Former Michigan Governor (deep ties with auto industry and championed auto bailout in 2008)
+\- According to Shelby Tucker, RBC Capital Markets, LLC Utilities Analyst, the global market for batteries has the potential to grow 100 times by 2050.
 
-Ryan Popple: Co-founder and Executive Director
+Also, great find by [u/Little\_Objective\_683/](https://www.reddit.com/user/Little_Objective_683/) : The U.S department of energy (DOE) asked Microvast in 2019 to build a Li-ion battery facility in the United States to fulfill Microvast's biggest order to date, which will make Microvast the largest American Li-ion Manufacturer.
 
-* **Early employee of Tesla**, served as senior director of finance with a focus on strategic planning, technology cost reduction and corporate finance.
+&#x200B;
 
-Dustin Grace: Chief Technology Officer
+https://preview.redd.it/7n6py2q11qf71.jpg?width=315&format=pjpg&auto=webp&s=3e40ba583ed4d5027fcb52d24d696a9eda469102
 
-* Nine years of powertrain development expertise from **Tesla Motors**
-* Worked R&D at Honda for four years.
+**Global market presence**
 
-Josh Ensign: Chief Operating Officer
+After primarily being focused on the PRC and Asia-Pacific regions, they are expanding their presence and product promotion to Europe and the United States to capitalize on the rapidly growing electrification markets. In 2021, they will be launching a marketing campaign to introduce Microvast to more potential customers in regions outside the Asia Pacific region and adding more headcounts to support business development ([source: Sec.gov; DEF14 form](https://sec.report/Document/0001213900-21-035581/defm14a_tuscanholdings.htm)).
 
-* Vice President of Manufacturing at **Tesla Motors**
-* Led global operations in Honeywell International’s automotive and aerospace businesses
+The European market presents enormous growth opportunities for electric vehicles, driven by higher emission standards, reduced total cost of ownership compared to gas-based combustion engines, and growing environmental awareness. In the United States, they believe a new political administration is likely to push the electrification revolution through regulation. In pursuing contract opportunities with industry-leading companies in the United States, they have seen how their potential customers recognize the lower total cost of ownership for commercial vehicles and are seeking alternative forms of energy for energy storage applications.
 
-Jochen Goetz: Board member
+As they expand their presence globally, they will continue to invest in their existing partnerships in the PRC and the Asia Pacific region and continue to grow their business there.
 
-* 30 years experience and currently serving as Head of Finance & Controlling at **Daimler Trucks & Buses**
-* Lead positions at Mercedes-Benz Trucks, Powertrain, and Daimler Trucks North America divisions. He was the head of Planning and Reporting for **Mercedes-Benz Cars** and the Daimler Group. Since April 2016, Goetz has served on the board of directors of Mitsubishi Fuso Truck and Bus Corporation.
+&#x200B;
 
-Audrey Lee: Director of Arclight (entity that took Proterra public)
+https://preview.redd.it/00irgk431qf71.png?width=468&format=png&auto=webp&s=49bb262a01b29c15a45b58813e286e382434220e
 
-* Clean Energy for Biden co-founder. This council has been described as Biden's **bridge to the private green energy sector**, and has undoubtedly been the driving force behind Bides tour of Proterra and continued close cooperation between the company and government contacts.
+\- Revenues in Europe decreased by about 22% while Revenues in PRC increased by more than 260%
 
-In addition to all this, Proterra has also hired two Obama-Biden white house officials to lobby the government on Proterras behalf: Pete Gould who was associate director of government affairs for the Department of Transportation, and Christine Turner who held numerous trade-related positions throughout the administration, including on the White House National Security Council. Their lobby firm is also helmed by Brandon Hurlbut, who was chief of staff at the Department of Energy, a top energy adviser to Obama at the White House, and co-chaired Clean Energy for Biden.
+\- I believe the decrease in Europe is temporary and was caused by the pandemic, since it affected the whole industry, as Panasonic mentioned in their latest earnings report. and with the new factory in Germany, it will become more convenient for European companies to try and buy Microvast’s products. According to the website [iea.org](https://www.iea.org/), new electric car registrations were about 3 million globally in 2020 and for the first time, Europe led with 1.4 million new registrations followed by China with 1.2 million and the United States with 295 000 new electric cars.
 
-And lastly, notable investors in Proterra include the Generation Investment Management, (a fund partly managed by **Al Gore**), Tao Capital Partners (run by the Democratic megadoner, including the current governor of Illinois, Pritzkers clan), and BlackRock (which **current National Economic Council Director Brian Deese** previously worked at and who also just so happened to join Biden for his Proterra factory tour.)
+**Bear Case**
 
-Safe to stay, Proterras leadership and connections are absolutely stacked with heavy hitters in the electric battery implementation sector, trucking and vehicle development industry, and in the highest echelons of our government. I have personally never seen a company so well managed with experienced professionals that is as tightly ensconced with government officials as this one. In fact, these connections make Proterra resemble Lockheed Martin or Boeing more so than just your average bus manufacturer.
+I could not find solid bear cases anywhere on Microvast other than “it’s a Chinese company, stay away” or “insiders are dumping shares on you, get out”.
 
-And when those billions of dollars start being dispersed from the Infrastructure Bill, it will be these connections, connections none of Proterras competitors can boast of, that will make a key difference in levels of funding and access to further opportunities.
+Let’s talk about the latter quickly. As found on [the sec.gov DEF14 filing for THCB](https://sec.report/Document/0001213900-21-035581/defm14a_tuscanholdings.htm) (SPAC that merged with Microvast),
 
-**VII. The Plunge:**
+“Subject to certain exceptions, the Registration Rights and Lock-Up Agreement further provides (1) Wu will be subject to a lock-up of one year with respect to 25% of his shares and a lock-up of two years for the remaining 75% of his shares, provided that, with respect to the 25% of his shares subject to the one-year lock-up, he can sell those shares if the shares trade at $15.00 or above for 20 days in any 30-day period and (2) the Microvast equity holders other than Wu are subject to a six-month lock-up. The Registration Rights and Lock-Up Agreement further provides that the shares owned by the Sponsor Group will be subject to a lock-up. Specifically, with respect to 75% of the shares owned by the Sponsor Group, (a) 2/3rds of such shares are subject to a one-year lock-up unless the shares trade at $12.50 or above for any 20 trading days within a 30-trading day period and (b) the remaining 1/3rd of such shares are subject to a one-year lock-up. With respect to the remaining 25% of the shares owned by the Sponsor Group, (a) 50% of such shares are locked-up until the later of the one-year anniversary of the Closing and the date on which the shares trade at $12.00 or above for any 20 trading days within a 30-trading day period, (b) the remaining 50% of such shares are locked-up until the later of the one-year anniversary of the Closing and the date on which the shares trade at $15.00 or above for any 20 trading days within a 30-trading day period and (c) all of such shares are subject to forfeiture if such trading targets are not met by the fifth anniversary of the Closing.”.
 
-Despite all this though, Proterra stock has cratered almost 40% the last month.
+In other words, insiders are not “dumping shares on us” at a price of about $8 (now $10) because of their lock-up agreement.
 
-Why? There are four primary reasons for this.
+Should you fear Microvast because it is a Chinese company? Perma bulls will tell you it is not a Chinese company as it is headquartered and founded in Houston, Texas. In reality, it really is a Chinese battery maker coming public through an American SPAC, [according to Dana Blankenhorn](https://www.nasdaq.com/articles/tuscan-holdings-is-gaining-traction-but-where-is-microvast-coming-from-2021-02-10) (let's not argue about this fellow retards, it doesn't really matter; China is years ahead of the U.S in EV). If you were on vacation the past couple of weeks, here’s what happened with the Chinese stocks:
 
-Pipe dumping
+\- A crackdown on education has spread to Chinese tech stocks and the whole Chinese market (MSCI China index delivered negative returns of -14% in July).
 
-* Pipe stands for Private Investment in Public Equity, and essentially means that after a company files an S-1, the lockup period ends and these investors are free to sell their shares.
-* Proterra filed its S-1 around July 12th and the share price quickly started sliding downward.
-* While PIPE investors chose to capture a 70% profit in the sixth months, this does not reflect a wider feeling about the future prospects of the company.
-* As of now the PIPE selling is over and the stock just needs something to juice it back up into a positive direction (something like, idk, billions of new funding suddenly becoming available)
+\- Investors fear the unpredictability of the Chinese government, which could explain the 40% drop in MVST share price in a month.
 
-Spac name being tarnished
+So, the question is, should you be greedy when others are fearful as Warren Buffet said? Or should you panic sell after a 40% drop in a month?
 
-* Proterra went public via a special purpose acquisition company this year, and thus is often associated with other companies that went public through a SPAC
-* SPAC companies like Lordstown have been a fiasco, and Nikola,[ well we all know how that is turning out](https://www.reuters.com/business/autos-transportation/us-charges-nikola-founder-trevor-milton-with-lying-investors-2021-07-29/).
-* This has really put a damper on any company even remotely associated in this space, and similar to Microvast, Proterra seems to be getting lumped in with more vaporware companies.
+Here’s what UBS Chief Investment Officer Mark Haefel had to say on China:
 
-Too many ipos
+“For the tech sector, Beijing remains focused on its long-term goal of technological self-sufficiency and leadership on the global stage. We believe the regulatory risk will continue in the socially sensitive sectors of property. And healthcare, we don’t expect the government will push these sectors to non-profit either”. Another important part that Mark Haefel discussed is directly related to Microvast: “Offshore equities are pricing in a higher risk premium. This is likely to linger in the near term. However, we think Future returns will be largely driven by earnings growth (mainly from cyclical and value sectors) this year. We recommend investors cherry-pick stocks across sectors that are supported by earnings growth but have limited regulatory risk exposure. Our preferred sectors include consumer durables and services, energy, and Greentech.”
 
-* An incredible amount of companies are going public at the same time, and investors just can’t seem to settle on which ones to invest in. There have been[ over 400 ipos this year alone](https://www.statista.com/statistics/270290/number-of-ipos-in-the-us-since-1999/#:~:text=In%202020%2C%20there%20were%20407,as%20in%20the%20previous%20year.), twice as much as last year, and there's still five more months to go before the year ends.
-* “When you see a lot of companies coming public ... then that is a very bad sign for the averages because it means the stock market is getting flooded with new supply,”[ Mad Money](http://www.cnbc.com/mad-money/) host Jim Cramer explains.
-* Supply exceeds demand = low prices and dispersed attention
-* Big advantage of Tesla was that they were the only “shiny object” for EV on the market for a long time, which consolidated all interested in this sector into one single company. [That's no longer the case](https://www.washingtonpost.com/technology/2019/06/14/tesla-wants-everyone-drive-an-electric-car-now-it-risks-becoming-niche-brand/).
+In the short term, who knows where the stock price can go, however, if Microvast delivers on their promises, we will most likely see abnormal returns. I understand the risk of companies operating in China, but what I particularly like about Microvast is that they are diversifying away from China with their factory in Germany and one incoming in the United States, they will be on three different continents, which is worth something to my eyes.
 
-Bad Press
+Let’s summarize what has been said before with a SWOT Analysis
 
-* There were a few articles either released or dug up last week that questioned the reliability of Proterras products. I won’t go too far into the specific issues though, as most if not all problems listed were with Proterras 1st generation busses. They are currently on their 5th generation of electric busses.
-* There was a singular issue with the bus chassis showing cracking in Philadelphia, but these issues are superficial and specific to one custom made model on a specific route that [does not affect Proterras overall designs](https://delawarebusinessnow.com/2021/07/dart-not-seeing-the-problems-that-idled-septas-electric-buses/).
-* Additionally, much of this bad press has spawned from conservative media sources, due to the fact that this is such a closely Democrat associated company.
+SWOT AnalysisStrengths:
 
-While detrimental to the stock in the very short run, these issues are thankfully not due to any inherent weakness of Proterras product or marketing strategy and thus, do not represent an undue threat to its future potential. I fully believe Proterra will rebound soon as it gets more attention and mainstream name recognition.
+Ø Unlike competitors who redesign existing batteries to fit them in EVs, Microvast has designed its batteries from the ground up specifically to address the problems facing EV batteries. Every step of the manufacturing process is controlled by Microvast, leading to higher quality and lower-cost products.
 
-As for the specific issues raised by the conservative articles, [here is Proterras response](https://www.proterra.com/americas-transition-to-electric-buses/), as they can give a better rundown on how meritless these articles are then I can.
+Ø Researchers from Microvast have developed a novel high-power battery technology that has a higher energy density, longer life, and safer operation than any other state-of-the-art lithium-ion battery on the market. The system is built from four breakthrough technologies and could potentially be used in plug-in hybrid electric vehicle and fully electric vehicle markets. Because of its many benefits, the technology has the potential to also enhance the performance of lithium-ion batteries used in cell phones and other smaller-scale applications, as well as in electric grid applications.
 
-**VIII. Financials: Significant Numbers**
+Ø $ 1.5B total contracted revenue in Pipeline through 2027, which will help Microvast to grow revenue at an expected CAGR of 87% from 2020-2025E
 
-Here's a link to Proterras[ full financial breakdown](https://www.proterra.com/wp-content/uploads/2021/01/ACTC-Proterra-Investor-Presentation.pdf): I won’t put it all here but here are some highlights.
+Weaknesses:
 
-* Current market cap: $2.22B
-* Current stock price: 10.70
-* 2017-2025 CAGR is 50%
-* 800m cash on hand
-* No debt
+Ø Being a “Chinese company”, U.S investors might not like it as much as a U.S company.
 
-Projections:
+Ø Portfolio Managers being scared of investing in SPACs or even the “deSPACs phase “after the SPACs controversy in the beginning of 2021.
 
-* 2021E Rev: $246M
-* 2022E Rev: $439M
-* 2023E Rev: $838M
-* 2025E Rev: $2566M
+Opportunities:
 
-The biggest thing to note here is that these projections were done before the infrastructure was even beginning to be considered, which means **it is highly unlikely that the insane amount of funds in the current Infrastructure Bill were factored into specifically in the early year projections**. The implementation of the bill will juice these projections to a degree I don’t think anyone can really expect.
+Ø There is three substantial untapped markets that Microvast plans on expanding their products offering to; Passenger Vehicles (PV), Energy Storage Solutions (ESS), and Battery Components (Consumer Electronics), which could expand their TAM by $45B.
 
-I do know for a fact that the partnerships announced in the last few months are not currently priced in, as they constitute more of the 2023-25 revenue. These moves being made recently, such as the partnership with Rouch and Taylor Machine Works  Inc. (**a partnership which by the way Proterra stole from BYD**) this early, will most likely move the projections up a bit.
+Ø 2021: Begin Battery Production in the area of Berlin, Germany
 
-Part of the reason I won’t go too far into financials is that the passage of the Infrastructure Bill in its current form will **flip Proterras potential on its head.** It's already been steaming full ahead but new funds like this will of course change things.
+Ø 2022: Begin Battery Production in Clarksville, TN
 
-The Infrastructure Bill passing and their first quarterly report as a public company on **August 11** is the prime catalyst for what I see as whether the potential for this company is real or not. August 11th will really give us a good look into whether the company is holding up to its projections and how the financials are looking going forward. More news on their battery factory development and announcements on more corporate/government partnerships are all possible, with the forward guidance going to be of critical importance.
+Threats:
 
-Now Citigroup does have a **PT of $16** for them, but as of yet the stock hasn’t gained much attention from Wall Street. I believe this is due to the fact hedge funds are **too busy looking at where the puck is, not where it's going to be**. Very similar to how the Morgan Stanley analyst for some idiotic reason only used Microvasts current factory output stead of including their factories under construction, most hedge funds are **too caught up in Proterras past that they are incapable of seeing where it is going.** The Infrastructure bill will supercharge Proterras bus business while Proterras Powered market strategy and big name partners have the ability to ride the infrastructure wave into unimaginable heights, a position few other companies are in a similar position to do so clearly and obviously.
+Ø Susceptible to disruption, many companies are trying to improve EV batteries and might not need Microvast in the foreseeable future.
 
-**IX. Growth and Long Term Strategy**
+Ø The Prices of Lithium-ion batteries have been plummeting over the past decade, and that trend is expected to continue in the coming years, which could impact Microvast’s profit margin.
 
-Proterra currently has a battery and transit factory in Industry, California and another transit facility in Greenville, South Carolina. Backlog dating to their initial January 2021 presentation will keep their factories going until early 2022. This does not take into account the multiple contracts and research partnerships they have announced since.
+Ø Other companies are working hard on lowering EV battery costs, one or more of them could make a battery substantially cheaper than Microvast.
 
-They currently have capacity to **produce about 680 busses per year** and are aggressively working to hire more technicians and engineers to reach this potential as soon as possible. They’re[ recruiting like crazy](https://recruiting2.ultipro.com/PRO1047PROTI/JobBoard/e33a1c2e-8d7a-4008-851e-f7bd1d7bf788/?q=&o=postedDateDesc&w=&wc=&we=&wpst=), with many positions being graveyard shifts, which reinforces their past statements of moving to a system where they’re pushing out busses 24/7.
+To conclude, I believe the growth opportunity in the commercial EV battery sector is impressive as well as somewhat predictable as it makes sense for companies to go electric economically, financially, and environmentally. Microvast is well-positioned to capture a great portion of the total addressable market of $30 Bn and has the opportunity to dramatically increase their TAM if they expand their business to consumer electronics, passenger EV batteries, and energy storage solutions market. The fact that Microvast went public through a SPAC merger less than a week ago gives retail investors an edge to generate alpha as analysts have not started to cover the company yet. Microvast also fits the criteria of sustainable investing, a trend that is not about to die anytime soon. Overall, Microvast has everything it needs to become a successful company; it now just needs to deliver on its promises.
 
-This will allow Proterra to capture even more market share of emerging electric sectors while maintaining their dominance in the electric bus field, of which they already have **50% US market share.**
+So, the real question is: does the upside outweigh the downside?
 
-Speaking of their busses, **75% of total materials in the busses are sourced from the US**. This is significant as the Biden administration has[ just recently announced a proposal](https://www.detroitnews.com/story/business/autos/2021/07/28/biden-moves-increase-buy-american-requirement-75-2029/5395360001/) to raise the Buy American standard immediately from its current level of 55% to 60%, to 65% by 2024, and to 75% by 2029. The fact that Proterra is already operating at the 2029 level means that this will not affect their financials but will potentially cause disruption in other manufactures, forcing them to revise their financial forecasts.
+You tell me.
 
-**How are they trying to Grow?**
+\*\*Disclaimer
 
-Proterra, which went public just recently like Microvast, is using their current war chest of about $800 million to grow in three ways: **Research and development, Growth Capex, and Domestic Cell Capacity and co-investment**. R&D on battery tech and creating more efficient systems is easily the most important direction Proterra needs to double down on, so it's good to see them devoting significant resources (200-300m) to further developing their battery designs and energy storage devices. And as I’ve already said, developing a strong, steady, and hopefully fully in-house battery production chain will be key to bringing Proterra to the next level, an objective they seem to already acknowledge and are moving forward to.
+I own shares and warrants of MVST.
 
-From this, it's helpful to view Proterra as not an electric bus company that does research to further that goal, but more of a research company that happens to build very good electric busses in order to support more research. **43% of their workforce is apprised of engineers and technicians and it shows**. This research will assist in continuing to streamline their production and build on their already lowering cost, such as how the **cost of batteries has fallen 85% since 2010**. The research has also instigated other developments that make their busses world leading in terms of technology and also in consistently[ breaking records](https://www.greentechmedia.com/articles/read/proterras-electric-bus-breaks-a-world-record-for-range).
+I am not a financial advisor, this should not be used as financial advice.
 
-Proterra is very forward thinking and is consistently looking for new ways to grow and expand. The **TAM of the electric commercial vehicle market is 260 billion** and the **charging market is 37 billion**, and Proterra so far hasn’t even come close to scratching the surface of what they can do. Construction diggers, dumptrucks, airport shuttles, forklifts, flatbeds, bucket trucks, cement mixers, mining transports and so much more are all prime targets for electrification and there just straight up isn't any other companies that are moving as aggressively as Proterra to capture this market. Leveraging their connections, reputation and capital derived from their eclectic transit bus foundation, Proterra can **outmaneuver** and **outcompete** any single competitor in a particular commercial vehicle sector through their holistic end-to-end full cycle product catalogue.
-
-And when I say Proterra is forward thinking, I mean really forward thinking. Back in 2017 (when most other bus makers were just beginning to shift to electric or hadn’t even made a prototype yet) Proterra initiated the [world's first autonomous bus program](https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/article/21073560/autonomous-vehicle-technology-preparing-for-the-next-wave-of-innovation-in-public-transit). This tech will eventually allow them to increase safety, lower costs, and make every step of public bus transit more efficient. The fact that they are already actively working on such a revolutionary concept when most other players are still struggling to go all-electric demonstrates that Proterra not only thinks years ahead, but acts as the market leader in ebus technology
-
-And besides AI, Proterra also has their eye on another pretty futuristic goal, going so far as to engage in talks with the Pentagon about [​​electrifying military vehicles](https://freebeacon.com/biden-administration/proterra-founder-gets-one-on-one-interview-with-biden-pentagon-official/). Non-frontline vehicles, such as construction trucks, diggers and movers used by the Army's Corps of Engineers for domestic American infrastructure projects don’t run the risk of having to compensate for battlefield conditions and are **prime targets for electrification**. When these vehicles inevitably go electric, the fact that Proterra is already having these conversations with DoD officials puts them in a prime spot to secure future contracts. It also doesn’t hurt that Proterra has already partnered with Komatsu (who not only build construction equipment but has **years of experience building military vehicles**), its co-founder Ryan Popple is **ex-military**, AND that CEO Jack Allen formerly helmed Navistar who just so happens to **make a ton of vehicles for the military**. If any company is going to get military contracts, these guys are right up there able to compete with legacy players like Oshkosh, except Proterra actually has the required electric experience and is ready to hit the ground running.
-
-And of course, Proterra is also looking towards the environmental sustainability of its product down the line. This past spring, Proterra partnered with Nevada based Redwood Materials, created by **Tesla co-founder JB Straudel** to recycle its used batteries, [becoming the first publicly announced partnership between Redwood and an automaker](https://techcrunch.com/2021/03/29/recycling-startup-redwood-materials-is-partnering-with-proterra-to-supply-ev-battery-materials-sustainably/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJzLFjFV-sVe4ZnZ_436pmkCz6pU7XtluBu607V1mJrh4rnlhtJbbnivUORpzzNYAeTn6vntRnjUdAatXHojjJRjae0WLrU7xigLai7ki40aUFuEGi5Ce2cAm361wdTyI79zueSnH2j6NC8zUd8Jyi5UMkUSfXPpUive2TMSYv5x). This not only further reinforces their Tesla connection, but also again demonstrates how Proterra is looking years down the road to ensure the wild profitability and success of their company.
-
-**X. Conclusion:**
-
-There is a huge gap in the EV market as well as in how we are strategizing to fight climate change, and Proterra is the only company that can meet both needs simultaneously. While most attention is being paid to the potential of the consumer electric vehicle space, few are considering just how we are going to electrify all those other vehicles that make up our society. You can’t just take a battery built for a sedan and stick it into a bus or a tractor and call it a day. The process takes time, money, failures, and, yes, even more time.
-
-While the legacy automakers are each racing to develop their own battery tech and specific innovative technology for consumer cars, Proterra is positioning itself to leverage its almost 2 decades of battery research and powertrain experience to partner with almost every commercial vehicle sector to provide the real world tested technology they need before they even have a thought to develop it themselves. The potential of Proterra is absolutely massive and so far, few have truly realized this.
-
-tldr: Proterra has been able to leverage their position as an early pioneer in the electric transit bus market into partnering with the leading companies in each commercial vehicle sector -Thomas built school busses, Daimler stepvans, etc- to circumvent trying to outcompete legacy players and instead combine their technical, patented breakthrough technology with well established reputations to become the #1 commercial vehicle developer over the next few years. Coinciding with the release of the Infrastructure Bill, they are set to dominate this market and become a behemoth of industry with billions of dollars in revenue in only a few short years.
-
-Positions: August, September, and November 12.5 and 15 calls, as well as 300 PTRAW, and adding more every paycheck I get. I am not a financial advisor.
+\[1\] Wedbush presentation 4/8/2021
