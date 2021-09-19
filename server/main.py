@@ -57,7 +57,7 @@ def addCompany():
                 nlp.learn_text(data['name'])
                 results['stock-status'] = 'Stock added'
             else:
-                results['stock-status'] = 'Stock does not exist'
+                results['stock-status'] = 0
     return jsonify(results)
 
 @app.route('/query-nlp', methods=['GET'])
