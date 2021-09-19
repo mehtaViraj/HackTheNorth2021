@@ -100,6 +100,7 @@ def lastAll():
             ref = db.reference('/stocks/'+request.args.get('stock').upper()+'/history/'+i)
             values_all = ref.get()
             results[i] = newestValueFinder(values_all)
+        results['']
     else:
         bad_request(400)
     return jsonify(results)

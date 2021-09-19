@@ -36,4 +36,4 @@ def check(text):
     else:
         return('Do not invest')
 
-#print(check(get_text('AMZN')))
+print(check(get_text('AMZN')))
